@@ -48,31 +48,70 @@ Have you used any WYSIWYG Editors such as:
 
 ### Content for the Web
 
-Creating content for the web is not the same as word processing nor desktop publishing, since there is a difference in how websites display content versus the printed page. A printed page has fixed dimensions and a fixed layout, so that the content is expected to look the same on any screen and in any printed version, such as with a document in Adobe PDF format. Websites, on the other hand, can have different layouts on different devices, and this is inherent in the Hypertext Markup Language (HTML) format used for web content. In the early days of the web, the people who built the Web devoted a lot of effort into mimicking precise layouts that resembled printed pages, even though not all systems could be accommodated. Now with the proliferation of mobile devices, it's neither possible nor advantageous to mimic the printed page on the web. Mobile-friendly methods like Responsive Web Design use fluid and flexible layout methods for optimal viewing and user experience to make it easy to navigate and read web content with a minimum of resizing, panning, and scrolling on most any device. The more you try to manually control the layout of a web page in the editor, the more likely that is to fail on some devices. WordPress themes use Cascading Style Sheets (CSS) that automatically format the HTML used for the layout of templates and content. So, understand that while you can master the structure and format of web content, the overall design of the website is controlled by the theme which handles much of the basic formatting for all content on the website.
+Creating content for the web is not the same as word processing nor desktop publishing, since there is a difference in how websites display content versus the printed page. A printed page has fixed dimensions and a fixed layout, so that the content is expected to look the same on any screen and in any printed version, such as with a document in Adobe PDF format. Websites, on the other hand, can have different layouts on different devices, and this is inherent in the Hypertext Markup Language (HTML) format used for web content. In the early days of the web, the people who built the Web devoted a lot of effort into mimicking precise layouts that resembled printed pages, even though not all systems could be accommodated. Now with the proliferation of mobile devices, it's neither possible nor advantageous to mimic the printed page on the web. 
+
+Mobile-friendly methods like Responsive Web Design use fluid and flexible layout methods for optimal viewing and user experience to make it easy to navigate and read web content with a minimum of resizing, panning, and scrolling on most any device. The more you try to manually control the layout of a web page in the editor, the more likely that is to fail on some devices. 
+
+WordPress themes use Cascading Style Sheets (CSS) that automatically format the HTML used for the layout of templates and content. 
+
+So, understand that while you can master the structure and format of web content, the overall design of the website is controlled by the theme which handles much of the basic formatting for all content on the website.
 
 ### Using the Content Editor
 
-The content editor is available when editing a post or page. In the backend administrative Dashboard, select Posts or Pages and then click on a Title or hover or an item and click on "Edit." The content editor may be available for other content items, such as custom post types, but that depends upon the theme or developer customization. In most cases you select the text to style and then click the appropriate button on the toolbar to apply the style. Some text operations only work properly if there is **a paragraph break both above and below** the text being styled. These are called block elements and they include: paragraphs, headings, bulleted lists, numbered lists, horizontal lines, and blockquotes. Knowing how to work with block elements makes for a much more satisfying experience when using the editor. For example, for paragraph alignment your cursor simply needs to be somewhere in the paragraph that is to be aligned. The edits you make to your text only appear on your site after you click the "Update" button. Also, the editor typically displays generic formatting, while the frontend of the website will apply the full formatting of the theme. [tip]To check the appearance of changes without publishing them, click the "Preview Changes" button. This will open another browser tab to display what your page or post will look like on the site.[/tip]
+The content editor is available when editing a post or page. In the backend administrative Dashboard, select Posts or Pages and then click on a Title or hover or an item and click on "Edit." The content editor may be available for other content items, such as custom post types, but that depends upon the theme or developer customization. 
+
+In most cases you select the text to style and then click the appropriate button on the toolbar to apply the style. Some text operations only work properly if there is **a paragraph break both above and below** the text being styled. These are called block elements and they include: paragraphs, headings, bulleted lists, numbered lists, horizontal lines, and blockquotes. Knowing how to work with block elements makes for a much more satisfying experience when using the editor. For example, for paragraph alignment your cursor simply needs to be somewhere in the paragraph that is to be aligned. 
+
+The edits you make to your text only appear on your site after you click the "Update" button. Also, the editor typically displays generic formatting, while the frontend of the website will apply the full formatting of the theme. 
+
+> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) To check the appearance of changes without publishing them, click the "Preview Changes" button. This will open another browser tab to display what your page or post will look like on the site.
 
 #### Toolbar
 
-When you open a page or post to edit it, the basic WYSIWYG toolbar appears at the top of the editing panel. By default the editor only displays a single row of formatting buttons. You can use the Toolbar Toggle button, also called the _kitchen sink_, to make a second row of  toolbar buttons available. ![content-editor-toolbar-toggle](https://make.wordpress.org/training/files/2014/10/content-editor-toolbar-toggle.png) With two rows of formatting buttons on the toolbar, you can toggle back to a single row by clicking the Toolbar Toggle button. [![content-editor-toolbar-all](https://make.wordpress.org/training/files/2014/10/content-editor-toolbar-all-1.png)](https://make.wordpress.org/training/files/2014/10/content-editor-toolbar-all-1.png)
+When you open a page or post to edit it, the basic WYSIWYG toolbar appears at the top of the editing panel. By default the editor only displays a single row of formatting buttons. You can use the Toolbar Toggle button, also called the _kitchen sink_, to make a second row of  toolbar buttons available. 
+
+![content-editor-toolbar-toggle](https://make.wordpress.org/training/files/2014/10/content-editor-toolbar-toggle.png) 
+
+With two rows of formatting buttons on the toolbar, you can toggle back to a single row by clicking the Toolbar Toggle button.
+
+![content-editor-toolbar-all](https://make.wordpress.org/training/files/2014/10/content-editor-toolbar-all-1.png)](https://make.wordpress.org/training/files/2014/10/content-editor-toolbar-all-1.png)
 
 ### Screen Modes
 
-The editor has four modes of viewing available. ![content-editor-view-modes](https://make.wordpress.org/training/files/2014/10/content-editor-view-modes.png) **Visual**: The default view that shows a generic WYSIWYG version of the content **Text**: HTML version of the content, if you need to manually adjust the HTML tags **Distraction-free**: Hides the Dashboard menu and meta boxes, also called _Zen_ mode **Preview**: Front-end version of the content that applies the full theme formatting for the website [alert]Note that the HTML shown in the text mode view is limited and does not show how WordPress will apply HTML for the published content. Paragraph tags are automatically inserted where there are blank lines between content blocks, special characters may be converted to character entity codes, and other rules are applied including capturing and removing unnecessary or potentially malicious HTML code.[/alert]
+The editor has four modes of viewing available. 
+![content-editor-view-modes](https://make.wordpress.org/training/files/2014/10/content-editor-view-modes.png) 
+
+**Visual**: The default view that shows a generic WYSIWYG version of the content **Text**: HTML version of the content, if you need to manually adjust the HTML tags 
+
+**Distraction-free**: Hides the Dashboard menu and meta boxes, also called _Zen_ mode 
+
+**Preview**: Front-end version of the content that applies the full theme formatting for the website 
+
+> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-warning.png) Note that the HTML shown in the text mode view is limited and does not show how WordPress will apply HTML for the published content. Paragraph tags are automatically inserted where there are blank lines between content blocks, special characters may be converted to character entity codes, and other rules are applied including capturing and removing unnecessary or potentially malicious HTML code.
 
 ### Text Styles
 
-The first three buttons in the toolbar are basic styles for the copy in your post. You see these style options in many word processing programs and they can be used on individual words, entire sentences, complete paragraphs, or an entire document. ![common text style buttons in WordPress](https://make.wordpress.org/training/files/2014/10/Text-Styles1.png) **Bold**: **Bolds text** (select the text and click the Bold button -- or press cmd+b (MAC), ctl+b (PC) on your keyboard) **Italic**: _Italicizes text _(select the text and click the Italic button -- or press cmd+i (MAC), ctl+i (PC) on your keyboard) You can also apply both_ **bold and italic**_ styles to the same text by selecting the text and clicking both the bold and italic buttons. **Strike-through**: <del>Draws a strikethrough line over the text</del> (select the text and click the Strikethrough button -- or press shift+alt+d on your keyboard)
+The first three buttons in the toolbar are basic styles for the copy in your post. You see these style options in many word processing programs and they can be used on individual words, entire sentences, complete paragraphs, or an entire document. 
+
+![common text style buttons in WordPress](https://make.wordpress.org/training/files/2014/10/Text-Styles1.png) 
+
+**Bold**: **Bolds text** (select the text and click the Bold button -- or press cmd+b (MAC), ctl+b (PC) on your keyboard) 
+
+**Italic**: _Italicizes text _(select the text and click the Italic button -- or press cmd+i (MAC), ctl+i (PC) on your keyboard) You can also apply both_ **bold and italic**_ styles to the same text by selecting the text and clicking both the bold and italic buttons. 
+
+**Strike-through**: <del>Draws a strikethrough line over the text</del> (select the text and click the Strikethrough button -- or press shift+alt+d on your keyboard)
 
 ### Text Formatting
 
-The next four buttons in the toolbar offer some formatting for block elements. Remember that most block elements start on a new line.  Make a hard return by pressing the return or enter key before the sentence you want to format, or select an existing paragraph to demonstrate each one. ![Text Formatting](https://make.wordpress.org/training/files/2014/10/Text-Formatting.png)
+The next four buttons in the toolbar offer some formatting for block elements. Remember that most block elements start on a new line.  Make a hard return by pressing the return or enter key before the sentence you want to format, or select an existing paragraph to demonstrate each one. 
 
-#### **Bulleted (un-ordered) list**
+![Text Formatting](https://make.wordpress.org/training/files/2014/10/Text-Formatting.png)
 
-To create a bulleted list, first create a plain text list on any topic. Select all of the items in the list and click the bulleted list button. To insert a new list item between 2 other list items, place your cursor just after the last character of the list item that will precede the new item and press return or enter on your keyboard.  A new bullet will appear and you can type or paste the new item. To make a sub-list (nested list), place your cursor after the last character of the list item that will start the sub-list and press return on your keyboard.  Then click the Increase Indent button (in the bottom set of buttons on your toolbar) to start your sub-list.  Notice that the bullets in front of to the sub-list items look different. You can also make sub-lists below your sub-lists, but the bullets will start to all look the same.
+#### Bulleted (un-ordered) list
+
+To create a bulleted list, first create a plain text list on any topic. Select all of the items in the list and click the bulleted list button. To insert a new list item between 2 other list items, place your cursor just after the last character of the list item that will precede the new item and press return or enter on your keyboard.  A new bullet will appear and you can type or paste the new item. 
+
+To make a sub-list (nested list), place your cursor after the last character of the list item that will start the sub-list and press return on your keyboard.  Then click the Increase Indent button (in the bottom set of buttons on your toolbar) to start your sub-list.  Notice that the bullets in front of to the sub-list items look different. You can also make sub-lists below your sub-lists, but the bullets will start to all look the same.
 
 *   plugins
 *   themes
@@ -93,7 +132,7 @@ See the notes about bulleted lists. The only difference is that numbers will app
 
 #### Blockquote
 
-> Calls out quoted text.  The graphic styling of the type and quote marks can be controlled through custom CSS.  This is dependent on your theme.  Styles can be customized by editing the CSS for your theme.  In the case of this document you're reading, the quoted text is in a gray box.
+> Calls out quoted text. The graphic styling of the type and quote marks can be controlled through custom CSS.  This is dependent on your theme. Styles can be customized by editing the CSS for your theme. In the case of this document you're reading, the quoted text is in a gray box.
 
 Make a hard return above and below the text you'd like to convert to a blockquote.  Select the text and click the blockquote button.
 
@@ -105,7 +144,9 @@ To insert a horizontal line between sections of your page you can make a hard re
 
 ### Text Alignment
 
-The next three buttons in the toolbar offer alignment formatting for block elements. Remember that most block elements start on a new line.  Select an existing paragraph to demonstrate each one. ![Text Alignment](https://make.wordpress.org/training/files/2014/10/Text-Alignment.png)
+The next three buttons in the toolbar offer alignment formatting for block elements. Remember that most block elements start on a new line.  Select an existing paragraph to demonstrate each one. 
+
+![Text Alignment](https://make.wordpress.org/training/files/2014/10/Text-Alignment.png)
 
 #### Align Left
 
@@ -113,21 +154,29 @@ This text is left-aligned.  Left-align will affect the entire paragraph.  Sinc
 
 #### Align Center
 
-This text is Center-aligned.  Center-align will affect the entire paragraph. Since a paragraph is a block element, it needs to have a hard return both above and below it.
+<span style="text-align:center">This text is Center-aligned.  Center-align will affect the entire paragraph. Since a paragraph is a block element, it needs to have a hard return both above and below it.
 
 #### Align Right
 
-This text is right-aligned.  Right-align will affect the entire paragraph. Since a paragraph is a block element, it needs to have a hard return both above and below it.
+<span style="text-align:right">This text is right-aligned.  Right-align will affect the entire paragraph. Since a paragraph is a block element, it needs to have a hard return both above and below it.</span>
 
 Place your cursor anywhere in a paragraph and click one of the align buttons to get the desired result. You can select multiple paragraphs and then click one paragraph align button to apply that alignment to all of the paragraphs selected.
 
 ### Linking to Content
 
-When writing posts, sometimes it's necessary to create a link to outside content or other content on your site. Sometimes the way the browser behaves (opens a new window or a new tab) is dependent on the way the viewer has set their browser. If you want to have Read More link to take visitors to a full blog post, there is also button for that. ![Linking to Content](https://make.wordpress.org/training/files/2014/10/Linking-to-Content.png)
+When writing posts, sometimes it's necessary to create a link to outside content or other content on your site. Sometimes the way the browser behaves (opens a new window or a new tab) is dependent on the way the viewer has set their browser. If you want to have Read More link to take visitors to a full blog post, there is also button for that. 
+
+![Linking to Content](https://make.wordpress.org/training/files/2014/10/Linking-to-Content.png)
 
 #### Insert/edit link
 
-Select the word(s) that you'd like to link.  Click the "Insert/edit link" icon and a pop up window will appear.  There you'll be able to add a fully formed url to a page that's not on your site or a link to a page within your website.  You'll also be able to decide whether you want the link to open the page in a new browser tab or open the linked page within the same browser window. It is also possible to highlight the text you would like to link and paste the link directly over it to make an automatic link. _Examples: _ [opens the link in the same browser window](http://wordpress.org) [opens the link in a new browser window/tab](http://wordpress.org)
+Select the word(s) that you'd like to link.  Click the "Insert/edit link" icon and a pop up window will appear.  There you'll be able to add a fully formed url to a page that's not on your site or a link to a page within your website.  You'll also be able to decide whether you want the link to open the page in a new browser tab or open the linked page within the same browser window. It is also possible to highlight the text you would like to link and paste the link directly over it to make an automatic link. 
+
+_Examples: _ 
+
+[Opens the link in the same browser window](http://wordpress.org) 
+
+[Opens the link in a new browser window/tab](http://wordpress.org)
 
 #### Remove link
 
@@ -139,7 +188,13 @@ The Read More tag allow the user to determine where they would like the text on 
 
 ### Headings
 
-[tip]Headings and other advanced formatting tools appear on the second row of toolbar buttons, so be sure to toggle them on.[/tip] ![Headings](https://make.wordpress.org/training/files/2014/10/Headings.png)Heading tags are in a drop-down list in the second row of toolbar buttons. Heading tags are usually applied to short phrases or single words that organize content in an outlined format that is more readable and appealing to users. Heading tags are also important for search engines, as they indicate a high-level outline of the overall content. Heading 1 is a top-level tag in the outline of the content that is typically used for the Title of a page or post. Heading 2 is a second-level tag that can be used to denote sections of the content. Heading 3 is a third-level tag within a section that begins with a Heading 2 tag. And, this pattern continues all the way down to the lowest level with Heading 6. To practice using heading tags, open a page or post with a sizable amount of text:
+> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) Headings and other advanced formatting tools appear on the second row of toolbar buttons, so be sure to toggle them on.
+
+![Headings](https://make.wordpress.org/training/files/2014/10/Headings.png)
+
+Heading tags are in a drop-down list in the second row of toolbar buttons. Heading tags are usually applied to short phrases or single words that organize content in an outlined format that is more readable and appealing to users. Heading tags are also important for search engines, as they indicate a high-level outline of the overall content. 
+
+Heading 1 is a top-level tag in the outline of the content that is typically used for the Title of a page or post. Heading 2 is a second-level tag that can be used to denote sections of the content. Heading 3 is a third-level tag within a section that begins with a Heading 2 tag. And, this pattern continues all the way down to the lowest level with Heading 6. To practice using heading tags, open a page or post with a sizable amount of text:
 
 1.  Choose a paragraph (somewhere below the first paragraph) and think of a short phrase to introduce the content in it.
 2.  Use the enter/return key to add a blank line above the paragraph.
@@ -149,15 +204,31 @@ The Read More tag allow the user to determine where they would like the text on 
 
 ### Less Common Styles and Formats
 
-Some formatting buttons on the second row of the toolbar aren't as commonly used, but should still be familiar from standard word processing programs. ![Less Common](https://make.wordpress.org/training/files/2014/10/Less-Common.png) **Underline**: Underlines text **Justify**: Aligns text to both the left and right sides **Text Color**: Choose alternate colors for copy in a post [tip]You should generally avoid underlining text, since users have been conditioned to think that underlined text is a link that they can click to go somewhere else.[/tip]
+Some formatting buttons on the second row of the toolbar aren't as commonly used, but should still be familiar from standard word processing programs. 
+
+![Less Common](https://make.wordpress.org/training/files/2014/10/Less-Common.png) 
+
+**Underline**: Underlines text 
+
+**Justify**: Aligns text to both the left and right sides 
+
+**Text Color**: Choose alternate colors for copy in a post 
+
+> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) You should generally avoid underlining text, since users have been conditioned to think that underlined text is a link that they can click to go somewhere else.[/tip]
 
 ### Plain Text
 
-You may need to remove formatting that you've added, and sometimes you may need to remove formatting when copying and pasting content from other sources. ![Unformatting](https://make.wordpress.org/training/files/2014/10/Unformatting.png)
+You may need to remove formatting that you've added, and sometimes you may need to remove formatting when copying and pasting content from other sources. 
+
+![Unformatting](https://make.wordpress.org/training/files/2014/10/Unformatting.png)
 
 #### Paste as text
 
-When you paste text copied from other sources, you may bring in formatting with that text. WordPress can easily recognize bold, italic, paragraph alignment, and other _rich text_ formats, and can apply the proper HTML code as you paste content into the editor. However, there are many situations when excessive formatting is retained causing problems in how your content is formatted in WordPress. You can avoid copy-and-paste formatting problems by using the "Paste as text" button to toggle to plain text mode that strips out all formatting as you paste. The button is outlined with a box when activated, and when clicked again, it is toggled off with no outline. You may have to reapply bold, italic, and other formatting—but best to use the WordPress editor and your theme to control all formatting.
+When you paste text copied from other sources, you may bring in formatting with that text. WordPress can easily recognize bold, italic, paragraph alignment, and other _rich text_ formats, and can apply the proper HTML code as you paste content into the editor. However, there are many situations when excessive formatting is retained causing problems in how your content is formatted in WordPress. 
+
+You can avoid copy-and-paste formatting problems by using the "Paste as text" button to toggle to plain text mode that strips out all formatting as you paste. The button is outlined with a box when activated, and when clicked again, it is toggled off with no outline. 
+
+You may have to reapply bold, italic, and other formatting—but best to use the WordPress editor and your theme to control all formatting.
 
 #### Clear formatting
 
@@ -165,23 +236,39 @@ You can remove any formatting that you applied or that was pasted from another s
 
 ### Special Characters
 
-![Special Characters](https://make.wordpress.org/training/files/2014/10/content-editor-special-char.png) The Special Character button displays a popup window of symbols and other special characters that extend beyond what can be typed on a keyboard, such as a Copyright symbol. Hover the mouse over an item in the grid to see a large display and label on the right side. Click on the item in the grid to insert into your content. ![Special Characters window](https://make.wordpress.org/training/files/2014/10/content-editor-special-char-modal.png)
+![Special Characters](https://make.wordpress.org/training/files/2014/10/content-editor-special-char.png) 
+
+The Special Character button displays a popup window of symbols and other special characters that extend beyond what can be typed on a keyboard, such as a Copyright symbol. Hover the mouse over an item in the grid to see a large display and label on the right side. Click on the item in the grid to insert into your content. 
+
+![Special Characters window](https://make.wordpress.org/training/files/2014/10/content-editor-special-char-modal.png)
 
 ### Indents
 
 You can offset block elements, such as paragraphs, with increasing amounts of indented margin on the left side. This will indent the entire block.
 
-### ![Decrease indent and Increase indent](https://make.wordpress.org/training/files/2014/10/content-editor-indents.png)
+### Decrease Indent and Increase Indent
 
-**Increase Indent**: Adds an increment of indenting to the left side **Decrease Indent:** Removes an increment of indenting.
+![Decrease indent and Increase indent](https://make.wordpress.org/training/files/2014/10/content-editor-indents.png)
+
+**Increase Indent**: Adds an increment of indenting to the left side 
+
+**Decrease Indent:** Removes an increment of indenting.
 
 ### Undo & Redo
 
-WordPress retains the last action you performed, either typing or with the toolbar. ![content-editor-undo](https://make.wordpress.org/training/files/2014/10/content-editor-undo.png) **Undo: **Undo the last action performed. **Redo:** Redo the last action that was undone.
+WordPress retains the last action you performed, either typing or with the toolbar. 
+
+![content-editor-undo](https://make.wordpress.org/training/files/2014/10/content-editor-undo.png) 
+
+**Undo: **Undo the last action performed. 
+
+**Redo:** Redo the last action that was undone.
 
 ### Keyboard Shortcuts
 
-You can use a combination of keys to do things that normally need a mouse, trackpad, or other input device. Rather than reaching for your mouse to click on the toolbar, you can use keyboard shortcuts, which are displayed in a popup window when you click the Keyboard Shortcuts button or press shift-alt-h. ![Keyboard shortcuts](https://make.wordpress.org/training/files/2014/10/content-editor-help.png) Windows and Linux use "Ctrl + letter", Mac uses "Command (⌘) + letter".
+You can use a combination of keys to do things that normally need a mouse, trackpad, or other input device. Rather than reaching for your mouse to click on the toolbar, you can use keyboard shortcuts, which are displayed in a popup window when you click the Keyboard Shortcuts button or press shift-alt-h. 
+
+![Keyboard shortcuts](https://make.wordpress.org/training/files/2014/10/content-editor-help.png) Windows and Linux use "Ctrl + letter", Mac uses "Command (⌘) + letter".
 
 #### Default shortcuts
 
