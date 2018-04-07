@@ -95,9 +95,9 @@ The first three buttons in the toolbar are basic styles for the copy in your po
 
 ![common text style buttons in WordPress](https://make.wordpress.org/training/files/2014/10/Text-Styles1.png) 
 
-**Bold**: **Bolds text** (select the text and click the Bold button -- or press cmd+b (MAC), ctl+b (PC) on your keyboard) 
+**Bold**: **Bolds text** (select the text and click the Bold button -- or press cmd+b (Mac), ctl+b (PC) on your keyboard) 
 
-**Italic**: _Italicizes text _(select the text and click the Italic button -- or press cmd+i (MAC), ctl+i (PC) on your keyboard) You can also apply both_ **bold and italic**_ styles to the same text by selecting the text and clicking both the bold and italic buttons. 
+**Italic**: _Italicizes text _(select the text and click the Italic button -- or press cmd+i (Mac), ctl+i (PC) on your keyboard) You can also apply both_ **bold and italic**_ styles to the same text by selecting the text and clicking both the bold and italic buttons. 
 
 **Strike-through**: <del>Draws a strikethrough line over the text</del> (select the text and click the Strikethrough button -- or press shift+alt+d on your keyboard)
 
