@@ -1,6 +1,6 @@
 # Content Editor Overview
 
-![](https://img.shields.io/badge/stage-draft-orange.svg)
+![](https://img.shields.io/badge/stage-draft-orange.svg) ![](https://img.shields.io/badge/WP-version-4.9-blue.svg)
 
 ## Description
 
