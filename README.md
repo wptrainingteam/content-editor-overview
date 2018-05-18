@@ -41,6 +41,12 @@ Have you used any WYSIWYG editors such as:
 *   Microsoft Word?
 *   Google Docs?
 
+## Teaching Strategies
+
+* Lecture
+* Demonstration
+* Exercises
+
 ## Teacher Notes
 
 *   Students should import the Theme Unit Test Data if they do not have sufficient content of their own to work with.
@@ -768,11 +774,15 @@ To move focus to other buttons use Tab or the arrow keys. To return focus to the
 
 ## Exercises
 
-**Add Headings to a Blog Post** Using either lorem ipsum text or existing copy, have students add headings to a blog post.
+**Add Headings to a Blog Post** 
+
+Using either lorem ipsum text or existing copy, have students add headings to a blog post.
 
 *   Remember that Heading 1 is for the title of the blog post, so students should use Headings 2-6 inside their posts.
 
-**Add Links to a Blog Post** Add links using each of the following methods:
+**Add Links to a Blog Post** 
+
+Add links using each of the following methods:
 
 *   Using the "Insert/edit link" button for an external link
 *   Using the built in paste function for an external link
