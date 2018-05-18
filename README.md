@@ -204,7 +204,7 @@ The Read More tag allow the user to determine where they would like the text on 
 
 > ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) Headings and other advanced formatting tools appear on the second row of toolbar buttons, so be sure to toggle them on.
 
-![Headings](https://make.wordpress.org/training/files/2014/10/Headings.png)
+![Headings](/image/headings.png)
 
 Heading tags are in a drop-down list in the second row of toolbar buttons. Heading tags are usually applied to short phrases or single words that organize content in an outlined format that is more readable and appealing to users. Heading tags are also important for search engines, as they indicate a high-level outline of the overall content. 
 
