@@ -82,7 +82,7 @@ With two rows of formatting buttons on the toolbar, you can toggle back to a sin
 
 The editor has four modes of viewing available. 
 
-![content-editor-view-modes](https://make.wordpress.org/training/files/2014/10/content-editor-view-modes.png) 
+![content-editor-view-modes](/images/content-editor-view-modes.png) 
 
 **Visual (1)**: The default view that shows a generic WYSIWYG version of the content.
 
