@@ -797,14 +797,18 @@ Add links using each of the following methods:
 3.  Toolbar
 4.  Both 2 & 3
 
-**Answer:** 4\. Both 2 & 3 **What do you call the type of formatting that requires a full break on either side?**
+**Answer:** 4\. Both 2 & 3 
+
+**What do you call the type of formatting that requires a full break on either side?**
 
 1.  Paragraph
 2.  Aligned
 3.  Block elements
 4.  Styling
 
-**Answer:** 3\. Block elements **What does the toolbar toggle allow a user to do?**
+**Answer:** 3\. Block elements 
+
+**What does the toolbar toggle allow a user to do?**
 
 1.  Add a break in the text
 2.  Allow the user to move between Visual and Text editing modes
