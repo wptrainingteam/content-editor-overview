@@ -162,15 +162,15 @@ The next three buttons in the toolbar offer alignment formatting for block ele
 
 #### Align Left
 
-This text is left-aligned.  Left-align will affect the entire paragraph.  Since a paragraph is a block element, it needs to have a hard return both above and below it.
+This text is left-aligned. Left-align will affect the entire paragraph. Since a paragraph is a block element, it needs to have a hard return both above and below it.
 
 #### Align Center
 
-<span style="text-align:center">This text is Center-aligned.  Center-align will affect the entire paragraph. Since a paragraph is a block element, it needs to have a hard return both above and below it.
+<span style="text-align:center">This text is Center-aligned. Center-align will affect the entire paragraph. Since a paragraph is a block element, it needs to have a hard return both above and below it.
 
 #### Align Right
 
-<span style="text-align:right">This text is right-aligned.  Right-align will affect the entire paragraph. Since a paragraph is a block element, it needs to have a hard return both above and below it.</span>
+<span style="text-align:right">This text is right-aligned. Right-align will affect the entire paragraph. Since a paragraph is a block element, it needs to have a hard return both above and below it.</span>
 
 Place your cursor anywhere in a paragraph and click one of the align buttons to get the desired result. You can select multiple paragraphs and then click one paragraph align button to apply that alignment to all of the paragraphs selected.
 
@@ -178,7 +178,7 @@ Place your cursor anywhere in a paragraph and click one of the align buttons to 
 
 When writing posts, sometimes it's necessary to create a link to outside content or other content on your site. Sometimes the way the browser behaves (opens a new window or a new tab) is dependent on the way the viewer has set their browser. If you want to have Read More link to take visitors to a full blog post, there is also button for that. 
 
-![Linking to Content](https://make.wordpress.org/training/files/2014/10/Linking-to-Content.png)
+![Linking to Content](/images/linking-to-content.png)
 
 #### Insert/edit link
 
@@ -197,6 +197,8 @@ Select the link that you would like to de-activate.  Click the "Remove link" bu
 #### Insert Read More tag
 
 The Read More tag allow the user to determine where they would like the text on their blog page to be cut off, when post excerpts are displayed on your home or post archive pages.  Place your cursor at the point where you'd like to direct users to read the rest of your post and click the "Insert Read More tag".
+
+![Add Read More link](/images/read-more-link.png)
 
 ### Headings
 
