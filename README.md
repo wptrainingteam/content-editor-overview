@@ -246,7 +246,7 @@ You can offset block elements, such as paragraphs, with increasing amounts of in
 
 ### Decrease Indent and Increase Indent
 
-![Decrease indent and Increase indent](https://make.wordpress.org/training/files/2014/10/content-editor-indents.png)
+![Decrease indent and Increase indent](/images/content-editor-indents.png)
 
 **Increase Indent**: Adds an increment of indenting to the left side 
 
@@ -256,7 +256,7 @@ You can offset block elements, such as paragraphs, with increasing amounts of in
 
 WordPress retains the last action you performed, either typing or with the toolbar. 
 
-![content-editor-undo](https://make.wordpress.org/training/files/2014/10/content-editor-undo.png) 
+![content-editor-undo](/images/content-editor-undo.png) 
 
 **Undo: **Undo the last action performed. 
 
@@ -266,7 +266,7 @@ WordPress retains the last action you performed, either typing or with the toolb
 
 You can use a combination of keys to do things that normally need a mouse, trackpad, or other input device. Rather than reaching for your mouse to click on the toolbar, you can use keyboard shortcuts, which are displayed in a popup window when you click the Keyboard Shortcuts button or press shift-alt-h. 
 
-![Keyboard shortcuts](https://make.wordpress.org/training/files/2014/10/content-editor-help.png) Windows and Linux use "Ctrl + letter", Mac uses "Command (⌘) + letter".
+![Keyboard shortcuts](/images/content-editor-help.png) Windows and Linux use "Ctrl + letter", Mac uses "Command (⌘) + letter".
 
 #### Default shortcuts
 
