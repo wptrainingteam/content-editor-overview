@@ -72,11 +72,11 @@ The edits you make to your text only appear on your site after you click the "U
 
 When you open a page or post to edit it, the basic WYSIWYG toolbar appears at the top of the editing panel. By default the editor only displays a single row of formatting buttons. You can use the Toolbar Toggle button, also called the _kitchen sink_, to make a second row of  toolbar buttons available. 
 
-![content-editor-toolbar-toggle](https://make.wordpress.org/training/files/2014/10/content-editor-toolbar-toggle.png) 
+![content-editor-toolbar-toggle](/images/content-editor-toolbar-toggle.png) 
 
 With two rows of formatting buttons on the toolbar, you can toggle back to a single row by clicking the Toolbar Toggle button.
 
-![content-editor-toolbar-all](https://make.wordpress.org/training/files/2014/10/content-editor-toolbar-all-1.png)](https://make.wordpress.org/training/files/2014/10/content-editor-toolbar-all-1.png)
+![content-editor-toolbar-all](/images/content-editor-toolbar-all.png)
 
 ### Screen Modes
 
