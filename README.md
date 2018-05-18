@@ -16,13 +16,17 @@ At the end of this lesson, you will be able to:
 *   Add content from other sources.
 *   Insert symbols and special characters.
 
+## Time estimate
+
+30 minutes
+
 ##  Prerequisite Skills
 
 You will be better equipped to work through this lesson if you have experience in and familiarity with:
 
 *   Ability to use a general text editor
 *   Interest in creating and formatting web content
-*   Basic familiarity with the [WordPress Dashboard](https://make.wordpress.org/training/handbook/user-lessons/overview-of-the-dashboard/)
+*   Basic familiarity with the [WordPress Dashboard](https://github.com/wptrainingteam/dashboard-overview)
 
 ## Assets
 
@@ -31,15 +35,14 @@ You will be better equipped to work through this lesson if you have experience i
 
 ## Screening Questions
 
-Have you used any WYSIWYG Editors such as:
+Have you used any WYSIWYG editors such as:
 
 *   Text editor in an email program?
 *   Microsoft Word?
-*   Google Drive Docs App?
+*   Google Docs?
 
 ## Teacher Notes
 
-*   **Time estimate:** 30 minutes
 *   Students should import the Theme Unit Test Data if they do not have sufficient content of their own to work with.
 *   Explain the basics of structured text, distinguishing between block elements and inline elements, so that students do not get frustrated attempting to apply excessive manual formatting.
 *   Explain the difference between a paragraph break (press the return/enter key) and a line break (press shift key + return/enter key) for proper paragraph structuring.
