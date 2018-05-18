@@ -222,10 +222,6 @@ Some formatting buttons on the second row of the toolbar aren't as commonly used
 
 ![Less Common](https://make.wordpress.org/training/files/2014/10/Less-Common.png) 
 
-**Underline**: Underlines text 
-
-**Justify**: Aligns text to both the left and right sides 
-
 **Text Color**: Choose alternate colors for copy in a post 
 
 > ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) You should generally avoid underlining text, since users have been conditioned to think that underlined text is a link that they can click to go somewhere else.[/tip]
