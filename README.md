@@ -776,7 +776,7 @@ To move focus to other buttons use Tab or the arrow keys. To return focus to the
 
 **Add Headings to a Blog Post** 
 
-Using either lorem ipsum text or existing copy, have students add headings to a blog post.
+Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, have students add headings to a blog post.
 
 *   Remember that Heading 1 is for the title of the blog post, so students should use Headings 2-6 inside their posts.
 
