@@ -216,7 +216,7 @@ Heading 1 is a top-level tag in the outline of the content that is typically us
 4.  With the cursor anywhere in the phrase, drop down the heading list, and click Heading 2.
 5.  Repeat adding another heading further down the content, and use Heading 3.
 
-### Plain Text
+### Clear Formatting
 
 You may need to remove formatting that you've added, and sometimes you may need to remove formatting when copying and pasting content from other sources. 
 
@@ -228,17 +228,17 @@ When you paste text copied from other sources, you may bring in formatting with 
 
 You can avoid copy-and-paste formatting problems by using the "Paste as text" button to toggle to plain text mode that strips out all formatting as you paste. The button is outlined with a box when activated, and when clicked again, it is toggled off with no outline. 
 
-![Past as text](/images/paste-as-text.png)
+![Paste as text](/images/paste-as-text.png)
 
 You may have to reapply bold, italic, and other formatting—but best to use the WordPress editor and your theme to control all formatting.
 
 ### Special Characters
 
-![Special Characters](https://make.wordpress.org/training/files/2014/10/content-editor-special-char.png) 
+![Special character](/images/content-editor-special-character.png) 
 
 The Special Character button displays a popup window of symbols and other special characters that extend beyond what can be typed on a keyboard, such as a Copyright symbol. Hover the mouse over an item in the grid to see a large display and label on the right side. Click on the item in the grid to insert into your content. 
 
-![Special Characters window](https://make.wordpress.org/training/files/2014/10/content-editor-special-char-modal.png)
+![Special characters window](/images/content-editor-special-character-modal.png)
 
 ### Indents
 
