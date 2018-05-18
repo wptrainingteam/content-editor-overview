@@ -158,7 +158,7 @@ To insert a horizontal line between sections of your page you can make a hard re
 
 The next three buttons in the toolbar offer alignment formatting for block elements. Remember that most block elements start on a new line.  Select an existing paragraph to demonstrate each one. 
 
-![Text Alignment](https://make.wordpress.org/training/files/2014/10/Text-Alignment.png)
+![Text Alignment](/images/text-alignment.png)
 
 #### Align Left
 
