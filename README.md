@@ -258,7 +258,7 @@ WordPress retains the last action you performed, either typing or with the toolb
 
 ![content-editor-undo](/images/content-editor-undo.png) 
 
-**Undo: **Undo the last action performed. 
+**Undo:** Undo the last action performed. 
 
 **Redo:** Redo the last action that was undone.
 
@@ -266,7 +266,9 @@ WordPress retains the last action you performed, either typing or with the toolb
 
 You can use a combination of keys to do things that normally need a mouse, trackpad, or other input device. Rather than reaching for your mouse to click on the toolbar, you can use keyboard shortcuts, which are displayed in a popup window when you click the Keyboard Shortcuts button or press shift-alt-h. 
 
-![Keyboard shortcuts](/images/content-editor-help.png) Windows and Linux use "Ctrl + letter", Mac uses "Command (⌘) + letter".
+![Keyboard shortcuts](/images/content-editor-help.png) 
+
+Windows and Linux use "Ctrl + letter", Mac uses "Command (⌘) + letter".
 
 #### Default shortcuts
 
