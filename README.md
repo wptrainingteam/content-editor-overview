@@ -105,7 +105,7 @@ The editor has four modes of viewing available.
 
 The first three buttons in the toolbar are basic styles for the copy in your post. You see these style options in many word processing programs and they can be used on individual words, entire sentences, complete paragraphs, or an entire document. 
 
-![common text style buttons in WordPress](https://make.wordpress.org/training/files/2014/10/Text-Styles1.png) 
+![common text style buttons in WordPress](/images/common-text-style-buttons-in-wordpress.png) 
 
 **Bold**: **Bolds text** (select the text and click the Bold button -- or press cmd+b (Mac), ctl+b (PC) on your keyboard) 
 
@@ -117,7 +117,7 @@ The first three buttons in the toolbar are basic styles for the copy in your po
 
 The next four buttons in the toolbar offer some formatting for block elements. Remember that most block elements start on a new line.  Make a hard return by pressing the return or enter key before the sentence you want to format, or select an existing paragraph to demonstrate each one. 
 
-![Text Formatting](https://make.wordpress.org/training/files/2014/10/Text-Formatting.png)
+![Text Formatting](/images/text-formatting.png)
 
 #### Bulleted (un-ordered) list
 
