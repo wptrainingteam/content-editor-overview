@@ -230,7 +230,7 @@ Some formatting buttons on the second row of the toolbar aren't as commonly used
 
 You may need to remove formatting that you've added, and sometimes you may need to remove formatting when copying and pasting content from other sources. 
 
-![Unformatting](https://make.wordpress.org/training/files/2014/10/Unformatting.png)
+![Clear formatting](/images/clear-formatting.png)
 
 #### Paste as text
 
