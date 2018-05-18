@@ -81,13 +81,16 @@ With two rows of formatting buttons on the toolbar, you can toggle back to a sin
 ### Screen Modes
 
 The editor has four modes of viewing available. 
+
 ![content-editor-view-modes](https://make.wordpress.org/training/files/2014/10/content-editor-view-modes.png) 
 
-**Visual**: The default view that shows a generic WYSIWYG version of the content **Text**: HTML version of the content, if you need to manually adjust the HTML tags 
+**Visual (1)**: The default view that shows a generic WYSIWYG version of the content.
 
-**Distraction-free**: Hides the Dashboard menu and meta boxes, also called _Zen_ mode 
+**Text (2)**: HTML version of the content, if you need to manually adjust the HTML tags.
 
-**Preview**: Front-end version of the content that applies the full theme formatting for the website 
+**Distraction-free (3)**: Hides the Dashboard menu and meta boxes, also called _Zen_ mode.
+
+**Preview (4)**: Front-end version of the content that applies the full theme formatting for the website.
 
 > ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-warning.png) Note that the HTML shown in the text mode view is limited and does not show how WordPress will apply HTML for the published content. Paragraph tags are automatically inserted where there are blank lines between content blocks, special characters may be converted to character entity codes, and other rules are applied including capturing and removing unnecessary or potentially malicious HTML code.
 
