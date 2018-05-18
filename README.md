@@ -216,33 +216,21 @@ Heading 1 is a top-level tag in the outline of the content that is typically us
 4.  With the cursor anywhere in the phrase, drop down the heading list, and click Heading 2.
 5.  Repeat adding another heading further down the content, and use Heading 3.
 
-### Less Common Styles and Formats
-
-Some formatting buttons on the second row of the toolbar aren't as commonly used, but should still be familiar from standard word processing programs. 
-
-![Less Common](https://make.wordpress.org/training/files/2014/10/Less-Common.png) 
-
-**Text Color**: Choose alternate colors for copy in a post 
-
-> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) You should generally avoid underlining text, since users have been conditioned to think that underlined text is a link that they can click to go somewhere else.[/tip]
-
 ### Plain Text
 
 You may need to remove formatting that you've added, and sometimes you may need to remove formatting when copying and pasting content from other sources. 
 
 ![Clear formatting](/images/clear-formatting.png)
 
-#### Paste as text
+### Paste as text
 
 When you paste text copied from other sources, you may bring in formatting with that text. WordPress can easily recognize bold, italic, paragraph alignment, and other _rich text_ formats, and can apply the proper HTML code as you paste content into the editor. However, there are many situations when excessive formatting is retained causing problems in how your content is formatted in WordPress. 
 
 You can avoid copy-and-paste formatting problems by using the "Paste as text" button to toggle to plain text mode that strips out all formatting as you paste. The button is outlined with a box when activated, and when clicked again, it is toggled off with no outline. 
 
+![Past as text](/images/paste-as-text.png)
+
 You may have to reapply bold, italic, and other formatting—but best to use the WordPress editor and your theme to control all formatting.
-
-#### Clear formatting
-
-You can remove any formatting that you applied or that was pasted from another source, by highlighting a range of text and applying "Clear formatting."
 
 ### Special Characters
 
