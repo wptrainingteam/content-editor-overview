@@ -28,12 +28,12 @@ You will be better equipped to work through this lesson if you have experience i
 *   Interest in creating and formatting web content
 *   Basic familiarity with the [WordPress Dashboard](https://github.com/wptrainingteam/dashboard-overview)
 
-## Assets
+## Assets (Teaching Materials)
 
 *   [Twenty Sixteen Theme](https://wordpress.org/themes/twentysixteen/)
 *   [Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) for sample content, if needed
 
-## Screening Questions
+## Screening Questions (Readyness Questions)
 
 Have you used any WYSIWYG editors such as:
 
@@ -784,43 +784,44 @@ To move focus to other buttons use Tab or the arrow keys. To return focus to the
 
 **Add Headings to a Blog Post** 
 
-Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, have students add headings to a blog post. 
+Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, have students
 
-1.  Choose a paragraph (somewhere below the first paragraph) and think of a short phrase to introduce the content in it.
-2.  Use the enter/return key to add a blank line above the paragraph.
-3.  Type the short phrase for the heading.
-4.  With the cursor anywhere in the phrase, drop down the heading list, and click Heading 2.
-5.  Repeat adding another heading further down the content, and use Heading 3.
+1. Switch between Visual and Text modes.
+1. Add a variety of headings within a blog post. (Remember that Heading 1 is for the title of the blog post, so students should use Headings 2-6 inside their posts.)
+1. Apply bold and italic formatting to text.
+1. Add a link to an external webpage.
+1. Change the color of some text.
+1. Make a paragraph a blockquote.
+1. Add a special character to their text.
+1. Right-align a paragraph.
 
-*   Remember that Heading 1 is for the title of the blog post, so students should use Headings 2-6 inside their posts.
-
-**Add Links to a Blog Post** 
-
-Add links using each of the following methods:
-
-*   Using the "Insert/edit link" button for an external link
-*   Using the built in paste function for an external link
-*   Using the "Insert/edit link" button for an internal link
-
-## Quiz
+## Quiz (Assessment)
 
 **What is the name of the collection of buttons inside the content editor?**
 
 1.  WYSIWYG
-2.  Kitchen sink
-3.  Toolbar
-4.  Both 2 & 3
+2.  The visual editor
+3.  The toolbar
+4.  The button bar
 
-**Answer:** 4\. Both 2 & 3 
+**Answer:** 3\. The toolbar
 
-**What do you call the type of formatting that requires a full break on either side?**
+**Why is proper formatting of the content within a blog post important?**
 
-1.  Paragraph
-2.  Aligned
-3.  Block elements
-4.  Styling
+1. It looks better and is easier to read
+1. It's easier for search engines to understand the page
+1. It makes the information more accessibility and mobile friendly
+1. It helps organize the information
+1. All of the above
 
-**Answer:** 3\. Block elements 
+**Answer:** 5.\ All of the above
+
+**Can a blockquote be applied to a sentence in a paragraph?**
+
+1.  Yes
+2.  No
+
+**Answer:** 2\. No. It is a block element and applies to the entire paragraph.
 
 **What does the toolbar toggle allow a user to do?**
 
