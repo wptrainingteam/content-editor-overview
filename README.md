@@ -107,6 +107,22 @@ The editor has four modes of viewing available.
 
 > ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-warning.png) Note that the HTML shown in the text mode view is limited and does not show how WordPress will apply HTML for the published content. Paragraph tags are automatically inserted where there are blank lines between content blocks, special characters may be converted to character entity codes, and other rules are applied including capturing and removing unnecessary or potentially malicious HTML code.
 
+### Headings
+
+> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) Headings and other advanced formatting tools appear on the second row of toolbar buttons, so be sure to toggle them on.
+
+![Headings](/images/headings.png)
+
+Heading tags are in a drop-down list in the second row of toolbar buttons. Heading tags are usually applied to short phrases or single words that organize content in an outlined format that is more readable and appealing to users. Heading tags are also important for search engines, as they indicate a high-level outline of the overall content. 
+
+Heading 1 is a top-level tag in the outline of the content that is typically used for the Title of a page or post. Heading 2 is a second-level tag that can be used to denote sections of the content. Heading 3 is a third-level tag within a section that begins with a Heading 2 tag. And, this pattern continues all the way down to the lowest level with Heading 6. To practice using heading tags, open a page or post with a sizable amount of text:
+
+1.  Choose a paragraph (somewhere below the first paragraph) and think of a short phrase to introduce the content in it.
+2.  Use the enter/return key to add a blank line above the paragraph.
+3.  Type the short phrase for the heading.
+4.  With the cursor anywhere in the phrase, drop down the heading list, and click Heading 2.
+5.  Repeat adding another heading further down the content, and use Heading 3.
+
 ### Text Styles
 
 The first three buttons in the toolbar are basic styles for the copy in your post. You see these style options in many word processing programs and they can be used on individual words, entire sentences, complete paragraphs, or an entire document. 
@@ -205,22 +221,6 @@ Select the link that you would like to de-activate.  Click the "Remove link" bu
 The Read More tag allow the user to determine where they would like the text on their blog page to be cut off, when post excerpts are displayed on your home or post archive pages.  Place your cursor at the point where you'd like to direct users to read the rest of your post and click the "Insert Read More tag".
 
 ![Add Read More link](/images/read-more-link.png)
-
-### Headings
-
-> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) Headings and other advanced formatting tools appear on the second row of toolbar buttons, so be sure to toggle them on.
-
-![Headings](/images/headings.png)
-
-Heading tags are in a drop-down list in the second row of toolbar buttons. Heading tags are usually applied to short phrases or single words that organize content in an outlined format that is more readable and appealing to users. Heading tags are also important for search engines, as they indicate a high-level outline of the overall content. 
-
-Heading 1 is a top-level tag in the outline of the content that is typically used for the Title of a page or post. Heading 2 is a second-level tag that can be used to denote sections of the content. Heading 3 is a third-level tag within a section that begins with a Heading 2 tag. And, this pattern continues all the way down to the lowest level with Heading 6. To practice using heading tags, open a page or post with a sizable amount of text:
-
-1.  Choose a paragraph (somewhere below the first paragraph) and think of a short phrase to introduce the content in it.
-2.  Use the enter/return key to add a blank line above the paragraph.
-3.  Type the short phrase for the heading.
-4.  With the cursor anywhere in the phrase, drop down the heading list, and click Heading 2.
-5.  Repeat adding another heading further down the content, and use Heading 3.
 
 ### Clear Formatting
 
