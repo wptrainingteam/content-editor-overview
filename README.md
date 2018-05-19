@@ -53,6 +53,12 @@ Have you used any WYSIWYG editors such as:
 *   Explain the basics of structured text, distinguishing between block elements and inline elements, so that students do not get frustrated attempting to apply excessive manual formatting.
 *   Explain the difference between a paragraph break (press the return/enter key) and a line break (press shift key + return/enter key) for proper paragraph structuring.
 
+## Lesson plan
+
+* Lecture on the need for proper formatting of web content
+* Demonstrate each of the buttons in the toolbar of the content editor
+* Student exercises of formatting content using the buttons in the toolbar 
+
 ## Hands-on Walkthrough
 
 ### Content for the Web
