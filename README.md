@@ -168,15 +168,9 @@ _Example:_
 
 #### Blockquote
 
-Calls out quoted text. The graphic styling of the type and quote marks can be controlled through custom CSS. 
+Calls out a block of quoted text that is one or more paragraphs long. The styling of the blockquote can be controlled through custom CSS. 
 
-> A hard return is needed above and below the text you'd like to convert to a blockquote. Select the text and click the blockquote button.
-
-#### Horizontal Line
-
-* * *
-
-To insert a horizontal line between sections of your page you can make a hard return and then click the 'Horizontal line' icon to add the line and then click another hard return after the line before the content of the next section resumes.
+> This is a block quote. A hard return is needed above and below the text you'd like to convert to a blockquote. Select the text and click the blockquote button.
 
 ### Text Alignment
 
@@ -225,6 +219,12 @@ The Read More tag allow the user to determine where they would like the text on 
 ![Add Read More link](/images/read-more-link.png)
 
 **Strike-through**: <del>Draws a strikethrough line over the text</del> (select the text and click the Strikethrough button -- or press shift+alt+d on your keyboard)
+
+#### Horizontal Line
+
+* * *
+
+To insert a horizontal line between sections of your page you can make a hard return and then click the 'Horizontal line' icon to add the line and then click another hard return after the line before the content of the next section resumes.
 
 ### Clear Formatting
 
