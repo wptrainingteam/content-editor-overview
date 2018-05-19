@@ -85,17 +85,17 @@ The edits you make to your text only appear on your site after you click the "U
 
 When you open a page or post to edit it, the basic WYSIWYG toolbar appears at the top of the editing panel. By default the editor only displays a single row of formatting buttons. You can use the Toolbar Toggle button, also called the _kitchen sink_, to make a second row of  toolbar buttons available. 
 
-![content-editor-toolbar-toggle](/images/content-editor-toolbar-toggle.png) 
+![Toolbar Toggle button](/images/content-editor-toolbar-toggle-button.png) 
 
 With two rows of formatting buttons on the toolbar, you can toggle back to a single row by clicking the Toolbar Toggle button.
 
-![content-editor-toolbar-all](/images/content-editor-toolbar-all.png)
+![Toolbar with both rows visible](/images/content-editor-toolbar-all.png)
 
 ### Screen Modes
 
 The editor has four modes of viewing available. 
 
-![content-editor-view-modes](/images/content-editor-view-modes.png) 
+![View modes](/images/content-editor-view-modes.png) 
 
 **Visual (1)**: The default view that shows a generic WYSIWYG version of the content.
 
@@ -111,7 +111,7 @@ The editor has four modes of viewing available.
 
 > ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) Headings and other advanced formatting tools appear on the second row of toolbar buttons, so be sure to toggle them on.
 
-![Headings](/images/headings.png)
+![Headings dropdown list](/images/content-editor-headings-dropdown.png)
 
 Heading tags are in a drop-down list and the first item in the toolbar. Heading tags are usually applied to short phrases or single words that organize content in an outline format that is more readable and appealing to users. Heading tags are also important for search engines, as they indicate a high-level outline of the overall content. 
 
@@ -121,7 +121,7 @@ Heading 1 is a top-level tag in the outline of the content that is typically us
 
 The first three buttons in the toolbar are basic styles for the copy in your post. You see these style options in many word processing programs and they can be used on individual words, entire sentences, complete paragraphs, or an entire document. 
 
-![Content editor text styles buttons for bold and italic](/images/content-editor-text-styles.png) 
+![Text Styles buttons for bold and italic](/images/content-editor-text-styles-buttons.png) 
 
 **Bold**: **Bolds text** (select the text and click the Bold button - or press cmd+b (Mac), ctl+b (PC) on your keyboard) 
 
@@ -131,7 +131,7 @@ The first three buttons in the toolbar are basic styles for the copy in your po
 
 The next three buttons on the toolbar offer formatting for block elements. Remember that most block elements start on a new line. Make a hard return by pressing the return or enter key before the sentence you want to format, or select an existing paragraph to demonstrate each one. 
 
-![Text Formatting](/images/text-formatting.png)
+![Text Formatting buttons](/images/content-editor-text-formatting-buttons.png)
 
 #### Bulleted (Un-ordered) List
 
@@ -176,7 +176,7 @@ Calls out a block of quoted text that is one or more paragraphs long. The styli
 
 The next three buttons in the toolbar offer alignment formatting for block elements. Remember that most block elements start on a new line.  Select an existing paragraph to demonstrate each one. 
 
-![Text Alignment](/images/text-alignment.png)
+![Text Alignment buttons](/images/content-editor-text-alignment-buttons.png)
 
 #### Align Left
 
@@ -194,9 +194,9 @@ Place your cursor anywhere in a paragraph and click one of the align buttons to 
 
 ### Linking to Content
 
-When writing posts, sometimes it's necessary to create a link to outside content or other content on your site. If you want to insert a Read More link at a specific place in your blog post, there is also button for that. 
+When writing posts, you may want to create a link to outside content or other content on your site. 
 
-![Linking to Content](/images/linking-to-content.png)
+![Insert Link button](/images/content-editor-insert-link-button.png)
 
 #### Insert/edit link
 
@@ -216,7 +216,7 @@ Select the link that you would like to remove. Click the "Remove link" button in
 
 The Read More tag allow the user to determine where they would like the text on their blog page to be cut off, when post excerpts are displayed on your home or post archive pages.  Place your cursor at the point where you'd like to direct users to read the rest of your post and click the "Insert Read More tag".
 
-![Read More link button](/images/read-more-link.png)
+![Read More link button](/images/content-editor-read-more-link-button.png)
 
 ### Strikethrough
 
@@ -230,19 +230,19 @@ The Read More tag allow the user to determine where they would like the text on 
 
 To insert a horizontal line between sections of your page you can make a hard return and then click the 'Horizontal line' icon to add the line and then click another hard return after the line before the content of the next section resumes.
 
-![Horizontal line button](/images/content-editor-horizontal-line-button.png)
+![Horizontal Line button](/images/content-editor-horizontal-line-button.png)
 
 ### Text Color
 
 You can change the color of the text by clicking this button and choosing from the predefined pallete or by creating a custom color.
 
-![Text color button](/images/content-editor-text-color-button.png)
+![Text Color button](/images/content-editor-text-color-button.png)
 
 ### Clear Formatting
 
 You may need to remove formatting that you've added, and sometimes you may need to remove formatting when copying and pasting content from other sources. 
 
-![Clear formatting button](/images/clear-formatting.png)
+![Clear Formatting button](/images/content-editor-clear-formatting-button.png)
 
 ### Paste as text
 
@@ -252,15 +252,15 @@ You can avoid copy-and-paste formatting problems by using the "Paste as text" bu
 
 You may have to reapply bold, italic, and other formatting, but it is best to use the WordPress editor and your theme to control all formatting.
 
-![Paste as text](/images/paste-as-text.png)
+![Paste as Text button](/images/content-editor-paste-as-text-button.png)
 
 ### Special Character
 
-![Special character](/images/content-editor-special-character.png) 
+![Special Character button](/images/content-editor-special-character-button.png) 
 
 The Special Character button displays a popup window of symbols and other special characters that extend beyond what can be typed on a keyboard, such as a copyright symbol. Hover the mouse over an item in the grid to see a large display and label on the right side. Click on the item in the grid to insert into your content. 
 
-![Special characters window](/images/content-editor-special-character-modal.png)
+![Special Characters grid](/images/content-editor-special-character-modal.png)
 
 ### Indents
 
@@ -268,7 +268,7 @@ You can offset block elements, such as paragraphs, with increasing amounts of in
 
 ### Decrease Indent and Increase Indent
 
-![Decrease indent and Increase indent](/images/content-editor-indents.png)
+![Decrease indent and Increase indent](/images/content-editor-indents-buttons.png)
 
 **Increase Indent**: Adds an increment of indenting to the left side 
 
@@ -282,13 +282,13 @@ WordPress retains the last action you performed, either typing or with the toolb
 
 **Redo:** Redo the last action that was undone.
 
-![content-editor-undo](/images/content-editor-undo.png) 
+![Undo and Redo buttons](/images/content-editor-undo-buttons.png) 
 
 ### Keyboard Shortcuts
 
 You can use a combination of keys to do things that normally need a mouse, trackpad, or other input device. Rather than reaching for your mouse to click on the toolbar, you can use keyboard shortcuts, which are displayed in a popup window when you click the Keyboard Shortcuts button or press shift-alt-h. 
 
-![Keyboard shortcuts](/images/content-editor-help.png) 
+![Keyboard Shortcuts button](/images/content-editor-keyboard-shortcuts-button.png) 
 
 Windows and Linux use "Ctrl + letter", Mac uses "Command (⌘) + letter".
 
