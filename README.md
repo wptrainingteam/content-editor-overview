@@ -155,16 +155,16 @@ _Example:_
 
 > ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Nested lists are also possible, including mixed nested lists. place your cursor after the last character of the list item that will start the sub-list and press return on your keyboard.  Then click the Increase Indent button (in the bottom set of buttons on your toolbar) to start your sub-list.  Notice that the bullets in front of to the sub-list items look different. You can also make sub-lists below your sub-lists, but the bullets will start to all look the same.
 
-> _Example:_
-> *   plugins
->	1. Akismet
->	2. Hello Dolly
->	3. Jetpack
-> *   themes
->    *   twentythirteen
->    *   twentyfourteeen
->    *   kubrick
-> *   pages
+_Example:_
+*   plugins
+	1. Akismet
+	2. Hello Dolly
+	3. Jetpack
+*   themes
+    *   twentythirteen
+    *   twentyfourteeen
+    *   kubrick
+*   pages
 
 #### Blockquote
 
