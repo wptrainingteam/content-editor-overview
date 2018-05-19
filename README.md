@@ -210,43 +210,55 @@ _Examples:_
 
 #### Remove link
 
-Select the link that you would like to de-activate. Click the "Remove link" button in the toolbar and it will remove the link, but leave the text.
+Select the link that you would like to remove. Click the "Remove link" button in the toolbar and it will remove the link, but leave the text.
 
 #### Insert Read More tag
 
 The Read More tag allow the user to determine where they would like the text on their blog page to be cut off, when post excerpts are displayed on your home or post archive pages.  Place your cursor at the point where you'd like to direct users to read the rest of your post and click the "Insert Read More tag".
 
-![Add Read More link](/images/read-more-link.png)
+![Read More link button](/images/read-more-link.png)
 
-**Strike-through**: <del>Draws a strikethrough line over the text</del> (select the text and click the Strikethrough button -- or press shift+alt+d on your keyboard)
+### Strikethrough
 
-#### Horizontal Line
+<del>Draws a strikethrough line over the text</del> (select the text and click the Strikethrough button -- or press shift+alt+d on your keyboard)
+
+![Strikethrough button](/images/content-editor-strikethrough-button.png)
+
+### Horizontal Line
 
 * * *
 
 To insert a horizontal line between sections of your page you can make a hard return and then click the 'Horizontal line' icon to add the line and then click another hard return after the line before the content of the next section resumes.
 
+![Horizontal line button](/images/content-editor-horizontal-line-button.png)
+
+### Text Color
+
+You can change the color of the text by clicking this button and choosing from the predefined pallete or by creating a custom color.
+
+![Text color button](/images/content-editor-text-color-button.png)
+
 ### Clear Formatting
 
 You may need to remove formatting that you've added, and sometimes you may need to remove formatting when copying and pasting content from other sources. 
 
-![Clear formatting](/images/clear-formatting.png)
+![Clear formatting button](/images/clear-formatting.png)
 
 ### Paste as text
 
-When you paste text copied from other sources, you may bring in formatting with that text. WordPress can easily recognize bold, italic, paragraph alignment, and other _rich text_ formats, and can apply the proper HTML code as you paste content into the editor. However, there are many situations when excessive formatting is retained causing problems in how your content is formatted in WordPress. 
+When you paste text copied from other sources, you may bring in formatting with that text. WordPress can easily recognize bold, italic, paragraph alignment, and other rich text formats, and can convert that to the proper HTML code as you paste content into the editor. However, there are many situations when excessive formatting is retained causing problems in how your content is formatted in WordPress. 
 
 You can avoid copy-and-paste formatting problems by using the "Paste as text" button to toggle to plain text mode that strips out all formatting as you paste. The button is outlined with a box when activated, and when clicked again, it is toggled off with no outline. 
 
-![Paste as text](/images/paste-as-text.png)
+You may have to reapply bold, italic, and other formatting, but it is best to use the WordPress editor and your theme to control all formatting.
 
-You may have to reapply bold, italic, and other formatting—but best to use the WordPress editor and your theme to control all formatting.
+![Paste as text](/images/paste-as-text.png)
 
 ### Special Character
 
 ![Special character](/images/content-editor-special-character.png) 
 
-The Special Character button displays a popup window of symbols and other special characters that extend beyond what can be typed on a keyboard, such as a Copyright symbol. Hover the mouse over an item in the grid to see a large display and label on the right side. Click on the item in the grid to insert into your content. 
+The Special Character button displays a popup window of symbols and other special characters that extend beyond what can be typed on a keyboard, such as a copyright symbol. Hover the mouse over an item in the grid to see a large display and label on the right side. Click on the item in the grid to insert into your content. 
 
 ![Special characters window](/images/content-editor-special-character-modal.png)
 
@@ -266,11 +278,11 @@ You can offset block elements, such as paragraphs, with increasing amounts of in
 
 WordPress retains the last action you performed, either typing or with the toolbar. 
 
-![content-editor-undo](/images/content-editor-undo.png) 
-
 **Undo:** Undo the last action performed. 
 
 **Redo:** Redo the last action that was undone.
+
+![content-editor-undo](/images/content-editor-undo.png) 
 
 ### Keyboard Shortcuts
 
