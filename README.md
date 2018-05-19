@@ -184,7 +184,7 @@ When writing posts, sometimes it's necessary to create a link to outside content
 
 Select the word(s) that you'd like to link.  Click the "Insert/edit link" icon and a pop up window will appear.  There you'll be able to add a fully formed url to a page that's not on your site or a link to a page within your website.  You'll also be able to decide whether you want the link to open the page in a new browser tab or open the linked page within the same browser window. It is also possible to highlight the text you would like to link and paste the link directly over it to make an automatic link. 
 
-_Examples: _ 
+_Examples:_ 
 
 [Opens the link in the same browser window](http://wordpress.org) 
 
@@ -204,7 +204,7 @@ The Read More tag allow the user to determine where they would like the text on 
 
 > ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) Headings and other advanced formatting tools appear on the second row of toolbar buttons, so be sure to toggle them on.
 
-![Headings](/image/headings.png)
+![Headings](/images/headings.png)
 
 Heading tags are in a drop-down list in the second row of toolbar buttons. Heading tags are usually applied to short phrases or single words that organize content in an outlined format that is more readable and appealing to users. Heading tags are also important for search engines, as they indicate a high-level outline of the overall content. 
 
@@ -232,7 +232,7 @@ You can avoid copy-and-paste formatting problems by using the "Paste as text" bu
 
 You may have to reapply bold, italic, and other formatting—but best to use the WordPress editor and your theme to control all formatting.
 
-### Special Characters
+### Special Character
 
 ![Special character](/images/content-editor-special-character.png) 
 
