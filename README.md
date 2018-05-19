@@ -194,23 +194,23 @@ Place your cursor anywhere in a paragraph and click one of the align buttons to 
 
 ### Linking to Content
 
-When writing posts, sometimes it's necessary to create a link to outside content or other content on your site. Sometimes the way the browser behaves (opens a new window or a new tab) is dependent on the way the viewer has set their browser. If you want to have Read More link to take visitors to a full blog post, there is also button for that. 
+When writing posts, sometimes it's necessary to create a link to outside content or other content on your site. If you want to insert a Read More link at a specific place in your blog post, there is also button for that. 
 
 ![Linking to Content](/images/linking-to-content.png)
 
 #### Insert/edit link
 
-Select the word(s) that you'd like to link.  Click the "Insert/edit link" icon and a pop up window will appear.  There you'll be able to add a fully formed url to a page that's not on your site or a link to a page within your website.  You'll also be able to decide whether you want the link to open the page in a new browser tab or open the linked page within the same browser window. It is also possible to highlight the text you would like to link and paste the link directly over it to make an automatic link. 
+Select the word(s) that you'd like to link. Click the "Insert/edit link" icon and a pop up window will appear. There you'll be able to add a fully formed URL to a page that's not on your site or a link to a page within your website. You'll also be able to decide whether you want the link to open the page in a new browser tab or open the linked page within the same browser window. It is also possible to highlight the text you would like to link and paste the link directly over it to make an automatic link. 
 
 _Examples:_ 
 
-[Opens the link in the same browser window](http://wordpress.org) 
+[Opens the link in the same browser window](https://wordpress.org) 
 
-[Opens the link in a new browser window/tab](http://wordpress.org)
+<a href="https://wordpress.org" target="_blank">Opens the link in a new browser window</a>
 
 #### Remove link
 
-Select the link that you would like to de-activate.  Click the "Remove link" button in the toolbar and it will remove the link, but leave the text.
+Select the link that you would like to de-activate. Click the "Remove link" button in the toolbar and it will remove the link, but leave the text.
 
 #### Insert Read More tag
 
