@@ -1,7 +1,5 @@
 # Content Editor Overview
 
-![](https://img.shields.io/badge/stage-draft-orange.svg) ![](https://img.shields.io/badge/WP_version-4.9-blue.svg) ![](https://img.shields.io/badge/type-user-yellow.svg)
-
 ## Description
 
 In this lesson you will learn how to structure and format content for the web in the WordPress Content Editor for pages and posts. The editor uses a WYSIWYG (What You See Is What You Get) toolbar that is similar to word processing software and text editing applications. You don't need to understand HTML code that is the standard for web content, as you can use the visual editor which creates and manages the underlying code for you. (Note that the WordPress editor does allow users to see and modify the actual HTML code for content, if desired.) You'll also be able to add links, add images and media, and insert symbols and special characters to web content.
@@ -18,33 +16,48 @@ At the end of this lesson, you will be able to:
 *   Add content from other sources.
 *   Insert symbols and special characters.
 
+## Time estimate
+
+30 minutes
+
 ##  Prerequisite Skills
 
 You will be better equipped to work through this lesson if you have experience in and familiarity with:
 
 *   Ability to use a general text editor
 *   Interest in creating and formatting web content
-*   Basic familiarity with the [WordPress Dashboard](https://make.wordpress.org/training/handbook/user-lessons/overview-of-the-dashboard/)
+*   Basic familiarity with the [WordPress Dashboard](https://github.com/wptrainingteam/dashboard-overview)
 
-## Assets
+## Assets (Teaching Materials)
 
 *   [Twenty Sixteen Theme](https://wordpress.org/themes/twentysixteen/)
 *   [Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) for sample content, if needed
 
-## Screening Questions
+## Screening Questions (Readyness Questions)
 
-Have you used any WYSIWYG Editors such as:
+Have you used any WYSIWYG editors such as:
 
 *   Text editor in an email program?
 *   Microsoft Word?
-*   Google Drive Docs App?
+*   Google Docs?
+
+## Teaching Strategies
+
+* Lecture
+* Demonstration
+* Exercises
 
 ## Teacher Notes
 
-*   **Time estimate:** 30 minutes
 *   Students should import the Theme Unit Test Data if they do not have sufficient content of their own to work with.
 *   Explain the basics of structured text, distinguishing between block elements and inline elements, so that students do not get frustrated attempting to apply excessive manual formatting.
 *   Explain the difference between a paragraph break (press the return/enter key) and a line break (press shift key + return/enter key) for proper paragraph structuring.
+
+## Lesson plan
+
+* Lecture on the need for proper formatting of web content
+* Demonstrate each of the buttons in the toolbar of the content editor
+* Student exercises of formatting content using the buttons in the toolbar 
 
 ## Hands-on Walkthrough
 
@@ -72,185 +85,188 @@ The edits you make to your text only appear on your site after you click the "U
 
 When you open a page or post to edit it, the basic WYSIWYG toolbar appears at the top of the editing panel. By default the editor only displays a single row of formatting buttons. You can use the Toolbar Toggle button, also called the _kitchen sink_, to make a second row of  toolbar buttons available. 
 
-![content-editor-toolbar-toggle](https://make.wordpress.org/training/files/2014/10/content-editor-toolbar-toggle.png) 
+![Toolbar Toggle button](/images/content-editor-toolbar-toggle-button.png) 
 
 With two rows of formatting buttons on the toolbar, you can toggle back to a single row by clicking the Toolbar Toggle button.
 
-![content-editor-toolbar-all](https://make.wordpress.org/training/files/2014/10/content-editor-toolbar-all-1.png)](https://make.wordpress.org/training/files/2014/10/content-editor-toolbar-all-1.png)
+![Toolbar with both rows visible](/images/content-editor-toolbar-all.png)
 
 ### Screen Modes
 
 The editor has four modes of viewing available. 
-![content-editor-view-modes](https://make.wordpress.org/training/files/2014/10/content-editor-view-modes.png) 
 
-**Visual**: The default view that shows a generic WYSIWYG version of the content **Text**: HTML version of the content, if you need to manually adjust the HTML tags 
+![View modes](/images/content-editor-view-modes.png) 
 
-**Distraction-free**: Hides the Dashboard menu and meta boxes, also called _Zen_ mode 
+**Visual (1)**: The default view that shows a generic WYSIWYG version of the content.
 
-**Preview**: Front-end version of the content that applies the full theme formatting for the website 
+**Text (2)**: HTML version of the content, if you need to manually adjust the HTML tags.
+
+**Distraction-free (3)**: Hides the Dashboard menu and meta boxes, also called _Zen_ mode.
+
+**Preview (4)**: Front-end version of the content that applies the full theme formatting for the website.
 
 > ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-warning.png) Note that the HTML shown in the text mode view is limited and does not show how WordPress will apply HTML for the published content. Paragraph tags are automatically inserted where there are blank lines between content blocks, special characters may be converted to character entity codes, and other rules are applied including capturing and removing unnecessary or potentially malicious HTML code.
 
+### Headings
+
+![Headings dropdown list](/images/content-editor-headings-dropdown.png)
+
+Heading tags are in a drop-down list and the first item in the toolbar. Heading tags are usually applied to short phrases or single words that organize content in an outline format that is more readable and appealing to users. Heading tags are also important for search engines, as they indicate a high-level outline of the overall content. 
+
+Heading 1 is a top-level tag in the outline of the content that is typically used for the Title of a page or post. It is a best practice to have only one Heading 1 tag on a webpage and therefore you should avoid using it within your content unless there is a specific reason to do so. Heading 2 is a second-level tag that can be used to denote sections of the content.Heading 3 is a third-level tag within a section that begins with a Heading 2 tag. And, this pattern continues all the way down to the lowest level with Heading 6. 
+
 ### Text Styles
+
+![Text Styles buttons for bold and italic](/images/content-editor-text-styles-buttons.png) 
 
 The first three buttons in the toolbar are basic styles for the copy in your post. You see these style options in many word processing programs and they can be used on individual words, entire sentences, complete paragraphs, or an entire document. 
 
-![common text style buttons in WordPress](https://make.wordpress.org/training/files/2014/10/Text-Styles1.png) 
+**Bold**: **Bolds text** (select the text and click the Bold button - or press cmd+b (Mac), ctl+b (PC) on your keyboard) 
 
-**Bold**: **Bolds text** (select the text and click the Bold button -- or press cmd+b (Mac), ctl+b (PC) on your keyboard) 
-
-**Italic**: _Italicizes text _(select the text and click the Italic button -- or press cmd+i (Mac), ctl+i (PC) on your keyboard) You can also apply both_ **bold and italic**_ styles to the same text by selecting the text and clicking both the bold and italic buttons. 
-
-**Strike-through**: <del>Draws a strikethrough line over the text</del> (select the text and click the Strikethrough button -- or press shift+alt+d on your keyboard)
+**Italic**: _Italicizes text_ (select the text and click the Italic button - or press cmd+i (Mac), ctl+i (PC) on your keyboard) You can also apply both _**bold and italic**_ styles to the same text by selecting the text and clicking both the Bold and Italic buttons. 
 
 ### Text Formatting
 
-The next four buttons in the toolbar offer some formatting for block elements. Remember that most block elements start on a new line.  Make a hard return by pressing the return or enter key before the sentence you want to format, or select an existing paragraph to demonstrate each one. 
+![Text Formatting buttons](/images/content-editor-text-formatting-buttons.png)
 
-![Text Formatting](https://make.wordpress.org/training/files/2014/10/Text-Formatting.png)
+The next three buttons on the toolbar offer formatting for block elements. Remember that most block elements start on a new line. Make a hard return by pressing the return or enter key before the sentence you want to format, or select an existing paragraph to demonstrate each one. 
 
-#### Bulleted (un-ordered) list
+#### Bulleted (Un-ordered) List
 
-To create a bulleted list, first create a plain text list on any topic. Select all of the items in the list and click the bulleted list button. To insert a new list item between 2 other list items, place your cursor just after the last character of the list item that will precede the new item and press return or enter on your keyboard.  A new bullet will appear and you can type or paste the new item. 
+Unorderd lists should be used for items that are in no particular order (where the sequence doesn't matter).
 
-To make a sub-list (nested list), place your cursor after the last character of the list item that will start the sub-list and press return on your keyboard.  Then click the Increase Indent button (in the bottom set of buttons on your toolbar) to start your sub-list.  Notice that the bullets in front of to the sub-list items look different. You can also make sub-lists below your sub-lists, but the bullets will start to all look the same.
-
+_Example:_
 *   plugins
+*   themes
+*   pages
+
+You can also remove the bullets from a list by selecting the entire list and click the bulleted list icon.
+
+#### Numbered (Ordered) List
+
+Ordered lists should be used for items that are in a particular order (where the sequence matters). They can also be useful for longer lists as it makes it easier to reference a specific item in the list.
+
+_Example:_
+1.  red
+2.  green
+3.  blue
+
+> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Nested lists are also possible, including mixed nested lists. place your cursor after the last character of the list item that will start the sub-list and press return on your keyboard.  Then click the Increase Indent button (in the bottom set of buttons on your toolbar) to start your sub-list.  Notice that the bullets in front of to the sub-list items look different. You can also make sub-lists below your sub-lists, but the bullets will start to all look the same.
+
+_Example:_
+*   plugins
+	1. Akismet
+	2. Hello Dolly
+	3. Jetpack
 *   themes
     *   twentythirteen
     *   twentyfourteeen
     *   kubrick
 *   pages
 
-To remove the bullets from a list, select the entire list and click the bulleted list icon.
-
-#### Numbered (ordered) list
-
-See the notes about bulleted lists. The only difference is that numbers will appear in front of your list items instead of bullets.
-
-1.  red
-2.  green
-3.  blue
-
 #### Blockquote
 
-> Calls out quoted text. The graphic styling of the type and quote marks can be controlled through custom CSS.  This is dependent on your theme. Styles can be customized by editing the CSS for your theme. In the case of this document you're reading, the quoted text is in a gray box.
+Calls out a block of quoted text that is one or more paragraphs long. The styling of the blockquote can be controlled through custom CSS. 
 
-Make a hard return above and below the text you'd like to convert to a blockquote.  Select the text and click the blockquote button.
-
-#### Horizontal Line
-
-* * *
-
-To insert a horizontal line between sections of your page you can make a hard return and then click the 'Horizontal line' icon to add the line and then click another hard return after the line before the content of the next section resumes.
+> This is a block quote. A hard return is needed above and below the text you'd like to convert to a blockquote. Select the text and click the blockquote button.
 
 ### Text Alignment
 
-The next three buttons in the toolbar offer alignment formatting for block elements. Remember that most block elements start on a new line.  Select an existing paragraph to demonstrate each one. 
+![Text Alignment buttons](/images/content-editor-text-alignment-buttons.png)
 
-![Text Alignment](https://make.wordpress.org/training/files/2014/10/Text-Alignment.png)
+The next three buttons in the toolbar offer alignment formatting for block elements. Remember that most block elements start on a new line.  Select an existing paragraph to demonstrate each one. 
 
 #### Align Left
 
-This text is left-aligned.  Left-align will affect the entire paragraph.  Since a paragraph is a block element, it needs to have a hard return both above and below it.
+This text is left-aligned. Left-align will affect the entire paragraph. Since a paragraph is a block element, it needs to have a hard return both above and below it.
 
 #### Align Center
 
-<span style="text-align:center">This text is Center-aligned.  Center-align will affect the entire paragraph. Since a paragraph is a block element, it needs to have a hard return both above and below it.
+<span style="text-align:center">This text is Center-aligned. Center-align will affect the entire paragraph. Since a paragraph is a block element, it needs to have a hard return both above and below it.
 
 #### Align Right
 
-<span style="text-align:right">This text is right-aligned.  Right-align will affect the entire paragraph. Since a paragraph is a block element, it needs to have a hard return both above and below it.</span>
+<span style="text-align:right">This text is right-aligned. Right-align will affect the entire paragraph. Since a paragraph is a block element, it needs to have a hard return both above and below it.</span>
 
 Place your cursor anywhere in a paragraph and click one of the align buttons to get the desired result. You can select multiple paragraphs and then click one paragraph align button to apply that alignment to all of the paragraphs selected.
 
 ### Linking to Content
 
-When writing posts, sometimes it's necessary to create a link to outside content or other content on your site. Sometimes the way the browser behaves (opens a new window or a new tab) is dependent on the way the viewer has set their browser. If you want to have Read More link to take visitors to a full blog post, there is also button for that. 
+![Insert Link button](/images/content-editor-insert-link-button.png)
 
-![Linking to Content](https://make.wordpress.org/training/files/2014/10/Linking-to-Content.png)
+When writing posts, you may want to create a link to outside content or other content on your site. 
 
 #### Insert/edit link
 
-Select the word(s) that you'd like to link.  Click the "Insert/edit link" icon and a pop up window will appear.  There you'll be able to add a fully formed url to a page that's not on your site or a link to a page within your website.  You'll also be able to decide whether you want the link to open the page in a new browser tab or open the linked page within the same browser window. It is also possible to highlight the text you would like to link and paste the link directly over it to make an automatic link. 
+Select the word(s) that you'd like to link. Click the "Insert/edit link" icon and a pop up window will appear. There you'll be able to add a fully formed URL to a page that's not on your site or a link to a page within your website. You'll also be able to decide whether you want the link to open the page in a new browser tab or open the linked page within the same browser window. It is also possible to highlight the text you would like to link and paste the link directly over it to make an automatic link. 
 
-_Examples: _ 
+_Examples:_ 
 
-[Opens the link in the same browser window](http://wordpress.org) 
+[Opens the link in the same browser window](https://wordpress.org) 
 
-[Opens the link in a new browser window/tab](http://wordpress.org)
+<a href="https://wordpress.org" target="_blank">Opens the link in a new browser window</a>
 
 #### Remove link
 
-Select the link that you would like to de-activate.  Click the "Remove link" button in the toolbar and it will remove the link, but leave the text.
+Select the link that you would like to remove. Click the "Remove link" button in the toolbar and it will remove the link, but leave the text.
 
 #### Insert Read More tag
 
+![Read More link button](/images/content-editor-read-more-link-button.png)
+
 The Read More tag allow the user to determine where they would like the text on their blog page to be cut off, when post excerpts are displayed on your home or post archive pages.  Place your cursor at the point where you'd like to direct users to read the rest of your post and click the "Insert Read More tag".
 
-### Headings
+### Strikethrough
 
-> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) Headings and other advanced formatting tools appear on the second row of toolbar buttons, so be sure to toggle them on.
+![Strikethrough button](/images/content-editor-strikethrough-button.png)
 
-![Headings](https://make.wordpress.org/training/files/2014/10/Headings.png)
+<del>Draws a strikethrough line over the text</del> (select the text and click the Strikethrough button -- or press shift+alt+d on your keyboard)
 
-Heading tags are in a drop-down list in the second row of toolbar buttons. Heading tags are usually applied to short phrases or single words that organize content in an outlined format that is more readable and appealing to users. Heading tags are also important for search engines, as they indicate a high-level outline of the overall content. 
+### Horizontal Line
 
-Heading 1 is a top-level tag in the outline of the content that is typically used for the Title of a page or post. Heading 2 is a second-level tag that can be used to denote sections of the content. Heading 3 is a third-level tag within a section that begins with a Heading 2 tag. And, this pattern continues all the way down to the lowest level with Heading 6. To practice using heading tags, open a page or post with a sizable amount of text:
+![Horizontal Line button](/images/content-editor-horizontal-line-button.png)
 
-1.  Choose a paragraph (somewhere below the first paragraph) and think of a short phrase to introduce the content in it.
-2.  Use the enter/return key to add a blank line above the paragraph.
-3.  Type the short phrase for the heading.
-4.  With the cursor anywhere in the phrase, drop down the heading list, and click Heading 2.
-5.  Repeat adding another heading further down the content, and use Heading 3.
+To insert a horizontal line between sections of your page you can make a hard return and then click the 'Horizontal line' icon to add the line and then click another hard return after the line before the content of the next section resumes.
 
-### Less Common Styles and Formats
+* * *
 
-Some formatting buttons on the second row of the toolbar aren't as commonly used, but should still be familiar from standard word processing programs. 
+### Text Color
 
-![Less Common](https://make.wordpress.org/training/files/2014/10/Less-Common.png) 
+![Text Color button](/images/content-editor-text-color-button.png)
 
-**Underline**: Underlines text 
+You can change the color of the text by clicking this button and choosing from the predefined pallete or by creating a custom color.
 
-**Justify**: Aligns text to both the left and right sides 
+### Clear Formatting
 
-**Text Color**: Choose alternate colors for copy in a post 
-
-> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) You should generally avoid underlining text, since users have been conditioned to think that underlined text is a link that they can click to go somewhere else.[/tip]
-
-### Plain Text
+![Clear Formatting button](/images/content-editor-clear-formatting-button.png)
 
 You may need to remove formatting that you've added, and sometimes you may need to remove formatting when copying and pasting content from other sources. 
 
-![Unformatting](https://make.wordpress.org/training/files/2014/10/Unformatting.png)
+### Paste as text
 
-#### Paste as text
+![Paste as Text button](/images/content-editor-paste-as-text-button.png)
 
-When you paste text copied from other sources, you may bring in formatting with that text. WordPress can easily recognize bold, italic, paragraph alignment, and other _rich text_ formats, and can apply the proper HTML code as you paste content into the editor. However, there are many situations when excessive formatting is retained causing problems in how your content is formatted in WordPress. 
+When you paste text copied from other sources, you may bring in formatting with that text. WordPress can easily recognize bold, italic, paragraph alignment, and other rich text formats, and can convert that to the proper HTML code as you paste content into the editor. However, there are many situations when excessive formatting is retained causing problems in how your content is formatted in WordPress. 
 
 You can avoid copy-and-paste formatting problems by using the "Paste as text" button to toggle to plain text mode that strips out all formatting as you paste. The button is outlined with a box when activated, and when clicked again, it is toggled off with no outline. 
 
-You may have to reapply bold, italic, and other formatting—but best to use the WordPress editor and your theme to control all formatting.
+You may have to reapply bold, italic, and other formatting, but it is best to use the WordPress editor and your theme to control all formatting.
 
-#### Clear formatting
+### Special Character
 
-You can remove any formatting that you applied or that was pasted from another source, by highlighting a range of text and applying "Clear formatting."
+![Special Character button](/images/content-editor-special-character-button.png) 
 
-### Special Characters
+![Special Characters grid](/images/content-editor-special-character-modal.png)
 
-![Special Characters](https://make.wordpress.org/training/files/2014/10/content-editor-special-char.png) 
-
-The Special Character button displays a popup window of symbols and other special characters that extend beyond what can be typed on a keyboard, such as a Copyright symbol. Hover the mouse over an item in the grid to see a large display and label on the right side. Click on the item in the grid to insert into your content. 
-
-![Special Characters window](https://make.wordpress.org/training/files/2014/10/content-editor-special-char-modal.png)
+The Special Character button displays a popup window of symbols and other special characters that extend beyond what can be typed on a keyboard, such as a copyright symbol. Hover the mouse over an item in the grid to see a large display and label on the right side. Click on the item in the grid to insert into your content. 
 
 ### Indents
+
+![Decrease indent and Increase indent](/images/content-editor-indents-buttons.png)
 
 You can offset block elements, such as paragraphs, with increasing amounts of indented margin on the left side. This will indent the entire block.
 
 ### Decrease Indent and Increase Indent
-
-![Decrease indent and Increase indent](https://make.wordpress.org/training/files/2014/10/content-editor-indents.png)
 
 **Increase Indent**: Adds an increment of indenting to the left side 
 
@@ -258,19 +274,21 @@ You can offset block elements, such as paragraphs, with increasing amounts of in
 
 ### Undo & Redo
 
+![Undo and Redo buttons](/images/content-editor-undo-buttons.png) 
+
 WordPress retains the last action you performed, either typing or with the toolbar. 
 
-![content-editor-undo](https://make.wordpress.org/training/files/2014/10/content-editor-undo.png) 
-
-**Undo: **Undo the last action performed. 
+**Undo:** Undo the last action performed. 
 
 **Redo:** Redo the last action that was undone.
 
 ### Keyboard Shortcuts
 
+![Keyboard Shortcuts button](/images/content-editor-keyboard-shortcuts-button.png) 
+
 You can use a combination of keys to do things that normally need a mouse, trackpad, or other input device. Rather than reaching for your mouse to click on the toolbar, you can use keyboard shortcuts, which are displayed in a popup window when you click the Keyboard Shortcuts button or press shift-alt-h. 
 
-![Keyboard shortcuts](https://make.wordpress.org/training/files/2014/10/content-editor-help.png) Windows and Linux use "Ctrl + letter", Mac uses "Command (⌘) + letter".
+Windows and Linux use "Ctrl + letter", Mac uses "Command (⌘) + letter".
 
 #### Default shortcuts
 
@@ -764,33 +782,48 @@ To move focus to other buttons use Tab or the arrow keys. To return focus to the
 
 ## Exercises
 
-**Add Headings to a Blog Post** Using either lorem ipsum text or existing copy, have students add headings to a blog post.
+**Add Headings to a Blog Post** 
 
-*   Remember that Heading 1 is for the title of the blog post, so students should use Headings 2-6 inside their posts.
+Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, have students
 
-**Add Links to a Blog Post** Add links using each of the following methods:
+1. Switch between Visual and Text modes.
+1. Add a variety of headings within a blog post. (Remember that Heading 1 is for the title of the blog post, so students should use Headings 2-6 inside their posts.)
+1. Apply bold and italic formatting to text.
+1. Add a link to an external webpage.
+1. Change the color of some text.
+1. Make a paragraph a blockquote.
+1. Add a special character to their text.
+1. Right-align a paragraph.
 
-*   Using the "Insert/edit link" button for an external link
-*   Using the built in paste function for an external link
-*   Using the "Insert/edit link" button for an internal link
-
-## Quiz
+## Quiz (Assessment)
 
 **What is the name of the collection of buttons inside the content editor?**
 
 1.  WYSIWYG
-2.  Kitchen sink
-3.  Toolbar
-4.  Both 2 & 3
+2.  The visual editor
+3.  The toolbar
+4.  The button bar
 
-**Answer:** 4\. Both 2 & 3 **What do you call the type of formatting that requires a full break on either side?**
+**Answer:** 3\. The toolbar
 
-1.  Paragraph
-2.  Aligned
-3.  Block elements
-4.  Styling
+**Why is proper formatting of the content within a blog post important?**
 
-**Answer:** 3\. Block elements **What does the toolbar toggle allow a user to do?**
+1. It looks better and is easier to read
+1. It's easier for search engines to understand the page
+1. It makes the information more accessibility and mobile friendly
+1. It helps organize the information
+1. All of the above
+
+**Answer:** 5.\ All of the above
+
+**Can a blockquote be applied to a sentence in a paragraph?**
+
+1.  Yes
+2.  No
+
+**Answer:** 2\. No. It is a block element and applies to the entire paragraph.
+
+**What does the toolbar toggle allow a user to do?**
 
 1.  Add a break in the text
 2.  Allow the user to move between Visual and Text editing modes
