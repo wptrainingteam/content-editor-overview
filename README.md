@@ -113,62 +113,64 @@ The editor has four modes of viewing available.
 
 ![Headings](/images/headings.png)
 
-Heading tags are in a drop-down list in the second row of toolbar buttons. Heading tags are usually applied to short phrases or single words that organize content in an outlined format that is more readable and appealing to users. Heading tags are also important for search engines, as they indicate a high-level outline of the overall content. 
+Heading tags are in a drop-down list and the first item in the toolbar. Heading tags are usually applied to short phrases or single words that organize content in an outline format that is more readable and appealing to users. Heading tags are also important for search engines, as they indicate a high-level outline of the overall content. 
 
-Heading 1 is a top-level tag in the outline of the content that is typically used for the Title of a page or post. Heading 2 is a second-level tag that can be used to denote sections of the content. Heading 3 is a third-level tag within a section that begins with a Heading 2 tag. And, this pattern continues all the way down to the lowest level with Heading 6. To practice using heading tags, open a page or post with a sizable amount of text:
-
-1.  Choose a paragraph (somewhere below the first paragraph) and think of a short phrase to introduce the content in it.
-2.  Use the enter/return key to add a blank line above the paragraph.
-3.  Type the short phrase for the heading.
-4.  With the cursor anywhere in the phrase, drop down the heading list, and click Heading 2.
-5.  Repeat adding another heading further down the content, and use Heading 3.
+Heading 1 is a top-level tag in the outline of the content that is typically used for the Title of a page or post. It is a best practice to have only one Heading 1 tag on a webpage and therefore you should avoid using it within your content unless there is a specific reason to do so. Heading 2 is a second-level tag that can be used to denote sections of the content.Heading 3 is a third-level tag within a section that begins with a Heading 2 tag. And, this pattern continues all the way down to the lowest level with Heading 6. 
 
 ### Text Styles
 
 The first three buttons in the toolbar are basic styles for the copy in your post. You see these style options in many word processing programs and they can be used on individual words, entire sentences, complete paragraphs, or an entire document. 
 
-![common text style buttons in WordPress](/images/common-text-style-buttons-in-wordpress.png) 
+![Content editor text styles buttons for bold and italic](/images/content-editor-text-styles.png) 
 
-**Bold**: **Bolds text** (select the text and click the Bold button -- or press cmd+b (Mac), ctl+b (PC) on your keyboard) 
+**Bold**: **Bolds text** (select the text and click the Bold button - or press cmd+b (Mac), ctl+b (PC) on your keyboard) 
 
-**Italic**: _Italicizes text _(select the text and click the Italic button -- or press cmd+i (Mac), ctl+i (PC) on your keyboard) You can also apply both_ **bold and italic**_ styles to the same text by selecting the text and clicking both the bold and italic buttons. 
-
-**Strike-through**: <del>Draws a strikethrough line over the text</del> (select the text and click the Strikethrough button -- or press shift+alt+d on your keyboard)
+**Italic**: _Italicizes text_ (select the text and click the Italic button - or press cmd+i (Mac), ctl+i (PC) on your keyboard) You can also apply both _**bold and italic**_ styles to the same text by selecting the text and clicking both the Bold and Italic buttons. 
 
 ### Text Formatting
 
-The next four buttons in the toolbar offer some formatting for block elements. Remember that most block elements start on a new line.  Make a hard return by pressing the return or enter key before the sentence you want to format, or select an existing paragraph to demonstrate each one. 
+The next three buttons on the toolbar offer formatting for block elements. Remember that most block elements start on a new line. Make a hard return by pressing the return or enter key before the sentence you want to format, or select an existing paragraph to demonstrate each one. 
 
 ![Text Formatting](/images/text-formatting.png)
 
-#### Bulleted (un-ordered) list
+#### Bulleted (Un-ordered) List
 
-To create a bulleted list, first create a plain text list on any topic. Select all of the items in the list and click the bulleted list button. To insert a new list item between 2 other list items, place your cursor just after the last character of the list item that will precede the new item and press return or enter on your keyboard.  A new bullet will appear and you can type or paste the new item. 
+Unorderd lists should be used for items that are in no particular order (where the sequence doesn't matter).
 
-To make a sub-list (nested list), place your cursor after the last character of the list item that will start the sub-list and press return on your keyboard.  Then click the Increase Indent button (in the bottom set of buttons on your toolbar) to start your sub-list.  Notice that the bullets in front of to the sub-list items look different. You can also make sub-lists below your sub-lists, but the bullets will start to all look the same.
-
+_Example:_
 *   plugins
 *   themes
-    *   twentythirteen
-    *   twentyfourteeen
-    *   kubrick
 *   pages
 
-To remove the bullets from a list, select the entire list and click the bulleted list icon.
+You can also remove the bullets from a list by selecting the entire list and click the bulleted list icon.
 
-#### Numbered (ordered) list
+#### Numbered (Ordered) List
 
-See the notes about bulleted lists. The only difference is that numbers will appear in front of your list items instead of bullets.
+Ordered lists should be used for items that are in a particular order (where the sequence matters). They can also be useful for longer lists as it makes it easier to reference a specific item in the list.
 
+_Example:_
 1.  red
 2.  green
 3.  blue
 
+> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Nested lists are also possible, including mixed nested lists. place your cursor after the last character of the list item that will start the sub-list and press return on your keyboard.  Then click the Increase Indent button (in the bottom set of buttons on your toolbar) to start your sub-list.  Notice that the bullets in front of to the sub-list items look different. You can also make sub-lists below your sub-lists, but the bullets will start to all look the same.
+
+> _Example:_
+> *   plugins
+>	1. Akismet
+>	2. Hello Dolly
+>	3. Jetpack
+> *   themes
+>    *   twentythirteen
+>    *   twentyfourteeen
+>    *   kubrick
+> *   pages
+
 #### Blockquote
 
-> Calls out quoted text. The graphic styling of the type and quote marks can be controlled through custom CSS.  This is dependent on your theme. Styles can be customized by editing the CSS for your theme. In the case of this document you're reading, the quoted text is in a gray box.
+Calls out quoted text. The graphic styling of the type and quote marks can be controlled through custom CSS. 
 
-Make a hard return above and below the text you'd like to convert to a blockquote.  Select the text and click the blockquote button.
+> A hard return is needed above and below the text you'd like to convert to a blockquote. Select the text and click the blockquote button.
 
 #### Horizontal Line
 
@@ -221,6 +223,8 @@ Select the link that you would like to de-activate.  Click the "Remove link" bu
 The Read More tag allow the user to determine where they would like the text on their blog page to be cut off, when post excerpts are displayed on your home or post archive pages.  Place your cursor at the point where you'd like to direct users to read the rest of your post and click the "Insert Read More tag".
 
 ![Add Read More link](/images/read-more-link.png)
+
+**Strike-through**: <del>Draws a strikethrough line over the text</del> (select the text and click the Strikethrough button -- or press shift+alt+d on your keyboard)
 
 ### Clear Formatting
 
@@ -770,7 +774,13 @@ To move focus to other buttons use Tab or the arrow keys. To return focus to the
 
 **Add Headings to a Blog Post** 
 
-Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, have students add headings to a blog post.
+Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, have students add headings to a blog post. 
+
+1.  Choose a paragraph (somewhere below the first paragraph) and think of a short phrase to introduce the content in it.
+2.  Use the enter/return key to add a blank line above the paragraph.
+3.  Type the short phrase for the heading.
+4.  With the cursor anywhere in the phrase, drop down the heading list, and click Heading 2.
+5.  Repeat adding another heading further down the content, and use Heading 3.
 
 *   Remember that Heading 1 is for the title of the blog post, so students should use Headings 2-6 inside their posts.
 
