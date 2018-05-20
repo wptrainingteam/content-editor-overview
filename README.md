@@ -44,8 +44,8 @@ Have you used any WYSIWYG editors such as:
 ## Teaching Strategies
 
 * Lecture: talk about the importance of properly formatted content
-* Demonstration: show the content editor toolbar in action by hovering over each button and demonstrating its use
-* Exercises: have students practice using the toolbar buttons to format content
+* Demonstration: display the content editor toolbar and show it in action by hovering over each button and demonstrating its use
+* Exercises: have students practice on their own WordPress Post using the toolbar buttons to format content
 
 ## Teacher Notes
 
@@ -56,8 +56,8 @@ Have you used any WYSIWYG editors such as:
 ## Lesson Overview
 
 * Lecture on the need for proper formatting of web content
-* Demonstrate each of the buttons in the toolbar of the content editor
-* Student exercises of formatting content using the buttons in the toolbar 
+* Demonstrate each of the toolbar buttons by displaying the content editor and showing how each button is used
+* Student exercises on formatting content using the buttons in the toolbar 
 
 ## Exercises
 
@@ -176,7 +176,7 @@ Heading 1 is a top-level tag in the outline of the content that is typically us
 
 ![Text Styles buttons for bold and italic](/images/content-editor-text-styles-buttons.png) 
 
-The first three buttons in the toolbar are basic styles for the copy in your post. You see these style options in many word processing programs and they can be used on individual words, entire sentences, complete paragraphs, or an entire document. 
+The first two buttons in the toolbar are basic styles for the copy in your post. You see these style options in many word processing programs and they can be used on individual words, entire sentences, complete paragraphs, or an entire document. 
 
 **Bold**: **Bolds text** (select the text and click the Bold button - or press cmd+b (Mac), ctl+b (PC) on your keyboard) 
 
