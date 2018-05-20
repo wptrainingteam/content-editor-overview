@@ -28,12 +28,12 @@ You will be better equipped to work through this lesson if you have experience i
 *   Interest in creating and formatting web content
 *   Basic familiarity with the [WordPress Dashboard](https://github.com/wptrainingteam/dashboard-overview)
 
-## Assets (Teaching Materials)
+## Teaching Materials
 
 *   [Twenty Sixteen Theme](https://wordpress.org/themes/twentysixteen/)
 *   [Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) for sample content, if needed
 
-## Screening Questions (Readyness Questions)
+## Readiness Questions
 
 Have you used any WYSIWYG editors such as:
 
@@ -43,9 +43,9 @@ Have you used any WYSIWYG editors such as:
 
 ## Teaching Strategies
 
-* Lecture
-* Demonstration
-* Exercises
+* Lecture: talk about the importance of properly formatted content
+* Demonstration: display the content editor toolbar and show it in action by hovering over each button and demonstrating its use
+* Exercises: have students practice on their own WordPress Post using the toolbar buttons to format content
 
 ## Teacher Notes
 
@@ -53,11 +53,68 @@ Have you used any WYSIWYG editors such as:
 *   Explain the basics of structured text, distinguishing between block elements and inline elements, so that students do not get frustrated attempting to apply excessive manual formatting.
 *   Explain the difference between a paragraph break (press the return/enter key) and a line break (press shift key + return/enter key) for proper paragraph structuring.
 
-## Lesson plan
+## Lesson Overview
 
 * Lecture on the need for proper formatting of web content
-* Demonstrate each of the buttons in the toolbar of the content editor
-* Student exercises of formatting content using the buttons in the toolbar 
+* Demonstrate each of the toolbar buttons by displaying the content editor and showing how each button is used
+* Student exercises on formatting content using the buttons in the toolbar 
+
+## Exercises
+
+**Add Headings to a Blog Post** 
+
+Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, have students
+
+1. Switch between Visual and Text modes.
+1. Add a variety of headings within a blog post. (Remember that Heading 1 is for the title of the blog post, so students should use Headings 2-6 inside their posts.)
+1. Apply bold and italic formatting to text.
+1. Add a link to an external webpage.
+1. Change the color of some text.
+1. Make a paragraph a blockquote.
+1. Add a special character to their text.
+1. Right-align a paragraph.
+
+## Differentiation Strategies
+
+* Have more experienced students help less experienced students
+* Have a spare website or computer available in case the student is having trouble accessing WordPress 
+
+## Assessment
+
+**What is the name of the collection of buttons inside the content editor?**
+
+1.  WYSIWYG
+2.  The visual editor
+3.  The toolbar
+4.  The button bar
+
+**Answer:** 3\. The toolbar
+
+**Why is proper formatting of the content within a blog post important?**
+
+1. It looks better and is easier to read
+1. It's easier for search engines to understand the page
+1. It makes the information more accessibility and mobile friendly
+1. It helps organize the information
+1. All of the above
+
+**Answer:** 5\. All of the above
+
+**Can a blockquote be applied to a sentence in a paragraph?**
+
+1.  Yes
+2.  No
+
+**Answer:** 2\. No. It is a block element and applies to the entire paragraph.
+
+**What does the toolbar toggle allow a user to do?**
+
+1.  Add a break in the text
+2.  Allow the user to move between Visual and Text editing modes
+3.  Reveals/hides the 2nd row of buttons in the toolbar
+4.  Move a block of text to the right
+
+**Answer:** 3\. Reveals/hides the 2nd row of buttons in the toolbar
 
 ## Hands-on Walkthrough
 
@@ -119,7 +176,7 @@ Heading 1 is a top-level tag in the outline of the content that is typically us
 
 ![Text Styles buttons for bold and italic](/images/content-editor-text-styles-buttons.png) 
 
-The first three buttons in the toolbar are basic styles for the copy in your post. You see these style options in many word processing programs and they can be used on individual words, entire sentences, complete paragraphs, or an entire document. 
+The first two buttons in the toolbar are basic styles for the copy in your post. You see these style options in many word processing programs and they can be used on individual words, entire sentences, complete paragraphs, or an entire document. 
 
 **Bold**: **Bolds text** (select the text and click the Bold button - or press cmd+b (Mac), ctl+b (PC) on your keyboard) 
 
@@ -779,55 +836,3 @@ The following formatting shortcuts are replaced when pressing Enter. Press Escap
 </table>
 
 To move focus to other buttons use Tab or the arrow keys. To return focus to the editor press Escape or use one of the buttons.
-
-## Exercises
-
-**Add Headings to a Blog Post** 
-
-Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, have students
-
-1. Switch between Visual and Text modes.
-1. Add a variety of headings within a blog post. (Remember that Heading 1 is for the title of the blog post, so students should use Headings 2-6 inside their posts.)
-1. Apply bold and italic formatting to text.
-1. Add a link to an external webpage.
-1. Change the color of some text.
-1. Make a paragraph a blockquote.
-1. Add a special character to their text.
-1. Right-align a paragraph.
-
-## Quiz (Assessment)
-
-**What is the name of the collection of buttons inside the content editor?**
-
-1.  WYSIWYG
-2.  The visual editor
-3.  The toolbar
-4.  The button bar
-
-**Answer:** 3\. The toolbar
-
-**Why is proper formatting of the content within a blog post important?**
-
-1. It looks better and is easier to read
-1. It's easier for search engines to understand the page
-1. It makes the information more accessibility and mobile friendly
-1. It helps organize the information
-1. All of the above
-
-**Answer:** 5.\ All of the above
-
-**Can a blockquote be applied to a sentence in a paragraph?**
-
-1.  Yes
-2.  No
-
-**Answer:** 2\. No. It is a block element and applies to the entire paragraph.
-
-**What does the toolbar toggle allow a user to do?**
-
-1.  Add a break in the text
-2.  Allow the user to move between Visual and Text editing modes
-3.  Reveals/hides the 2nd row of buttons in the toolbar
-4.  Move a block of text to the right
-
-**Answer:** 3\. Reveals/hides the 2nd row of buttons in the toolbar
