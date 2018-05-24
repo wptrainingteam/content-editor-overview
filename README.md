@@ -2,7 +2,7 @@
 
 ## Description
 
-In this lesson you will learn how to structure and format content for the web in the WordPress Content Editor for pages and posts. The editor uses a WYSIWYG (What You See Is What You Get) toolbar that is similar to word processing software and text editing applications. You don't need to understand HTML code that is the standard for web content, as you can use the visual editor which creates and manages the underlying code for you. (Note that the WordPress editor does allow users to see and modify the actual HTML code for content, if desired.) You'll also be able to add links, add images and media, and insert symbols and special characters to web content.
+In this lesson you will learn how to structure and format content for the web in the WordPress Content Editor for pages and posts. The editor uses a WYSIWYG (What You See Is What You Get) toolbar that is similar to word processing software and text editing applications. You don't need to understand HTML code which is the standard for web content, as you can use the visual editor which creates and manages the underlying code for you. (Note that the WordPress editor does allow users to see and modify the actual HTML code for content, if desired.) You'll also be able to add links, add images and media, and insert symbols and special characters into web content.
 
 ## Objectives
 
@@ -30,28 +30,29 @@ You will be better equipped to work through this lesson if you have experience i
 
 ## Teaching Materials
 
-*   [Twenty Sixteen Theme](https://wordpress.org/themes/twentysixteen/)
-*   [Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) for sample content, if needed
+*   A way to display your computer to the group
+*   A WordPress site that you can show
+*	[Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) for sample content, if needed
 
 ## Readiness Questions
 
 Have you used any WYSIWYG editors such as:
 
-*   Text editor in an email program?
+*   An email program with a text editor?
 *   Microsoft Word?
 *   Google Docs?
 
 ## Teaching Strategies
 
-* Lecture: talk about the importance of properly formatted content
-* Demonstration: display the content editor toolbar and show it in action by hovering over each button and demonstrating its use
-* Exercises: have students practice on their own WordPress Post using the toolbar buttons to format content
+* Lecture
+* Demonstration
+* Exercises
 
 ## Teacher Notes
 
-*   Students should import the Theme Unit Test Data if they do not have sufficient content of their own to work with.
-*   Explain the basics of structured text, distinguishing between block elements and inline elements, so that students do not get frustrated attempting to apply excessive manual formatting.
-*   Explain the difference between a paragraph break (press the return/enter key) and a line break (press shift key + return/enter key) for proper paragraph structuring.
+*   Students should import the [Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) if they do not have sufficient content to work with.
+*   Be prepared to explain the basics of structured text, distinguishing between block elements and inline elements, so that students do not get frustrated attempting to apply excessive manual formatting.
+*   Be prepared to explain the difference between a paragraph break (press the return/enter key) and a line break (press shift key + return/enter key) for proper paragraph structuring.
 
 ## Lesson Overview
 
@@ -63,7 +64,7 @@ Have you used any WYSIWYG editors such as:
 
 **Add Headings to a Blog Post** 
 
-Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, have students
+Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, have students:
 
 1. Switch between Visual and Text modes.
 1. Add a variety of headings within a blog post. (Remember that Heading 1 is for the title of the blog post, so students should use Headings 2-6 inside their posts.)
@@ -120,21 +121,19 @@ Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, hav
 
 ### Content for the Web
 
-Creating content for the web is not the same as word processing nor desktop publishing, since there is a difference in how websites display content versus the printed page. A printed page has fixed dimensions and a fixed layout, so that the content is expected to look the same on any screen and in any printed version, such as with a document in Adobe PDF format. Websites, on the other hand, can have different layouts on different devices, and this is inherent in the Hypertext Markup Language (HTML) format used for web content. In the early days of the web, the people who built the Web devoted a lot of effort into mimicking precise layouts that resembled printed pages, even though not all systems could be accommodated. Now with the proliferation of mobile devices, it's neither possible nor advantageous to mimic the printed page on the web. 
+Creating content for the web is not the same as word processing or desktop publishing since there is a difference in how websites display content versus the printed page. A printed page has fixed dimensions and a fixed layout and the content will look the same on any printed version, including PDF format. Websites, on the other hand, can have different layouts on different devices. 
 
-Mobile-friendly methods like Responsive Web Design use fluid and flexible layout methods for optimal viewing and user experience to make it easy to navigate and read web content with a minimum of resizing, panning, and scrolling on most any device. The more you try to manually control the layout of a web page in the editor, the more likely that is to fail on some devices. 
+In the early days of the web, the people who built the Web devoted a lot of effort into mimicking precise layouts that resembled printed pages, even though not all systems could be accommodated. Now with the proliferation of mobile devices, it's neither possible nor desirable to attempt mimic the printed page on the web. The more you try to manually control the layout of a web page in the editor, the more likely that is to fail on some devices. Mobile-friendly responsive web design uses fluid and flexible layout methods for optimal viewing and user experience to make it easy to navigate and read web content with a minimum of resizing, panning, and scrolling on most any device. 
 
-WordPress themes use Cascading Style Sheets (CSS) that automatically format the HTML used for the layout of templates and content. 
-
-So, understand that while you can master the structure and format of web content, the overall design of the website is controlled by the theme which handles much of the basic formatting for all content on the website.
+WordPress themes use a combination of Hypertext Markup Language (HTML) and Cascading Style Sheets (CSS) to display the layout content. So while you can master the structure and format of web content, the overall design of the website is controlled by the theme which handles much of the design for the content on the website.
 
 ### Using the Content Editor
 
-The content editor is available when editing a post or page. In the backend administrative Dashboard, select Posts or Pages and then click on a Title or hover or an item and click on "Edit." The content editor may be available for other content items, such as custom post types, but that depends upon the theme or developer customization. 
+The content editor is available when editing a Post or Page. In the backend administrative Dashboard, select Posts or Pages and then click on a title or hover or an item and click on "Edit." The content editor may be available for other content items, such as custom post types (e.g., Staff, Event, Portfolio), but that depends upon the theme, plugin, or developer customization. 
 
-In most cases you select the text to style and then click the appropriate button on the toolbar to apply the style. Some text operations only work properly if there is **a paragraph break both above and below** the text being styled. These are called block elements and they include: paragraphs, headings, bulleted lists, numbered lists, horizontal lines, and blockquotes. Knowing how to work with block elements makes for a much more satisfying experience when using the editor. For example, for paragraph alignment your cursor simply needs to be somewhere in the paragraph that is to be aligned. 
+When it comes to styling the text in the content, you select the text to style and then click the appropriate button on the toolbar to apply the style. Some text operations only work properly if there is a paragraph break **both above and below** the text being styled. These are called block elements and they include: paragraphs, headings, bulleted lists, numbered lists, horizontal lines, and blockquotes. (Otherwise it is known as an inline element.) Knowing how to work with block elements makes for a much more satisfying experience when using the editor. For example, for paragraph alignment your cursor simply needs to be somewhere in the paragraph that is to be aligned. 
 
-The edits you make to your text only appear on your site after you click the "Update" button. Also, the editor typically displays generic formatting, while the frontend of the website will apply the full formatting of the theme. 
+**The edits you make to your text only appear on your site after you click the "Update" button.** Also, the editor typically displays generic formatting, while the frontend of the website will apply the full, complete formatting based on the theme. 
 
 > ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) To check the appearance of changes without publishing them, click the "Preview Changes" button. This will open another browser tab to display what your page or post will look like on the site.
 
