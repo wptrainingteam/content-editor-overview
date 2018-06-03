@@ -2,7 +2,7 @@
 
 ## Description
 
-In this lesson you will learn how to structure and format content for the web in the WordPress Content Editor for pages and posts. The editor uses a WYSIWYG (What You See Is What You Get) toolbar that is similar to word processing software and text editing applications. You don't need to understand HTML code that is the standard for web content, as you can use the visual editor which creates and manages the underlying code for you. (Note that the WordPress editor does allow users to see and modify the actual HTML code for content, if desired.) You'll also be able to add links, add images and media, and insert symbols and special characters to web content.
+In this lesson you will learn how to structure and format content for the web in the WordPress Content Editor for pages and posts. The editor uses a WYSIWYG (What You See Is What You Get) toolbar that is similar to word processing software and text editing applications. You don't need to understand HTML code which is the standard for web content, as you can use the visual editor which creates and manages the underlying code for you. (Note that the WordPress editor does allow users to see and modify the actual HTML code for content, if desired.) You'll also be able to add links, add images and media, and insert symbols and special characters into web content.
 
 ## Objectives
 
@@ -16,11 +16,42 @@ At the end of this lesson, you will be able to:
 *   Add content from other sources.
 *   Insert symbols and special characters.
 
-## Time estimate
+## Target Audience
 
-30 minutes
+Who is this lesson intended for? What interests/skills would they bring? Choose all that apply.
 
-##  Prerequisite Skills
+* [x] Users
+* [ ] Designers
+* [ ] Developers
+* [ ] Speakers
+* [ ] All
+
+## Experience Level
+
+How much experience would a participant need to get the most from this lesson?
+
+* [x] Beginner
+* [ ] Intermediate
+* [ ] Advanced
+* [ ] Any
+
+## Type of Instruction
+
+Which strategies will be used for this lesson plan? Choose all that apply.
+
+* [x] Demonstration
+* [ ] Discussion
+* [x] Exercises
+* [ ] Feedback
+* [x] Lecture (Presentation)
+* [ ] Show & Tell
+* [ ] Tutorial
+
+## Time Estimate (Duration)
+
+60 minutes
+
+## Prerequisite Skills
 
 You will be better equipped to work through this lesson if you have experience in and familiarity with:
 
@@ -28,42 +59,45 @@ You will be better equipped to work through this lesson if you have experience i
 *   Interest in creating and formatting web content
 *   Basic familiarity with the [WordPress Dashboard](https://github.com/wptrainingteam/dashboard-overview)
 
-## Teaching Materials
-
-*   [Twenty Sixteen Theme](https://wordpress.org/themes/twentysixteen/)
-*   [Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) for sample content, if needed
-
 ## Readiness Questions
 
 Have you used any WYSIWYG editors such as:
 
-*   Text editor in an email program?
+*   An email program with a text editor?
 *   Microsoft Word?
 *   Google Docs?
 
-## Teaching Strategies
+## Materials Needed
 
-* Lecture: talk about the importance of properly formatted content
-* Demonstration: display the content editor toolbar and show it in action by hovering over each button and demonstrating its use
-* Exercises: have students practice on their own WordPress Post using the toolbar buttons to format content
+*   A way to display your computer to the group
+*   A WordPress site that you can show
+*	[Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) for sample content, if needed
 
-## Teacher Notes
+## Notes for the Instructor
 
-*   Students should import the Theme Unit Test Data if they do not have sufficient content of their own to work with.
-*   Explain the basics of structured text, distinguishing between block elements and inline elements, so that students do not get frustrated attempting to apply excessive manual formatting.
-*   Explain the difference between a paragraph break (press the return/enter key) and a line break (press shift key + return/enter key) for proper paragraph structuring.
+*   **No slides are available for this lesson as it is mostly demonstration.**
+*		Students should import the [Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) if they do not have sufficient content to work with.
+*   Be prepared to explain the basics of structured text, distinguishing between block elements and inline elements, so that students do not get frustrated attempting to apply excessive manual formatting.
+*   Be prepared to explain the difference between a paragraph break (press the return/enter key) and a line break (press shift key + return/enter key) for proper paragraph structuring.
+
+## Have You Thought About...?
+
+What could present challenges to delivering this lesson? Is there anything that can be done in advance to prepare for those challenges?
+
+*  Participants could be in the Text editor instead of the Visual editor. Do you want to go over that too?
+*  What if a participant doesn’t has a WordPress site to work with? Can they log into yours and work there?
 
 ## Lesson Overview
 
 * Lecture on the need for proper formatting of web content
 * Demonstrate each of the toolbar buttons by displaying the content editor and showing how each button is used
-* Student exercises on formatting content using the buttons in the toolbar 
+* Student exercises on formatting content using the buttons in the toolbar
 
 ## Exercises
 
-**Add Headings to a Blog Post** 
+**Add Headings to a Blog Post**
 
-Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, have students
+Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, have students:
 
 1. Switch between Visual and Text modes.
 1. Add a variety of headings within a blog post. (Remember that Heading 1 is for the title of the blog post, so students should use Headings 2-6 inside their posts.)
@@ -73,11 +107,6 @@ Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, hav
 1. Make a paragraph a blockquote.
 1. Add a special character to their text.
 1. Right-align a paragraph.
-
-## Differentiation Strategies
-
-* Have more experienced students help less experienced students
-* Have a spare website or computer available in case the student is having trouble accessing WordPress 
 
 ## Assessment
 
@@ -116,33 +145,35 @@ Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, hav
 
 **Answer:** 3\. Reveals/hides the 2nd row of buttons in the toolbar
 
-## Hands-on Walkthrough
+## Additional Resources
 
-### Content for the Web
+None.
 
-Creating content for the web is not the same as word processing nor desktop publishing, since there is a difference in how websites display content versus the printed page. A printed page has fixed dimensions and a fixed layout, so that the content is expected to look the same on any screen and in any printed version, such as with a document in Adobe PDF format. Websites, on the other hand, can have different layouts on different devices, and this is inherent in the Hypertext Markup Language (HTML) format used for web content. In the early days of the web, the people who built the Web devoted a lot of effort into mimicking precise layouts that resembled printed pages, even though not all systems could be accommodated. Now with the proliferation of mobile devices, it's neither possible nor advantageous to mimic the printed page on the web. 
+## Example Lesson
 
-Mobile-friendly methods like Responsive Web Design use fluid and flexible layout methods for optimal viewing and user experience to make it easy to navigate and read web content with a minimum of resizing, panning, and scrolling on most any device. The more you try to manually control the layout of a web page in the editor, the more likely that is to fail on some devices. 
+### Creating Content for the Web
 
-WordPress themes use Cascading Style Sheets (CSS) that automatically format the HTML used for the layout of templates and content. 
+Creating content for the web is not the same as word processing or desktop publishing since there is a difference in how websites display content versus the printed page. A printed page has fixed dimensions and a fixed layout and the content will look the same on any printed version, including PDF format. Websites, on the other hand, can have different layouts on different devices.
 
-So, understand that while you can master the structure and format of web content, the overall design of the website is controlled by the theme which handles much of the basic formatting for all content on the website.
+In the early days of the web, the people who built the Web devoted a lot of effort into mimicking precise layouts that resembled printed pages, even though not all systems could be accommodated. Now with the proliferation of mobile devices, it's neither possible nor desirable to attempt mimic the printed page on the web. The more you try to manually control the layout of a web page in the editor, the more likely that is to fail on some devices. Mobile-friendly responsive web design uses fluid and flexible layout methods for optimal viewing and user experience to make it easy to navigate and read web content with a minimum of resizing, panning, and scrolling on most any device.
+
+WordPress themes use a combination of Hypertext Markup Language (HTML) and Cascading Style Sheets (CSS) to display the layout content. So while you can master the structure and format of web content, the overall design of the website is controlled by the theme which handles much of the design for the content on the website.
 
 ### Using the Content Editor
 
-The content editor is available when editing a post or page. In the backend administrative Dashboard, select Posts or Pages and then click on a Title or hover or an item and click on "Edit." The content editor may be available for other content items, such as custom post types, but that depends upon the theme or developer customization. 
+The content editor is available when editing a Post or Page. In the backend administrative Dashboard, select Posts or Pages and then click on a title or hover or an item and click on "Edit." The content editor may be available for other content items, such as custom post types (e.g., Staff, Event, Portfolio), but that depends upon the theme, plugin, or developer customization.
 
-In most cases you select the text to style and then click the appropriate button on the toolbar to apply the style. Some text operations only work properly if there is **a paragraph break both above and below** the text being styled. These are called block elements and they include: paragraphs, headings, bulleted lists, numbered lists, horizontal lines, and blockquotes. Knowing how to work with block elements makes for a much more satisfying experience when using the editor. For example, for paragraph alignment your cursor simply needs to be somewhere in the paragraph that is to be aligned. 
+When it comes to styling the text in the content, you select the text to style and then click the appropriate button on the toolbar to apply the style. Some text operations only work properly if there is a paragraph break **both above and below** the text being styled. These are called block elements and they include: paragraphs, headings, bulleted lists, numbered lists, horizontal lines, and blockquotes. (Otherwise it is known as an inline element.) Knowing how to work with block elements makes for a much more satisfying experience when using the editor. For example, for paragraph alignment your cursor simply needs to be somewhere in the paragraph that is to be aligned.
 
-The edits you make to your text only appear on your site after you click the "Update" button. Also, the editor typically displays generic formatting, while the frontend of the website will apply the full formatting of the theme. 
+**The edits you make to your text only appear on your site after you click the "Update" button.** Also, the editor typically displays generic formatting, while the frontend of the website will apply the full, complete formatting based on the theme.
 
 > ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-idea.png) To check the appearance of changes without publishing them, click the "Preview Changes" button. This will open another browser tab to display what your page or post will look like on the site.
 
 #### Toolbar
 
-When you open a page or post to edit it, the basic WYSIWYG toolbar appears at the top of the editing panel. By default the editor only displays a single row of formatting buttons. You can use the Toolbar Toggle button, also called the _kitchen sink_, to make a second row of  toolbar buttons available. 
+When you open a page or post to edit it, the basic WYSIWYG toolbar appears at the top of the editing panel. By default the editor only displays a single row of formatting buttons. You can use the Toolbar Toggle button, also called the _kitchen sink_, to make a second row of  toolbar buttons available.
 
-![Toolbar Toggle button](/images/content-editor-toolbar-toggle-button.png) 
+![Toolbar Toggle button](/images/content-editor-toolbar-toggle-button.png)
 
 With two rows of formatting buttons on the toolbar, you can toggle back to a single row by clicking the Toolbar Toggle button.
 
@@ -150,9 +181,9 @@ With two rows of formatting buttons on the toolbar, you can toggle back to a sin
 
 ### Screen Modes
 
-The editor has four modes of viewing available. 
+The editor has four modes of viewing available.
 
-![View modes](/images/content-editor-view-modes.png) 
+![View modes](/images/content-editor-view-modes.png)
 
 **Visual (1)**: The default view that shows a generic WYSIWYG version of the content.
 
@@ -168,25 +199,25 @@ The editor has four modes of viewing available.
 
 ![Headings dropdown list](/images/content-editor-headings-dropdown.png)
 
-Heading tags are in a drop-down list and the first item in the toolbar. Heading tags are usually applied to short phrases or single words that organize content in an outline format that is more readable and appealing to users. Heading tags are also important for search engines, as they indicate a high-level outline of the overall content. 
+Heading tags are in a drop-down list and the first item in the toolbar. Heading tags are usually applied to short phrases or single words that organize content in an outline format that is more readable and appealing to users. Heading tags are also important for search engines, as they indicate a high-level outline of the overall content.
 
-Heading 1 is a top-level tag in the outline of the content that is typically used for the Title of a page or post. It is a best practice to have only one Heading 1 tag on a webpage and therefore you should avoid using it within your content unless there is a specific reason to do so. Heading 2 is a second-level tag that can be used to denote sections of the content.Heading 3 is a third-level tag within a section that begins with a Heading 2 tag. And, this pattern continues all the way down to the lowest level with Heading 6. 
+Heading 1 is a top-level tag in the outline of the content that is typically used for the Title of a page or post. It is a best practice to have only one Heading 1 tag on a webpage and therefore you should avoid using it within your content unless there is a specific reason to do so. Heading 2 is a second-level tag that can be used to denote sections of the content.Heading 3 is a third-level tag within a section that begins with a Heading 2 tag. And, this pattern continues all the way down to the lowest level with Heading 6.
 
 ### Text Styles
 
-![Text Styles buttons for bold and italic](/images/content-editor-text-styles-buttons.png) 
+![Text Styles buttons for bold and italic](/images/content-editor-text-styles-buttons.png)
 
-The first two buttons in the toolbar are basic styles for the copy in your post. You see these style options in many word processing programs and they can be used on individual words, entire sentences, complete paragraphs, or an entire document. 
+The first two buttons in the toolbar are basic styles for the copy in your post. You see these style options in many word processing programs and they can be used on individual words, entire sentences, complete paragraphs, or an entire document.
 
-**Bold**: **Bolds text** (select the text and click the Bold button - or press cmd+b (Mac), ctl+b (PC) on your keyboard) 
+**Bold**: **Bolds text** (select the text and click the Bold button - or press cmd+b (Mac), ctl+b (PC) on your keyboard)
 
-**Italic**: _Italicizes text_ (select the text and click the Italic button - or press cmd+i (Mac), ctl+i (PC) on your keyboard) You can also apply both _**bold and italic**_ styles to the same text by selecting the text and clicking both the Bold and Italic buttons. 
+**Italic**: _Italicizes text_ (select the text and click the Italic button - or press cmd+i (Mac), ctl+i (PC) on your keyboard) You can also apply both _**bold and italic**_ styles to the same text by selecting the text and clicking both the Bold and Italic buttons.
 
 ### Text Formatting
 
 ![Text Formatting buttons](/images/content-editor-text-formatting-buttons.png)
 
-The next three buttons on the toolbar offer formatting for block elements. Remember that most block elements start on a new line. Make a hard return by pressing the return or enter key before the sentence you want to format, or select an existing paragraph to demonstrate each one. 
+The next three buttons on the toolbar offer formatting for block elements. Remember that most block elements start on a new line. Make a hard return by pressing the return or enter key before the sentence you want to format, or select an existing paragraph to demonstrate each one.
 
 #### Bulleted (Un-ordered) List
 
@@ -223,7 +254,7 @@ _Example:_
 
 #### Blockquote
 
-Calls out a block of quoted text that is one or more paragraphs long. The styling of the blockquote can be controlled through custom CSS. 
+Calls out a block of quoted text that is one or more paragraphs long. The styling of the blockquote can be controlled through custom CSS.
 
 > This is a block quote. A hard return is needed above and below the text you'd like to convert to a blockquote. Select the text and click the blockquote button.
 
@@ -231,7 +262,7 @@ Calls out a block of quoted text that is one or more paragraphs long. The styli
 
 ![Text Alignment buttons](/images/content-editor-text-alignment-buttons.png)
 
-The next three buttons in the toolbar offer alignment formatting for block elements. Remember that most block elements start on a new line.  Select an existing paragraph to demonstrate each one. 
+The next three buttons in the toolbar offer alignment formatting for block elements. Remember that most block elements start on a new line.  Select an existing paragraph to demonstrate each one.
 
 #### Align Left
 
@@ -251,15 +282,15 @@ Place your cursor anywhere in a paragraph and click one of the align buttons to 
 
 ![Insert Link button](/images/content-editor-insert-link-button.png)
 
-When writing posts, you may want to create a link to outside content or other content on your site. 
+When writing posts, you may want to create a link to outside content or other content on your site.
 
 #### Insert/edit link
 
-Select the word(s) that you'd like to link. Click the "Insert/edit link" icon and a pop up window will appear. There you'll be able to add a fully formed URL to a page that's not on your site or a link to a page within your website. You'll also be able to decide whether you want the link to open the page in a new browser tab or open the linked page within the same browser window. It is also possible to highlight the text you would like to link and paste the link directly over it to make an automatic link. 
+Select the word(s) that you'd like to link. Click the "Insert/edit link" icon and a pop up window will appear. There you'll be able to add a fully formed URL to a page that's not on your site or a link to a page within your website. You'll also be able to decide whether you want the link to open the page in a new browser tab or open the linked page within the same browser window. It is also possible to highlight the text you would like to link and paste the link directly over it to make an automatic link.
 
-_Examples:_ 
+_Examples:_
 
-[Opens the link in the same browser window](https://wordpress.org) 
+[Opens the link in the same browser window](https://wordpress.org)
 
 <a href="https://wordpress.org" target="_blank">Opens the link in a new browser window</a>
 
@@ -297,25 +328,25 @@ You can change the color of the text by clicking this button and choosing from t
 
 ![Clear Formatting button](/images/content-editor-clear-formatting-button.png)
 
-You may need to remove formatting that you've added, and sometimes you may need to remove formatting when copying and pasting content from other sources. 
+You may need to remove formatting that you've added, and sometimes you may need to remove formatting when copying and pasting content from other sources.
 
 ### Paste as text
 
 ![Paste as Text button](/images/content-editor-paste-as-text-button.png)
 
-When you paste text copied from other sources, you may bring in formatting with that text. WordPress can easily recognize bold, italic, paragraph alignment, and other rich text formats, and can convert that to the proper HTML code as you paste content into the editor. However, there are many situations when excessive formatting is retained causing problems in how your content is formatted in WordPress. 
+When you paste text copied from other sources, you may bring in formatting with that text. WordPress can easily recognize bold, italic, paragraph alignment, and other rich text formats, and can convert that to the proper HTML code as you paste content into the editor. However, there are many situations when excessive formatting is retained causing problems in how your content is formatted in WordPress.
 
-You can avoid copy-and-paste formatting problems by using the "Paste as text" button to toggle to plain text mode that strips out all formatting as you paste. The button is outlined with a box when activated, and when clicked again, it is toggled off with no outline. 
+You can avoid copy-and-paste formatting problems by using the "Paste as text" button to toggle to plain text mode that strips out all formatting as you paste. The button is outlined with a box when activated, and when clicked again, it is toggled off with no outline.
 
 You may have to reapply bold, italic, and other formatting, but it is best to use the WordPress editor and your theme to control all formatting.
 
 ### Special Character
 
-![Special Character button](/images/content-editor-special-character-button.png) 
+![Special Character button](/images/content-editor-special-character-button.png)
 
 ![Special Characters grid](/images/content-editor-special-character-modal.png)
 
-The Special Character button displays a popup window of symbols and other special characters that extend beyond what can be typed on a keyboard, such as a copyright symbol. Hover the mouse over an item in the grid to see a large display and label on the right side. Click on the item in the grid to insert into your content. 
+The Special Character button displays a popup window of symbols and other special characters that extend beyond what can be typed on a keyboard, such as a copyright symbol. Hover the mouse over an item in the grid to see a large display and label on the right side. Click on the item in the grid to insert into your content.
 
 ### Indents
 
@@ -325,25 +356,25 @@ You can offset block elements, such as paragraphs, with increasing amounts of in
 
 ### Decrease Indent and Increase Indent
 
-**Increase Indent**: Adds an increment of indenting to the left side 
+**Increase Indent**: Adds an increment of indenting to the left side
 
 **Decrease Indent:** Removes an increment of indenting.
 
 ### Undo & Redo
 
-![Undo and Redo buttons](/images/content-editor-undo-buttons.png) 
+![Undo and Redo buttons](/images/content-editor-undo-buttons.png)
 
-WordPress retains the last action you performed, either typing or with the toolbar. 
+WordPress retains the last action you performed, either typing or with the toolbar.
 
-**Undo:** Undo the last action performed. 
+**Undo:** Undo the last action performed.
 
 **Redo:** Redo the last action that was undone.
 
 ### Keyboard Shortcuts
 
-![Keyboard Shortcuts button](/images/content-editor-keyboard-shortcuts-button.png) 
+![Keyboard Shortcuts button](/images/content-editor-keyboard-shortcuts-button.png)
 
-You can use a combination of keys to do things that normally need a mouse, trackpad, or other input device. Rather than reaching for your mouse to click on the toolbar, you can use keyboard shortcuts, which are displayed in a popup window when you click the Keyboard Shortcuts button or press shift-alt-h. 
+You can use a combination of keys to do things that normally need a mouse, trackpad, or other input device. Rather than reaching for your mouse to click on the toolbar, you can use keyboard shortcuts, which are displayed in a popup window when you click the Keyboard Shortcuts button or press shift-alt-h.
 
 Windows and Linux use "Ctrl + letter", Mac uses "Command (⌘) + letter".
 
@@ -836,3 +867,7 @@ The following formatting shortcuts are replaced when pressing Enter. Press Escap
 </table>
 
 To move focus to other buttons use Tab or the arrow keys. To return focus to the editor press Escape or use one of the buttons.
+
+### Lesson Wrap Up
+
+> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with exercises and assessment outlined above.
