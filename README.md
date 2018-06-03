@@ -868,6 +868,6 @@ The following formatting shortcuts are replaced when pressing Enter. Press Escap
 
 To move focus to other buttons use Tab or the arrow keys. To return focus to the editor press Escape or use one of the buttons.
 
-## Exercises and Assessment
+### Lesson Wrap Up
 
-See above.
+> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with exercises and assessment outlined above.
