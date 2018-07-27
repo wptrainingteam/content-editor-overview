@@ -85,7 +85,7 @@ Have you used any WYSIWYG editors such as:
 What could present challenges to delivering this lesson? Is there anything that can be done in advance to prepare for those challenges?
 
 *  Participants could be in the Text editor instead of the Visual editor. Do you want to go over that too?
-*  What if a participant doesn’t has a WordPress site to work with? Can they log into yours and work there?
+*  What if a participant doesn’t have a WordPress site to work with? Can they log into yours and work there?
 
 ## Lesson Overview
 
@@ -171,7 +171,7 @@ When it comes to styling the text in the content, you select the text to style 
 
 #### Toolbar
 
-When you open a page or post to edit it, the basic WYSIWYG toolbar appears at the top of the editing panel. By default the editor only displays a single row of formatting buttons. You can use the Toolbar Toggle button, also called the _kitchen sink_, to make a second row of  toolbar buttons available.
+When you open a page or post to edit it, the basic WYSIWYG toolbar appears at the top of the editing panel. By default the editor only displays a single row of formatting buttons. You can use the Toolbar Toggle button, also called the _kitchen sink_, to make a second row of toolbar buttons available.
 
 ![Toolbar Toggle button](/images/content-editor-toolbar-toggle-button.png)
 
@@ -211,7 +211,7 @@ The first two buttons in the toolbar are basic styles for the copy in your post
 
 **Bold**: **Bolds text** (select the text and click the Bold button - or press cmd+b (Mac), ctl+b (PC) on your keyboard)
 
-**Italic**: _Italicizes text_ (select the text and click the Italic button - or press cmd+i (Mac), ctl+i (PC) on your keyboard) You can also apply both _**bold and italic**_ styles to the same text by selecting the text and clicking both the Bold and Italic buttons.
+**Italic**: _Italicizes text_ (select the text and click the Italic button - or press cmd+i (Mac), ctl+i (PC) on your keyboard). You can also apply both _**bold and italic**_ styles to the same text by selecting the text and clicking both the Bold and Italic buttons.
 
 ### Text Formatting
 
@@ -221,7 +221,7 @@ The next three buttons on the toolbar offer formatting for block elements. Remem
 
 #### Bulleted (Un-ordered) List
 
-Unorderd lists should be used for items that are in no particular order (where the sequence doesn't matter).
+Unordered lists should be used for items that are in no particular order (where the sequence doesn't matter).
 
 _Example:_
 *   plugins
@@ -247,9 +247,9 @@ _Example:_
 	2. Hello Dolly
 	3. Jetpack
 *   themes
-    *   twentythirteen
-    *   twentyfourteeen
-    *   kubrick
+    *   Twenty Thirteen
+    *   Twenty Fourteen
+    *   Kubrick
 *   pages
 
 #### Blockquote
