@@ -2,7 +2,7 @@
 
 ## Description
 
-In this lesson you will learn how to structure and format content for the web in the WordPress Content Editor for pages and posts. The editor uses a WYSIWYG (What You See Is What You Get) toolbar that is similar to word processing software and text editing applications. You don't need to understand HTML code which is the standard for web content, as you can use the visual editor which creates and manages the underlying code for you. (Note that the WordPress editor does allow users to see and modify the actual HTML code for content, if desired.) You'll also be able to add links, add images and media, and insert symbols and special characters into web content.
+In this lesson you will learn how to structure and format content for the web in the WordPress Content Editor for pages and posts. The editor uses a WYSIWYG (What You See Is What You Get) toolbar that is similar to word processing software and text editing applications. You don't need to understand HTML code which is the standard for web content, as you can use the visual editor which creates and manages the underlying code for you. (Note that the WordPress editor does allow users to see and modify the actual HTML code for content if desired.) You'll also be able to add links, add images and media, and insert symbols and special characters into web content.
 
 ## Objectives
 
@@ -89,7 +89,7 @@ What could present challenges to delivering this lesson? Is there anything that 
 
 ## Lesson Overview
 
-* Lecture on the need for proper formatting of web content
+* Lecture on the need for the proper formatting of web content
 * Demonstrate each of the toolbar buttons by displaying the content editor and showing how each button is used
 * Student exercises on formatting content using the buttons in the toolbar
 
@@ -119,11 +119,11 @@ Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, hav
 
 **Answer:** 3\. The toolbar
 
-**Why is proper formatting of the content within a blog post important?**
+**Why is the proper formatting of the content within a blog post important?**
 
 1. It looks better and is easier to read
 1. It's easier for search engines to understand the page
-1. It makes the information more accessibility and mobile friendly
+1. It makes the information more accessible and mobile friendly
 1. It helps organize the information
 1. All of the above
 
@@ -163,7 +163,7 @@ WordPress themes use a combination of Hypertext Markup Language (HTML) and Casc
 
 The content editor is available when editing a Post or Page. In the backend administrative Dashboard, select Posts or Pages and then click on a title or hover or an item and click on "Edit." The content editor may be available for other content items, such as custom post types (e.g., Staff, Event, Portfolio), but that depends upon the theme, plugin, or developer customization.
 
-When it comes to styling the text in the content, you select the text to style and then click the appropriate button on the toolbar to apply the style. Some text operations only work properly if there is a paragraph break **both above and below** the text being styled. These are called block elements and they include: paragraphs, headings, bulleted lists, numbered lists, horizontal lines, and blockquotes. (Otherwise it is known as an inline element.) Knowing how to work with block elements makes for a much more satisfying experience when using the editor. For example, for paragraph alignment your cursor simply needs to be somewhere in the paragraph that is to be aligned.
+When it comes to styling the text in the content, you select the text to style and then click the appropriate button on the toolbar to apply the style. Some text operations only work properly if there is a paragraph break **both above and below** the text being styled. These are called block elements and they include: paragraphs, headings, bulleted lists, numbered lists, horizontal lines, and blockquotes. (Otherwise it is known as an inline element.) Knowing how to work with block elements makes for a much more satisfying experience when using the editor. For example, for paragraph alignment, your cursor simply needs to be somewhere in the paragraph that is to be aligned.
 
 **The edits you make to your text only appear on your site after you click the "Update" button.** Also, the editor typically displays generic formatting, while the frontend of the website will apply the full, complete formatting based on the theme.
 
@@ -171,7 +171,7 @@ When it comes to styling the text in the content, you select the text to style 
 
 #### Toolbar
 
-When you open a page or post to edit it, the basic WYSIWYG toolbar appears at the top of the editing panel. By default the editor only displays a single row of formatting buttons. You can use the Toolbar Toggle button, also called the _kitchen sink_, to make a second row of toolbar buttons available.
+When you open a page or post to edit it, the basic WYSIWYG toolbar appears at the top of the editing panel. By default the editor only displays a single row of formatting buttons. You can use the Toolbar Toggle button, also called the _kitchen sink_, to make the second row of toolbar buttons available.
 
 ![Toolbar Toggle button](/images/content-editor-toolbar-toggle-button.png)
 
@@ -201,7 +201,7 @@ The editor has four modes of viewing available.
 
 Heading tags are in a drop-down list and the first item in the toolbar. Heading tags are usually applied to short phrases or single words that organize content in an outline format that is more readable and appealing to users. Heading tags are also important for search engines, as they indicate a high-level outline of the overall content.
 
-Heading 1 is a top-level tag in the outline of the content that is typically used for the Title of a page or post. It is a best practice to have only one Heading 1 tag on a webpage and therefore you should avoid using it within your content unless there is a specific reason to do so. Heading 2 is a second-level tag that can be used to denote sections of the content.Heading 3 is a third-level tag within a section that begins with a Heading 2 tag. And, this pattern continues all the way down to the lowest level with Heading 6.
+Heading 1 is a top-level tag in the outline of the content that is typically used for the Title of a page or post. It is a best practice to have only one Heading 1 tag on a webpage and therefore you should avoid using it within your content unless there is a specific reason to do so. Heading 2 is a second-level tag that can be used to denote sections of the content. Heading 3 is a third-level tag within a section that begins with a Heading 2 tag. And, this pattern continues all the way down to the lowest level with Heading 6.
 
 ### Text Styles
 
@@ -286,7 +286,7 @@ When writing posts, you may want to create a link to outside content or other co
 
 #### Insert/edit link
 
-Select the word(s) that you'd like to link. Click the "Insert/edit link" icon and a pop up window will appear. There you'll be able to add a fully formed URL to a page that's not on your site or a link to a page within your website. You'll also be able to decide whether you want the link to open the page in a new browser tab or open the linked page within the same browser window. It is also possible to highlight the text you would like to link and paste the link directly over it to make an automatic link.
+Select the word(s) that you'd like to link. Click the "Insert/edit link" icon and a popup window will appear. There you'll be able to add a fully formed URL to a page that's not on your site or a link to a page within your website. You'll also be able to decide whether you want the link to open the page in a new browser tab or open the linked page within the same browser window. It is also possible to highlight the text you would like to link and paste the link directly over it to make an automatic link.
 
 _Examples:_
 
@@ -302,7 +302,7 @@ Select the link that you would like to remove. Click the "Remove link" button in
 
 ![Read More link button](/images/content-editor-read-more-link-button.png)
 
-The Read More tag allow the user to determine where they would like the text on their blog page to be cut off, when post excerpts are displayed on your home or post archive pages.  Place your cursor at the point where you'd like to direct users to read the rest of your post and click the "Insert Read More tag".
+The Read More tag allows the user to determine where they would like the text on their blog page to be cut off, when post excerpts are displayed on your home or post archive pages.  Place your cursor at the point where you'd like to direct users to read the rest of your post and click the "Insert Read More tag".
 
 ### Strikethrough
 
@@ -374,7 +374,7 @@ WordPress retains the last action you performed, either typing or with the toolb
 
 ![Keyboard Shortcuts button](/images/content-editor-keyboard-shortcuts-button.png)
 
-You can use a combination of keys to do things that normally need a mouse, trackpad, or other input device. Rather than reaching for your mouse to click on the toolbar, you can use keyboard shortcuts, which are displayed in a popup window when you click the Keyboard Shortcuts button or press shift-alt-h.
+You can use a combination of keys to do things that normally need a mouse, trackpad, or other input devices. Rather than reaching for your mouse to click on the toolbar, you can use keyboard shortcuts, which are displayed in a popup window when you click the Keyboard Shortcuts button or press shift-alt-h.
 
 Windows and Linux use "Ctrl + letter", Mac uses "Command (⌘) + letter".
 
