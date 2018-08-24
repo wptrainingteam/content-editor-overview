@@ -76,7 +76,7 @@ Have you used any WYSIWYG editors such as:
 ## Notes for the Instructor
 
 *   **No slides are available for this lesson as it is mostly demonstration.**
-*		Students should import the [Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) if they do not have sufficient content to work with.
+*   Students should import the [Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) if they do not have sufficient content to work with.
 *   Be prepared to explain the basics of structured text, distinguishing between block elements and inline elements, so that students do not get frustrated attempting to apply excessive manual formatting.
 *   Be prepared to explain the difference between a paragraph break (press the return/enter key) and a line break (press shift key + return/enter key) for proper paragraph structuring.
 
