@@ -97,18 +97,18 @@ What could present challenges to delivering this lesson? Is there anything that 
 
 **Add Headings to a Blog Post**
 
-Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, have students:
+Using either [lorem ipsum text](https://www.lipsum.com/) or existing copy, have students:
 
 1. Switch between Visual and Text modes.
-1. Add a variety of headings within a blog post. (Remember that Heading 1 is for the title of the blog post, so students should use Headings 2-6 inside their posts.)
-1. Apply bold and italic formatting to text.
-1. Add a link to an external webpage.
-1. Change the color of some text.
-1. Make a paragraph a blockquote.
-1. Add a special character to their text.
-1. Right-align a paragraph.
+2. Add a variety of headings within a blog post. (Remember that Heading 1 is for the title of the blog post, so students should use Headings 2-6 inside their posts.)
+3. Apply bold and italic formatting to text.
+4. Add a link to an external webpage.
+5. Change the color of some text.
+6. Make a paragraph a blockquote.
+7. Add a special character to their text.
+8. Right-align a paragraph.
 
-## Assessment
+## Quiz
 
 **What is the name of the collection of buttons inside the content editor?**
 
@@ -117,7 +117,7 @@ Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, hav
 3.  The toolbar
 4.  The button bar
 
-**Answer:** 3\. The toolbar
+**Answer:** 3. The toolbar
 
 **Why is the proper formatting of the content within a blog post important?**
 
@@ -127,14 +127,14 @@ Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, hav
 1. It helps organize the information
 1. All of the above
 
-**Answer:** 5\. All of the above
+**Answer:** 5. All of the above
 
 **Can a blockquote be applied to a sentence in a paragraph?**
 
 1.  Yes
 2.  No
 
-**Answer:** 2\. No. It is a block element and applies to the entire paragraph.
+**Answer:** 2. No. It is a block element and applies to the entire paragraph.
 
 **What does the toolbar toggle allow a user to do?**
 
@@ -143,7 +143,7 @@ Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, hav
 3.  Reveals/hides the 2nd row of buttons in the toolbar
 4.  Move a block of text to the right
 
-**Answer:** 3\. Reveals/hides the 2nd row of buttons in the toolbar
+**Answer:** 3. Reveals/hides the 2nd row of buttons in the toolbar
 
 ## Additional Resources
 
@@ -292,7 +292,7 @@ _Examples:_
 
 [Opens the link in the same browser window](https://wordpress.org)
 
-<a href="https://wordpress.org" target="_blank">Opens the link in a new browser window</a>
+[Opens the link in a new browser window. CTRL + click on the link](https://wordpress.org)
 
 #### Remove link
 
@@ -383,99 +383,52 @@ Windows and Linux use "Ctrl + letter", Mac uses "Command (⌘) + letter".
 **Ctrl/Command + key**
 
 <table class="wikitable">
-
-<tbody>
-
-<tr>
-
-<th>Letter</th>
-
-<th>Action</th>
-
-</tr>
-
-<tr>
-
-<td>c</td>
-
-<td>Copy</td>
-
-</tr>
-
-<tr>
-
-<td>v</td>
-
-<td>Paste</td>
-
-</tr>
-
-<tr>
-
-<td>a</td>
-
-<td>Select all</td>
-
-</tr>
-
-<tr>
-
-<td>x</td>
-
-<td>Cut</td>
-
-</tr>
-
-<tr>
-
-<td>z</td>
-
-<td>Undo</td>
-
-</tr>
-
-<tr>
-
-<td>y</td>
-
-<td>Redo</td>
-
-</tr>
-
-<tr>
-
-<td>b</td>
-
-<td>Bold</td>
-
-</tr>
-
-<tr>
-
-<td>i</td>
-
-<td>Italic</td>
-
-</tr>
-
-<tr>
-
-<td>u</td>
-
-<td>Underline</td>
-
-</tr>
-
-<tr>
-
-<td>k</td>
-
-<td>Insert/edit link</td>
-
-</tr>
-
-</tbody>
-
+	<tbody>
+		<tr>
+			<th>Letter</th>
+			<th>Action</th>
+		</tr>
+		<tr>
+			<td>c</td>
+			<td>Copy</td>
+		</tr>
+		<tr>
+			<td>v</td>
+			<td>Paste</td>
+		</tr>
+		<tr>
+			<td>a</td>
+			<td>Select all</td>
+		</tr>
+		<tr>
+			<td>x</td>
+			<td>Cut</td>
+		</tr>
+		<tr>
+			<td>z</td>
+			<td>Undo</td>
+		</tr>
+		<tr>
+			<td>y</td>
+			<td>Redo</td>
+		</tr>
+		<tr>
+			<td>b</td>
+			<td>Bold</td>
+		</tr>
+		<tr>
+			<td>i</td>
+			<td>Italic</td>
+		</tr>
+		<tr>
+			<td>u</td>
+			<td>Underline</td>
+		</tr>
+		<tr>
+			<td>k</td>
+			<td>Insert/edit link</td>
+		</tr>
+	</tbody>
 </table>
 
 #### Additional shortcuts
@@ -483,211 +436,108 @@ Windows and Linux use "Ctrl + letter", Mac uses "Command (⌘) + letter".
 **Alt + Shift + key** The following shortcuts use a different key combination: Windows/Linux: "Alt + Shift (⇧) + letter". Mac: "Ctrl + Option (alt ⌥) + letter". (Macs running any WordPress version below 4.2 use "Alt + Shift (⇧) + letter").
 
 <table>
-
-<tbody>
-
-<tr>
-
-<th>Letter</th>
-
-<th>Action</th>
-
-</tr>
-
-<tr>
-
-<td>n</td>
-
-<td>Check Spelling (This requires a plugin.)</td>
-
-</tr>
-
-<tr>
-
-<td>l</td>
-
-<td>Align Left</td>
-
-</tr>
-
-<tr>
-
-<td>j</td>
-
-<td>Justify Text</td>
-
-</tr>
-
-<tr>
-
-<td>c</td>
-
-<td>Align Center</td>
-
-</tr>
-
-<tr>
-
-<td>d</td>
-
-<td>Strikethrough</td>
-
-</tr>
-
-<tr>
-
-<td>r</td>
-
-<td>Align Right</td>
-
-</tr>
-
-<tr>
-
-<td>u</td>
-
-<td>• List</td>
-
-</tr>
-
-<tr>
-
-<td>a</td>
-
-<td>Insert link</td>
-
-</tr>
-
-<tr>
-
-<td>o</td>
-
-<td>1\. List</td>
-
-</tr>
-
-<tr>
-
-<td>s</td>
-
-<td>Remove link</td>
-
-</tr>
-
-<tr>
-
-<td>q</td>
-
-<td>Quote</td>
-
-</tr>
-
-<tr>
-
-<td>m</td>
-
-<td>Insert Image</td>
-
-</tr>
-
-<tr>
-
-<td>w</td>
-
-<td>Distraction Free Writing mode</td>
-
-</tr>
-
-<tr>
-
-<td>t</td>
-
-<td>Insert More Tag</td>
-
-</tr>
-
-<tr>
-
-<td>p</td>
-
-<td>Insert Page Break tag</td>
-
-</tr>
-
-<tr>
-
-<td>h</td>
-
-<td>Help</td>
-
-</tr>
-
-<tr>
-
-<td>x</td>
-
-<td>Add/remove code tag</td>
-
-</tr>
-
-<tr>
-
-<td>1</td>
-
-<td>Heading 1</td>
-
-</tr>
-
-<tr>
-
-<td>2</td>
-
-<td>Heading 2</td>
-
-</tr>
-
-<tr>
-
-<td>3</td>
-
-<td>Heading 3</td>
-
-</tr>
-
-<tr>
-
-<td>4</td>
-
-<td>Heading 4</td>
-
-</tr>
-
-<tr>
-
-<td>5</td>
-
-<td>Heading 5</td>
-
-</tr>
-
-<tr>
-
-<td>6</td>
-
-<td>Heading 6</td>
-
-</tr>
-
-<tr>
-
-<td>9</td>
-
-<td>Address</td>
-
-</tr>
-
-</tbody>
-
+	<tbody>
+		<tr>
+			<th>Letter</th>
+			<th>Action</th>
+		</tr>
+		<tr>
+			<td>n</td>
+			<td>Check Spelling (This requires a plugin.)</td>
+		</tr>
+		<tr>
+			<td>l</td>
+			<td>Align Left</td>
+		</tr>
+		<tr>
+			<td>j</td>
+			<td>Justify Text</td>
+		</tr>
+		<tr>
+			<td>c</td>
+			<td>Align Center</td>
+		</tr>
+		<tr>
+			<td>d</td>
+			<td>Strikethrough</td>
+		</tr>
+		<tr>
+			<td>r</td>
+			<td>Align Right</td>
+		</tr>
+		<tr>
+			<td>u</td>
+			<td>• List</td>
+		</tr>
+		<tr>
+			<td>a</td>
+			<td>Insert link</td>
+		</tr>
+		<tr>
+			<td>o</td>
+			<td>1. List</td>
+		</tr>
+		<tr>
+			<td>s</td>
+			<td>Remove link</td>
+		</tr>
+		<tr>
+			<td>q</td>
+			<td>Quote</td>
+		</tr>
+		<tr>
+			<td>m</td>
+			<td>Insert Image</td>
+		</tr>
+		<tr>
+			<td>w</td>
+			<td>Distraction Free Writing mode</td>
+		</tr>
+		<tr>
+			<td>t</td>
+			<td>Insert More Tag</td>
+		</tr>
+		<tr>
+			<td>p</td>
+			<td>Insert Page Break tag</td>
+		</tr>
+		<tr>
+			<td>h</td>
+			<td>Help</td>
+		</tr>
+		<tr>
+			<td>x</td>
+			<td>Add/remove code tag</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>Heading 1</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Heading 2</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>Heading 3</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>Heading 4</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>Heading 5</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>Heading 6</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>Address</td>
+		</tr>
+	</tbody>
 </table>
 
 #### Formatting shortcuts
@@ -695,179 +545,98 @@ Windows and Linux use "Ctrl + letter", Mac uses "Command (⌘) + letter".
 When starting a new paragraph with one of these formatting shortcuts followed by a space, the formatting will be applied automatically. Press Backspace or Escape to undo.
 
 <table>
-
-<tbody>
-
-<tr>
-
-<th>Letter</th>
-
-<th>Action</th>
-
-</tr>
-
-<tr>
-
-<td>*</td>
-
-<td>Start an unordered list</td>
-
-</tr>
-
-<tr>
-
-<td>-</td>
-
-<td>Start an unordered list</td>
-
-</tr>
-
-<tr>
-
-<td>1.</td>
-
-<td>Start an ordered list</td>
-
-</tr>
-
-<tr>
-
-<td>1)</td>
-
-<td>Start an ordered list</td>
-
-</tr>
-
-</tbody>
-
+	<tbody>
+		<tr>
+			<th>Letter</th>
+			<th>Action</th>
+		</tr>
+		<tr>
+			<td>*</td>
+			<td>Start an unordered list</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>Start an unordered list</td>
+		</tr>
+		<tr>
+			<td>1.</td>
+			<td>Start an ordered list</td>
+		</tr>
+		<tr>
+			<td>1)</td>
+			<td>Start an ordered list</td>
+		</tr>
+	</tbody>
 </table>
 
 The following formatting shortcuts are replaced when pressing Enter. Press Escape or the Undo button to undo.
 
 <table>
-
-<tbody>
-
-<tr>
-
-<th>Letter</th>
-
-<th>Action</th>
-
-</tr>
-
-<tr>
-
-<td>##</td>
-
-<td>H2</td>
-
-</tr>
-
-<tr>
-
-<td>###</td>
-
-<td>H3</td>
-
-</tr>
-
-<tr>
-
-<td>####</td>
-
-<td>H4</td>
-
-</tr>
-
-<tr>
-
-<td>#####</td>
-
-<td>H5</td>
-
-</tr>
-
-<tr>
-
-<td>######</td>
-
-<td>H6</td>
-
-</tr>
-
-<tr>
-
-<td>></td>
-
-<td>transform text into blockquote</td>
-
-</tr>
-
-<tr>
-
-<td>---</td>
-
-<td>horizontal line</td>
-
-</tr>
-
-<tr>
-
-<td>``..``</td>
-
-<td>transform text into code block</td>
-
-</tr>
-
-</tbody>
-
+	<tbody>
+		<tr>
+			<th>Letter</th>
+			<th>Action</th>
+		</tr>
+		<tr>
+			<td>##</td>
+			<td>H2</td>
+		</tr>
+		<tr>
+			<td>###</td>
+			<td>H3</td>
+		</tr>
+		<tr>
+			<td>####</td>
+			<td>H4</td>
+		</tr>
+		<tr>
+			<td>#####</td>
+			<td>H5</td>
+		</tr>
+		<tr>
+			<td>######</td>
+			<td>H6</td>
+		</tr>
+		<tr>
+			<td>></td>
+			<td>transform text into blockquote</td>
+		</tr>
+		<tr>
+			<td>---</td>
+			<td>horizontal line</td>
+		</tr>
+		<tr>
+			<td>``..``</td>
+			<td>transform text into code block</td>
+		</tr>
+	</tbody>
 </table>
 
 #### Focus shortcuts
 
 <table class="wp-help-single">
-
-<tbody>
-
-<tr>
-
-<td><kbd>Alt + F8</kbd></td>
-
-<td>Inline toolbar (when an image, link or preview is selected)</td>
-
-</tr>
-
-<tr>
-
-<td><kbd>Alt + F9</kbd></td>
-
-<td>Editor menu (when enabled)</td>
-
-</tr>
-
-<tr>
-
-<td><kbd>Alt + F10</kbd></td>
-
-<td>Editor toolbar</td>
-
-</tr>
-
-<tr>
-
-<td><kbd>Alt + F11</kbd></td>
-
-<td>Elements path</td>
-
-</tr>
-
-</tbody>
-
+	<tbody>
+		<tr>
+			<td><kbd>Alt + F8</kbd></td>
+			<td>Inline toolbar (when an image, link or preview is selected)</td>
+		</tr>
+		<tr>
+			<td><kbd>Alt + F9</kbd></td>
+			<td>Editor menu (when enabled)</td>
+		</tr>
+		<tr>
+			<td><kbd>Alt + F10</kbd></td>
+			<td>Editor toolbar</td>
+		</tr>
+		<tr>
+			<td><kbd>Alt + F11</kbd></td>
+			<td>Elements path</td>
+		</tr>
+	</tbody>
 </table>
 
 To move focus to other buttons use Tab or the arrow keys. To return focus to the editor press Escape or use one of the buttons.
 
 ### Lesson Wrap Up
 
-> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with exercises and assessment outlined above.
+![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with exercises and assessment outlined above.
