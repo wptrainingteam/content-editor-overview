@@ -1,3 +1,12 @@
+info]<strong>To Do</strong>
+<ul>
+ 	<li>check list consistancy</li>
+ 	<li>are add and insert suitable objective words</li>
+	<li>have tou thought about section not in style guide</li>
+	<li>got to exercises</li>
+</ul>
+[/info]
+
 # Content Editor Overview
 
 ## Description
@@ -8,13 +17,13 @@ In this lesson you will learn how to structure and format content for the web in
 
 After completing this lesson, participants will be able to:
 
-*   Recognize the need to structure and format content for the web.
-*   Choose toolbar and screen modes.
-*   Identify toolbar features for formatting content.
-*   Apply WYSIWYG formatting to content.
-*   Add links to content. ??
-*   Add content from other sources. ??
-*   Insert symbols and special characters. ??
+*   Recognize the need to structure and format content for the web
+*   Choose toolbar and screen modes
+*   Identify toolbar features for formatting content
+*   Apply WYSIWYG formatting to content
+*   Add links to content
+*   Add content from other sources
+*   Insert symbols and special characters
 
 ## Target Audience
 
@@ -53,7 +62,7 @@ Which strategies will be used for this lesson plan? Choose all that apply.
 
 ## Prerequisite Skills
 
-You will be better equipped to work through this lesson if you have experience in and familiarity with:
+Participants will get the most from this lesson if they have familiarity with:
 
 *   Ability to use a general text editor
 *   Interest in creating and formatting web content
@@ -67,6 +76,10 @@ Have you used any WYSIWYG editors such as:
 *   Microsoft Word?
 *   Google Docs?
 
+## Slides
+
+* No slides are available for this lesson as it is mostly demonstration
+
 ## Materials Needed
 
 *   A way to display your computer to the group
@@ -75,10 +88,10 @@ Have you used any WYSIWYG editors such as:
 
 ## Notes for the Instructor
 
-*   **No slides are available for this lesson as it is mostly demonstration.**
-*   Students should import the [Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) if they do not have sufficient content to work with.
-*   Be prepared to explain the basics of structured text, distinguishing between block elements and inline elements, so that students do not get frustrated attempting to apply excessive manual formatting.
-*   Be prepared to explain the difference between a paragraph break (press the return/enter key) and a line break (press shift key + return/enter key) for proper paragraph structuring.
+*   **No slides are available for this lesson as it is mostly demonstration**
+*   Students should import the [Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) if they do not have sufficient content to work with
+*   Be prepared to explain the basics of structured text, distinguishing between block elements and inline elements, so that students do not get frustrated attempting to apply excessive manual formatting
+*   Be prepared to explain the difference between a paragraph break (press the return/enter key) and a line break (press shift key + return/enter key) for proper paragraph structuring
 
 ## Have You Thought About...?
 
@@ -87,7 +100,7 @@ What could present challenges to delivering this lesson? Is there anything that 
 *  Participants could be in the Text editor instead of the Visual editor. Do you want to go over that too?
 *  What if a participant doesn’t have a WordPress site to work with? Can they log into yours and work there?
 
-## Lesson Overview
+## Lesson Outline
 
 * Lecture on the need for the proper formatting of web content
 * Demonstrate each of the toolbar buttons by displaying the content editor and showing how each button is used
@@ -99,14 +112,14 @@ What could present challenges to delivering this lesson? Is there anything that 
 
 Using either [lorem ipsum text](https://www.lipsum.com/) or existing copy, have students:
 
-1. Switch between Visual and Text modes.
-2. Add a variety of headings within a blog post. (Remember that Heading 1 is for the title of the blog post, so students should use Headings 2-6 inside their posts.)
-3. Apply bold and italic formatting to text.
-4. Add a link to an external webpage.
-5. Change the color of some text.
-6. Make a paragraph a blockquote.
-7. Add a special character to their text.
-8. Right-align a paragraph.
+1. Switch between Visual and Text modes
+2. Add a variety of headings within a blog post (Remember that Heading 1 is for the title of the blog post, so students should use Headings 2-6 inside their posts)
+3. Apply bold and italic formatting to text
+4. Add a link to an external webpage
+5. Change the color of some text
+6. Make a paragraph a blockquote
+7. Add a special character to their text
+8. Right-align a paragraph
 
 ## Quiz
 
