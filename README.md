@@ -2,19 +2,19 @@
 
 ## Description
 
-In this lesson you will learn how to structure and format content for the web in the WordPress Content Editor for pages and posts. The editor uses a WYSIWYG (What You See Is What You Get) toolbar that is similar to word processing software and text editing applications. You don't need to understand HTML code which is the standard for web content, as you can use the visual editor which creates and manages the underlying code for you. (Note that the WordPress editor does allow users to see and modify the actual HTML code for content if desired.) You'll also be able to add links, add images and media, and insert symbols and special characters into web content.
+In this lesson you will learn how to structure and format content for the web in the WordPress Content Editor for pages and posts. The editor uses a WYSIWYG (What You See Is What You Get) toolbar that is similar to word processing software and text editing applications. You don't need to understand HTML code which is the standard for web content, as you can use the visual editor which creates and manages the underlying code for you. (Note that the WordPress editor does allow users to see and modify the actual HTML code for content if desired). You'll also be able to add links, add images and media, and insert symbols and special characters into web content.
 
 ## Objectives
 
-At the end of this lesson, you will be able to:
+After completing this lesson, participants will be able to:
 
 *   Recognize the need to structure and format content for the web.
 *   Choose toolbar and screen modes.
 *   Identify toolbar features for formatting content.
 *   Apply WYSIWYG formatting to content.
-*   Add links to content.
-*   Add content from other sources.
-*   Insert symbols and special characters.
+*   Add links to content. ??
+*   Add content from other sources. ??
+*   Insert symbols and special characters. ??
 
 ## Target Audience
 
