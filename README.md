@@ -1,4 +1,4 @@
-info]<strong>To Do</strong>
+[info]<strong>To Do</strong>
 <ul>
  	<li>check list consistancy</li>
  	<li>are add and insert suitable objective words</li>
