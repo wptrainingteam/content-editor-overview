@@ -1,9 +1,7 @@
 [info]<strong>To Do</strong>
 <ul>
- 	<li>check list consistancy</li>
- 	<li>are add and insert suitable objective words</li>
-	<li>have tou thought about section not in style guide</li>
-	<li>got to exercises</li>
+ 	<li></li>
+	<li>line 175</li>
 </ul>
 [/info]
 
@@ -11,19 +9,19 @@
 
 ## Description
 
-In this lesson you will learn how to structure and format content for the web in the WordPress Content Editor for pages and posts. The editor uses a WYSIWYG (What You See Is What You Get) toolbar that is similar to word processing software and text editing applications. You don't need to understand HTML code which is the standard for web content, as you can use the visual editor which creates and manages the underlying code for you. (Note that the WordPress editor does allow users to see and modify the actual HTML code for content if desired). You'll also be able to add links, add images and media, and insert symbols and special characters into web content.
+In this lesson you will learn how to structure and format content for the web in the WordPress Content Editor for pages and posts. The editor uses a WYSIWYG (What You See Is What You Get) toolbar that is similar to word processing software and text editing applications. You don't need to understand HTML code which is the standard for web content, as you can use the visual editor which creates and manages the underlying code for you (Note that the WordPress editor does allow users to see and modify the actual HTML code for content if desired). You'll also be able to add links, add images and media, and insert symbols and special characters into web content.
 
 ## Objectives
 
 After completing this lesson, participants will be able to:
 
-*   Recognize the need to structure and format content for the web
-*   Choose toolbar and screen modes
-*   Identify toolbar features for formatting content
-*   Apply WYSIWYG formatting to content
-*   Add links to content
-*   Add content from other sources
-*   Insert symbols and special characters
+*   Recognize the need to structure and format content for the web.
+*   Choose toolbar and screen modes.
+*   Identify toolbar features for formatting content.
+*   Apply WYSIWYG formatting to content.
+*   Add links to content.
+*   Add content from other sources.
+*   Insert symbols and special characters.
 
 ## Target Audience
 
@@ -78,33 +76,27 @@ Have you used any WYSIWYG editors such as:
 
 ## Slides
 
-* No slides are available for this lesson as it is mostly demonstration
+* No slides are available for this lesson as it is mostly demonstration.
 
 ## Materials Needed
 
-*   A way to display your computer to the group
-*   A WordPress site that you can show
-*	[Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) for sample content, if needed
+*   A way to display your computer to the group.
+*   A WordPress site that you can show:
+*	[Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) for sample content, if needed.
 
 ## Notes for the Instructor
 
-*   **No slides are available for this lesson as it is mostly demonstration**
-*   Students should import the [Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) if they do not have sufficient content to work with
-*   Be prepared to explain the basics of structured text, distinguishing between block elements and inline elements, so that students do not get frustrated attempting to apply excessive manual formatting
-*   Be prepared to explain the difference between a paragraph break (press the return/enter key) and a line break (press shift key + return/enter key) for proper paragraph structuring
-
-## Have You Thought About...?
-
-What could present challenges to delivering this lesson? Is there anything that can be done in advance to prepare for those challenges?
-
-*  Participants could be in the Text editor instead of the Visual editor. Do you want to go over that too?
-*  What if a participant doesn’t have a WordPress site to work with? Can they log into yours and work there?
+*   **No slides are available for this lesson as it is mostly demonstration.**
+*   Students should import the [Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) if they do not have sufficient content to work with.
+*   Be prepared to explain the basics of structured text, distinguishing between block elements and inline elements, so that students do not get frustrated attempting to apply excessive manual formatting.
+*   Be prepared to explain the difference between a paragraph break (press the return/enter key) and a line break (press shift key + return/enter key) for proper paragraph structuring.
+*  Students could try to work in the Text editor instead of the Visual editor. You may wish to go over Text editor as well.
 
 ## Lesson Outline
 
-* Lecture on the need for the proper formatting of web content
-* Demonstrate each of the toolbar buttons by displaying the content editor and showing how each button is used
-* Student exercises on formatting content using the buttons in the toolbar
+* Lecture on the need for the proper formatting of web content.
+* Demonstrate each of the toolbar buttons by displaying the content editor and showing how each button is used.
+* Student exercises on formatting content using the buttons in the toolbar.
 
 ## Exercises
 
@@ -174,9 +166,9 @@ WordPress themes use a combination of Hypertext Markup Language (HTML) and Casc
 
 ### Using the Content Editor
 
-The content editor is available when editing a Post or Page. In the backend administrative Dashboard, select Posts or Pages and then click on a title or hover or an item and click on "Edit." The content editor may be available for other content items, such as custom post types (e.g., Staff, Event, Portfolio), but that depends upon the theme, plugin, or developer customization.
+The content editor is available when editing a Post or Page. In the backend administrative Dashboard, select Posts or Pages and then click on a title or hover over an item and click on "Edit." The content editor may be available for other content items, such as custom post types (e.g. Staff, Event, Portfolio), but that depends upon the theme, plugin, or developer customization.
 
-When it comes to styling the text in the content, you select the text to style and then click the appropriate button on the toolbar to apply the style. Some text operations only work properly if there is a paragraph break **both above and below** the text being styled. These are called block elements and they include: paragraphs, headings, bulleted lists, numbered lists, horizontal lines, and blockquotes. (Otherwise it is known as an inline element.) Knowing how to work with block elements makes for a much more satisfying experience when using the editor. For example, for paragraph alignment, your cursor simply needs to be somewhere in the paragraph that is to be aligned.
+When it comes to styling the text in the content, you select the text to style and then click the appropriate button on the toolbar to apply the style. Some text operations only work properly if there is a paragraph break **both above and below** the text being styled. These are called block elements and they include: paragraphs, headings, bulleted lists, numbered lists, horizontal lines, and blockquotes (Otherwise it is known as an inline element). Knowing how to work with block elements makes for a much more satisfying experience when using the editor. For example, for paragraph alignment, your cursor simply needs to be somewhere in the paragraph that is to be aligned.
 
 **The edits you make to your text only appear on your site after you click the "Update" button.** Also, the editor typically displays generic formatting, while the frontend of the website will apply the full, complete formatting based on the theme.
 
