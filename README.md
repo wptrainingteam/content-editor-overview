@@ -1,7 +1,7 @@
 [info]<strong>To Do</strong>
 <ul>
  	<li></li>
-	<li>line 175</li>
+	<li>line 238</li>
 </ul>
 [/info]
 
@@ -206,7 +206,7 @@ The editor has four modes of viewing available.
 
 Heading tags are in a drop-down list and the first item in the toolbar. Heading tags are usually applied to short phrases or single words that organize content in an outline format that is more readable and appealing to users. Heading tags are also important for search engines, as they indicate a high-level outline of the overall content.
 
-Heading 1 is a top-level tag in the outline of the content that is typically used for the Title of a page or post. It is a best practice to have only one Heading 1 tag on a webpage and therefore you should avoid using it within your content unless there is a specific reason to do so. Heading 2 is a second-level tag that can be used to denote sections of the content. Heading 3 is a third-level tag within a section that begins with a Heading 2 tag. And, this pattern continues all the way down to the lowest level with Heading 6.
+Heading 1 is a top-level tag in the outline of the content that is typically used for the Title of a page or post. It is best practice to have only one Heading 1 tag on a webpage and therefore you should avoid using it within your content unless there is a specific reason to do so. Heading 2 is a second-level tag that can be used to denote sections of the content. Heading 3 is a third-level tag within a section that begins with a Heading 2 tag, this pattern continues all the way down to the lowest level with Heading 6.
 
 ### Text Styles
 
