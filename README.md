@@ -214,9 +214,9 @@ Heading 1 is a top-level tag in the outline of the content that is typically us
 
 The first two buttons in the toolbar are basic styles for the copy in your post. You see these style options in many word processing programs and they can be used on individual words, entire sentences, complete paragraphs, or an entire document.
 
-**Bold**: **Bolds text** (select the text and click the Bold button - or press cmd+b (Mac), ctl+b (PC) on your keyboard)
+**Bold**: **Bolds text** (select the text and click the Bold button; or press cmd+b (Mac); or ctl+b (PC) on your keyboard)
 
-**Italic**: _Italicizes text_ (select the text and click the Italic button - or press cmd+i (Mac), ctl+i (PC) on your keyboard). You can also apply both _**bold and italic**_ styles to the same text by selecting the text and clicking both the Bold and Italic buttons.
+**Italic**: _Italicizes text_ (select the text and click the Italic button; or press cmd+i (Mac); or ctl+i (PC) on your keyboard). You can also apply both _**bold and italic**_ styles to the same text by selecting the text and clicking both the Bold and Italic buttons.
 
 ### Text Formatting
 
@@ -229,9 +229,9 @@ The next three buttons on the toolbar offer formatting for block elements. Remem
 Unordered lists should be used for items that are in no particular order (where the sequence doesn't matter).
 
 _Example:_
-*   plugins
-*   themes
-*   pages
+*   Plugins
+*   Themes
+*   Pages
 
 You can also remove the bullets from a list by selecting the entire list and click the bulleted list icon.
 
@@ -240,22 +240,22 @@ You can also remove the bullets from a list by selecting the entire list and cl
 Ordered lists should be used for items that are in a particular order (where the sequence matters). They can also be useful for longer lists as it makes it easier to reference a specific item in the list.
 
 _Example:_
-1.  red
-2.  green
-3.  blue
+1.  Red
+2.  Green
+3.  Blue
 
-> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Nested lists are also possible, including mixed nested lists. place your cursor after the last character of the list item that will start the sub-list and press return on your keyboard.  Then click the Increase Indent button (in the bottom set of buttons on your toolbar) to start your sub-list.  Notice that the bullets in front of to the sub-list items look different. You can also make sub-lists below your sub-lists, but the bullets will start to all look the same.
+> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Nested lists are also possible, including mixed nested lists. Place your cursor after the last character of the list item that will start the sub-list and press return on your keyboard.  Then click the Increase Indent button (in the bottom set of buttons on your toolbar) to start your sub-list.  Notice that the bullets in front of to the sub-list items look different. You can also make sub-lists below your sub-lists, but the bullets will start to all look the same.
 
 _Example:_
-*   plugins
+*   Plugins
 	1. Akismet
 	2. Hello Dolly
 	3. Jetpack
-*   themes
+*   Themes
     *   Twenty Thirteen
     *   Twenty Fourteen
     *   Kubrick
-*   pages
+*   Pages
 
 #### Blockquote
 
@@ -291,7 +291,7 @@ When writing posts, you may want to create a link to outside content or other co
 
 #### Insert/edit link
 
-Select the word(s) that you'd like to link. Click the "Insert/edit link" icon and a popup window will appear. There you'll be able to add a fully formed URL to a page that's not on your site or a link to a page within your website. You'll also be able to decide whether you want the link to open the page in a new browser tab or open the linked page within the same browser window. It is also possible to highlight the text you would like to link and paste the link directly over it to make an automatic link.
+Select the word(s) that you would like to link. Click the "Insert/edit link" icon and a popup window will appear. There you will be able to add a fully formed URL to a page that's not on your site or a link to a page within your website. You will also be able to decide whether you want the link to open the page in a new browser tab or open the linked page within the same browser window. It is also possible to highlight the text you would like to link and paste the link directly over it to make an automatic link.
 
 _Examples:_
 
@@ -313,7 +313,7 @@ The Read More tag allows the user to determine where they would like the text on
 
 ![Strikethrough button](/images/content-editor-strikethrough-button.png)
 
-<del>Draws a strikethrough line over the text</del> (select the text and click the Strikethrough button -- or press shift+alt+d on your keyboard)
+<del>Draws a strikethrough line over the text</del> (select the text and click the Strikethrough button; or press shift+alt+d on your keyboard)
 
 ### Horizontal Line
 
@@ -333,7 +333,7 @@ You can change the color of the text by clicking this button and choosing from t
 
 ![Clear Formatting button](/images/content-editor-clear-formatting-button.png)
 
-You may need to remove formatting that you've added, and sometimes you may need to remove formatting when copying and pasting content from other sources.
+You may need to remove formatting that you previously added, and sometimes you may need to remove formatting when copying and pasting content from other sources.
 
 ### Paste as text
 
@@ -379,9 +379,10 @@ WordPress retains the last action you performed, either typing or with the toolb
 
 ![Keyboard Shortcuts button](/images/content-editor-keyboard-shortcuts-button.png)
 
-You can use a combination of keys to do things that normally need a mouse, trackpad, or other input devices. Rather than reaching for your mouse to click on the toolbar, you can use keyboard shortcuts, which are displayed in a popup window when you click the Keyboard Shortcuts button or press shift-alt-h.
+You can use a combination of keys to do things that normally need a mouse, trackpad, or other input devices. Rather than reaching for your mouse to click on the toolbar, you can use keyboard shortcuts, which are displayed in a popup window when you click the Keyboard Shortcuts button; or press shift-alt-h.
 
-Windows and Linux use "Ctrl + letter", Mac uses "Command (⌘) + letter".
+* Windows and Linux use "Ctrl + letter"
+* Mac uses "Command (⌘) + letter"
 
 #### Default shortcuts
 
@@ -438,7 +439,10 @@ Windows and Linux use "Ctrl + letter", Mac uses "Command (⌘) + letter".
 
 #### Additional shortcuts
 
-**Alt + Shift + key** The following shortcuts use a different key combination: Windows/Linux: "Alt + Shift (⇧) + letter". Mac: "Ctrl + Option (alt ⌥) + letter". (Macs running any WordPress version below 4.2 use "Alt + Shift (⇧) + letter").
+**Alt + Shift + key** The following shortcuts use a different key combination:
+
+* Windows and Linux use "Alt + Shift (⇧) + letter"
+* Mac uses "Ctrl + Option (alt ⌥) + letter" (Macs running any WordPress version below 4.2 use "Alt + Shift (⇧) + letter")
 
 <table>
 	<tbody>
@@ -448,7 +452,7 @@ Windows and Linux use "Ctrl + letter", Mac uses "Command (⌘) + letter".
 		</tr>
 		<tr>
 			<td>n</td>
-			<td>Check Spelling (This requires a plugin.)</td>
+			<td>Check Spelling (This requires a plugin)</td>
 		</tr>
 		<tr>
 			<td>l</td>
@@ -623,7 +627,7 @@ The following formatting shortcuts are replaced when pressing Enter. Press Escap
 	<tbody>
 		<tr>
 			<td><kbd>Alt + F8</kbd></td>
-			<td>Inline toolbar (when an image, link or preview is selected)</td>
+			<td>Inline toolbar (when an image, link, or preview is selected)</td>
 		</tr>
 		<tr>
 			<td><kbd>Alt + F9</kbd></td>
