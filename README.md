@@ -1,9 +1,7 @@
-[info]<strong>To Do</strong>
+> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/icon-info.png) <strong>To Do</strong>
 <ul>
- 	<li></li>
-	<li>line 238</li>
+ 	<li>test</li>
 </ul>
-[/info]
 
 # Content Editor Overview
 
