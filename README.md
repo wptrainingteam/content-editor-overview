@@ -1,12 +1,12 @@
-# Content Editor Overview
+# Classic Editor Overview
 
 ## Description
 
-In this lesson you will learn how to structure and format content for the web in the WordPress Content Editor for pages and posts. The editor uses a WYSIWYG (What You See Is What You Get) toolbar that is similar to word processing software and text editing applications. You don't need to understand HTML code which is the standard for web content, as you can use the visual editor which creates and manages the underlying code for you. (Note that the WordPress editor does allow users to see and modify the actual HTML code for content if desired.) You'll also be able to add links, add images and media, and insert symbols and special characters into web content.
+In this lesson you will learn how to structure and format content for the web in the WordPress Classic Editor for pages and posts. The editor uses a WYSIWYG (What You See Is What You Get) toolbar that is similar to word processing software and text editing applications. You don't need to understand HTML code which is the standard for web content, as you can use the visual editor which creates and manages the underlying code for you (Note that the WordPress editor does allow users to see and modify the actual HTML code for content if desired). You'll also be able to add links, add images and media, and insert symbols and special characters into web content.
 
 ## Objectives
 
-At the end of this lesson, you will be able to:
+After completing this lesson, participants will be able to:
 
 *   Recognize the need to structure and format content for the web.
 *   Choose toolbar and screen modes.
@@ -53,7 +53,7 @@ Which strategies will be used for this lesson plan? Choose all that apply.
 
 ## Prerequisite Skills
 
-You will be better equipped to work through this lesson if you have experience in and familiarity with:
+Participants will get the most from this lesson if they have familiarity with:
 
 *   Ability to use a general text editor
 *   Interest in creating and formatting web content
@@ -67,11 +67,15 @@ Have you used any WYSIWYG editors such as:
 *   Microsoft Word?
 *   Google Docs?
 
+## Slides
+
+* No slides are available for this lesson as it is mostly demonstration.
+
 ## Materials Needed
 
-*   A way to display your computer to the group
-*   A WordPress site that you can show
-*	[Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) for sample content, if needed
+*   A way to display your computer to the group.
+*   A WordPress site that you can show:
+*	[Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) for sample content, if needed.
 
 ## Notes for the Instructor
 
@@ -79,36 +83,30 @@ Have you used any WYSIWYG editors such as:
 *   Students should import the [Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) if they do not have sufficient content to work with.
 *   Be prepared to explain the basics of structured text, distinguishing between block elements and inline elements, so that students do not get frustrated attempting to apply excessive manual formatting.
 *   Be prepared to explain the difference between a paragraph break (press the return/enter key) and a line break (press shift key + return/enter key) for proper paragraph structuring.
+*  Students could try to work in the Text editor instead of the Visual editor. You may wish to go over Text editor as well.
 
-## Have You Thought About...?
+## Lesson Outline
 
-What could present challenges to delivering this lesson? Is there anything that can be done in advance to prepare for those challenges?
-
-*  Participants could be in the Text editor instead of the Visual editor. Do you want to go over that too?
-*  What if a participant doesn’t have a WordPress site to work with? Can they log into yours and work there?
-
-## Lesson Overview
-
-* Lecture on the need for the proper formatting of web content
-* Demonstrate each of the toolbar buttons by displaying the content editor and showing how each button is used
-* Student exercises on formatting content using the buttons in the toolbar
+* Lecture on the need for the proper formatting of web content.
+* Demonstrate each of the toolbar buttons by displaying the content editor and showing how each button is used.
+* Student exercises on formatting content using the buttons in the toolbar.
 
 ## Exercises
 
 **Add Headings to a Blog Post**
 
-Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, have students:
+Using either [lorem ipsum text](https://www.lipsum.com/) or existing copy, have students:
 
-1. Switch between Visual and Text modes.
-1. Add a variety of headings within a blog post. (Remember that Heading 1 is for the title of the blog post, so students should use Headings 2-6 inside their posts.)
-1. Apply bold and italic formatting to text.
-1. Add a link to an external webpage.
-1. Change the color of some text.
-1. Make a paragraph a blockquote.
-1. Add a special character to their text.
-1. Right-align a paragraph.
+1. Switch between Visual and Text modes
+2. Add a variety of headings within a blog post (Remember that Heading 1 is for the title of the blog post, so students should use Headings 2-6 inside their posts)
+3. Apply bold and italic formatting to text
+4. Add a link to an external webpage
+5. Change the color of some text
+6. Make a paragraph a blockquote
+7. Add a special character to their text
+8. Right-align a paragraph
 
-## Assessment
+## Quiz
 
 **What is the name of the collection of buttons inside the content editor?**
 
@@ -117,7 +115,7 @@ Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, hav
 3.  The toolbar
 4.  The button bar
 
-**Answer:** 3\. The toolbar
+**Answer:** 3. The toolbar
 
 **Why is the proper formatting of the content within a blog post important?**
 
@@ -127,14 +125,14 @@ Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, hav
 1. It helps organize the information
 1. All of the above
 
-**Answer:** 5\. All of the above
+**Answer:** 5. All of the above
 
 **Can a blockquote be applied to a sentence in a paragraph?**
 
 1.  Yes
 2.  No
 
-**Answer:** 2\. No. It is a block element and applies to the entire paragraph.
+**Answer:** 2. No. It is a block element and applies to the entire paragraph.
 
 **What does the toolbar toggle allow a user to do?**
 
@@ -143,7 +141,7 @@ Using either [lorem ipsum text](http://meettheipsums.com/) or existing copy, hav
 3.  Reveals/hides the 2nd row of buttons in the toolbar
 4.  Move a block of text to the right
 
-**Answer:** 3\. Reveals/hides the 2nd row of buttons in the toolbar
+**Answer:** 3. Reveals/hides the 2nd row of buttons in the toolbar
 
 ## Additional Resources
 
@@ -161,9 +159,9 @@ WordPress themes use a combination of Hypertext Markup Language (HTML) and Casc
 
 ### Using the Content Editor
 
-The content editor is available when editing a Post or Page. In the backend administrative Dashboard, select Posts or Pages and then click on a title or hover or an item and click on "Edit." The content editor may be available for other content items, such as custom post types (e.g., Staff, Event, Portfolio), but that depends upon the theme, plugin, or developer customization.
+The content editor is available when editing a Post or Page. In the backend administrative Dashboard, select Posts or Pages and then click on a title or hover over an item and click on "Edit." The content editor may be available for other content items, such as custom post types (e.g. Staff, Event, Portfolio), but that depends upon the theme, plugin, or developer customization.
 
-When it comes to styling the text in the content, you select the text to style and then click the appropriate button on the toolbar to apply the style. Some text operations only work properly if there is a paragraph break **both above and below** the text being styled. These are called block elements and they include: paragraphs, headings, bulleted lists, numbered lists, horizontal lines, and blockquotes. (Otherwise it is known as an inline element.) Knowing how to work with block elements makes for a much more satisfying experience when using the editor. For example, for paragraph alignment, your cursor simply needs to be somewhere in the paragraph that is to be aligned.
+When it comes to styling the text in the content, you select the text to style and then click the appropriate button on the toolbar to apply the style. Some text operations only work properly if there is a paragraph break **both above and below** the text being styled. These are called block elements and they include: paragraphs, headings, bulleted lists, numbered lists, horizontal lines, and blockquotes (Otherwise it is known as an inline element). Knowing how to work with block elements makes for a much more satisfying experience when using the editor. For example, for paragraph alignment, your cursor simply needs to be somewhere in the paragraph that is to be aligned.
 
 **The edits you make to your text only appear on your site after you click the "Update" button.** Also, the editor typically displays generic formatting, while the frontend of the website will apply the full, complete formatting based on the theme.
 
@@ -201,7 +199,7 @@ The editor has four modes of viewing available.
 
 Heading tags are in a drop-down list and the first item in the toolbar. Heading tags are usually applied to short phrases or single words that organize content in an outline format that is more readable and appealing to users. Heading tags are also important for search engines, as they indicate a high-level outline of the overall content.
 
-Heading 1 is a top-level tag in the outline of the content that is typically used for the Title of a page or post. It is a best practice to have only one Heading 1 tag on a webpage and therefore you should avoid using it within your content unless there is a specific reason to do so. Heading 2 is a second-level tag that can be used to denote sections of the content. Heading 3 is a third-level tag within a section that begins with a Heading 2 tag. And, this pattern continues all the way down to the lowest level with Heading 6.
+Heading 1 is a top-level tag in the outline of the content that is typically used for the Title of a page or post. It is best practice to have only one Heading 1 tag on a webpage and therefore you should avoid using it within your content unless there is a specific reason to do so. Heading 2 is a second-level tag that can be used to denote sections of the content. Heading 3 is a third-level tag within a section that begins with a Heading 2 tag, this pattern continues all the way down to the lowest level with Heading 6.
 
 ### Text Styles
 
@@ -209,9 +207,9 @@ Heading 1 is a top-level tag in the outline of the content that is typically us
 
 The first two buttons in the toolbar are basic styles for the copy in your post. You see these style options in many word processing programs and they can be used on individual words, entire sentences, complete paragraphs, or an entire document.
 
-**Bold**: **Bolds text** (select the text and click the Bold button - or press cmd+b (Mac), ctl+b (PC) on your keyboard)
+**Bold**: **Bolds text** (select the text and click the Bold button; or press cmd+b (Mac); or ctl+b (PC) on your keyboard)
 
-**Italic**: _Italicizes text_ (select the text and click the Italic button - or press cmd+i (Mac), ctl+i (PC) on your keyboard). You can also apply both _**bold and italic**_ styles to the same text by selecting the text and clicking both the Bold and Italic buttons.
+**Italic**: _Italicizes text_ (select the text and click the Italic button; or press cmd+i (Mac); or ctl+i (PC) on your keyboard). You can also apply both _**bold and italic**_ styles to the same text by selecting the text and clicking both the Bold and Italic buttons.
 
 ### Text Formatting
 
@@ -224,9 +222,9 @@ The next three buttons on the toolbar offer formatting for block elements. Remem
 Unordered lists should be used for items that are in no particular order (where the sequence doesn't matter).
 
 _Example:_
-*   plugins
-*   themes
-*   pages
+*   Plugins
+*   Themes
+*   Pages
 
 You can also remove the bullets from a list by selecting the entire list and click the bulleted list icon.
 
@@ -235,22 +233,22 @@ You can also remove the bullets from a list by selecting the entire list and cl
 Ordered lists should be used for items that are in a particular order (where the sequence matters). They can also be useful for longer lists as it makes it easier to reference a specific item in the list.
 
 _Example:_
-1.  red
-2.  green
-3.  blue
+1.  Red
+2.  Green
+3.  Blue
 
-> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Nested lists are also possible, including mixed nested lists. place your cursor after the last character of the list item that will start the sub-list and press return on your keyboard.  Then click the Increase Indent button (in the bottom set of buttons on your toolbar) to start your sub-list.  Notice that the bullets in front of to the sub-list items look different. You can also make sub-lists below your sub-lists, but the bullets will start to all look the same.
+> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Nested lists are also possible, including mixed nested lists. Place your cursor after the last character of the list item that will start the sub-list and press return on your keyboard.  Then click the Increase Indent button (in the bottom set of buttons on your toolbar) to start your sub-list.  Notice that the bullets in front of to the sub-list items look different. You can also make sub-lists below your sub-lists, but the bullets will start to all look the same.
 
 _Example:_
-*   plugins
+*   Plugins
 	1. Akismet
 	2. Hello Dolly
 	3. Jetpack
-*   themes
+*   Themes
     *   Twenty Thirteen
     *   Twenty Fourteen
     *   Kubrick
-*   pages
+*   Pages
 
 #### Blockquote
 
@@ -286,13 +284,13 @@ When writing posts, you may want to create a link to outside content or other co
 
 #### Insert/edit link
 
-Select the word(s) that you'd like to link. Click the "Insert/edit link" icon and a popup window will appear. There you'll be able to add a fully formed URL to a page that's not on your site or a link to a page within your website. You'll also be able to decide whether you want the link to open the page in a new browser tab or open the linked page within the same browser window. It is also possible to highlight the text you would like to link and paste the link directly over it to make an automatic link.
+Select the word(s) that you would like to link. Click the "Insert/edit link" icon and a popup window will appear. There you will be able to add a fully formed URL to a page that's not on your site or a link to a page within your website. You will also be able to decide whether you want the link to open the page in a new browser tab or open the linked page within the same browser window. It is also possible to highlight the text you would like to link and paste the link directly over it to make an automatic link.
 
 _Examples:_
 
 [Opens the link in the same browser window](https://wordpress.org)
 
-<a href="https://wordpress.org" target="_blank">Opens the link in a new browser window</a>
+[Opens the link in a new browser window. CTRL + click on the link](https://wordpress.org)
 
 #### Remove link
 
@@ -308,7 +306,7 @@ The Read More tag allows the user to determine where they would like the text on
 
 ![Strikethrough button](/images/content-editor-strikethrough-button.png)
 
-<del>Draws a strikethrough line over the text</del> (select the text and click the Strikethrough button -- or press shift+alt+d on your keyboard)
+<del>Draws a strikethrough line over the text</del> (select the text and click the Strikethrough button; or press shift+alt+d on your keyboard)
 
 ### Horizontal Line
 
@@ -328,7 +326,7 @@ You can change the color of the text by clicking this button and choosing from t
 
 ![Clear Formatting button](/images/content-editor-clear-formatting-button.png)
 
-You may need to remove formatting that you've added, and sometimes you may need to remove formatting when copying and pasting content from other sources.
+You may need to remove formatting that you previously added, and sometimes you may need to remove formatting when copying and pasting content from other sources.
 
 ### Paste as text
 
@@ -374,320 +372,174 @@ WordPress retains the last action you performed, either typing or with the toolb
 
 ![Keyboard Shortcuts button](/images/content-editor-keyboard-shortcuts-button.png)
 
-You can use a combination of keys to do things that normally need a mouse, trackpad, or other input devices. Rather than reaching for your mouse to click on the toolbar, you can use keyboard shortcuts, which are displayed in a popup window when you click the Keyboard Shortcuts button or press shift-alt-h.
+You can use a combination of keys to do things that normally need a mouse, trackpad, or other input devices. Rather than reaching for your mouse to click on the toolbar, you can use keyboard shortcuts, which are displayed in a popup window when you click the Keyboard Shortcuts button; or press shift-alt-h.
 
-Windows and Linux use "Ctrl + letter", Mac uses "Command (⌘) + letter".
+* Windows and Linux use "Ctrl + letter"
+* Mac uses "Command (⌘) + letter"
 
 #### Default shortcuts
 
 **Ctrl/Command + key**
 
 <table class="wikitable">
-
-<tbody>
-
-<tr>
-
-<th>Letter</th>
-
-<th>Action</th>
-
-</tr>
-
-<tr>
-
-<td>c</td>
-
-<td>Copy</td>
-
-</tr>
-
-<tr>
-
-<td>v</td>
-
-<td>Paste</td>
-
-</tr>
-
-<tr>
-
-<td>a</td>
-
-<td>Select all</td>
-
-</tr>
-
-<tr>
-
-<td>x</td>
-
-<td>Cut</td>
-
-</tr>
-
-<tr>
-
-<td>z</td>
-
-<td>Undo</td>
-
-</tr>
-
-<tr>
-
-<td>y</td>
-
-<td>Redo</td>
-
-</tr>
-
-<tr>
-
-<td>b</td>
-
-<td>Bold</td>
-
-</tr>
-
-<tr>
-
-<td>i</td>
-
-<td>Italic</td>
-
-</tr>
-
-<tr>
-
-<td>u</td>
-
-<td>Underline</td>
-
-</tr>
-
-<tr>
-
-<td>k</td>
-
-<td>Insert/edit link</td>
-
-</tr>
-
-</tbody>
-
+	<tbody>
+		<tr>
+			<th>Letter</th>
+			<th>Action</th>
+		</tr>
+		<tr>
+			<td>c</td>
+			<td>Copy</td>
+		</tr>
+		<tr>
+			<td>v</td>
+			<td>Paste</td>
+		</tr>
+		<tr>
+			<td>a</td>
+			<td>Select all</td>
+		</tr>
+		<tr>
+			<td>x</td>
+			<td>Cut</td>
+		</tr>
+		<tr>
+			<td>z</td>
+			<td>Undo</td>
+		</tr>
+		<tr>
+			<td>y</td>
+			<td>Redo</td>
+		</tr>
+		<tr>
+			<td>b</td>
+			<td>Bold</td>
+		</tr>
+		<tr>
+			<td>i</td>
+			<td>Italic</td>
+		</tr>
+		<tr>
+			<td>u</td>
+			<td>Underline</td>
+		</tr>
+		<tr>
+			<td>k</td>
+			<td>Insert/edit link</td>
+		</tr>
+	</tbody>
 </table>
 
 #### Additional shortcuts
 
-**Alt + Shift + key** The following shortcuts use a different key combination: Windows/Linux: "Alt + Shift (⇧) + letter". Mac: "Ctrl + Option (alt ⌥) + letter". (Macs running any WordPress version below 4.2 use "Alt + Shift (⇧) + letter").
+**Alt + Shift + key** The following shortcuts use a different key combination:
+
+* Windows and Linux use "Alt + Shift (⇧) + letter"
+* Mac uses "Ctrl + Option (alt ⌥) + letter" (Macs running any WordPress version below 4.2 use "Alt + Shift (⇧) + letter")
 
 <table>
-
-<tbody>
-
-<tr>
-
-<th>Letter</th>
-
-<th>Action</th>
-
-</tr>
-
-<tr>
-
-<td>n</td>
-
-<td>Check Spelling (This requires a plugin.)</td>
-
-</tr>
-
-<tr>
-
-<td>l</td>
-
-<td>Align Left</td>
-
-</tr>
-
-<tr>
-
-<td>j</td>
-
-<td>Justify Text</td>
-
-</tr>
-
-<tr>
-
-<td>c</td>
-
-<td>Align Center</td>
-
-</tr>
-
-<tr>
-
-<td>d</td>
-
-<td>Strikethrough</td>
-
-</tr>
-
-<tr>
-
-<td>r</td>
-
-<td>Align Right</td>
-
-</tr>
-
-<tr>
-
-<td>u</td>
-
-<td>• List</td>
-
-</tr>
-
-<tr>
-
-<td>a</td>
-
-<td>Insert link</td>
-
-</tr>
-
-<tr>
-
-<td>o</td>
-
-<td>1\. List</td>
-
-</tr>
-
-<tr>
-
-<td>s</td>
-
-<td>Remove link</td>
-
-</tr>
-
-<tr>
-
-<td>q</td>
-
-<td>Quote</td>
-
-</tr>
-
-<tr>
-
-<td>m</td>
-
-<td>Insert Image</td>
-
-</tr>
-
-<tr>
-
-<td>w</td>
-
-<td>Distraction Free Writing mode</td>
-
-</tr>
-
-<tr>
-
-<td>t</td>
-
-<td>Insert More Tag</td>
-
-</tr>
-
-<tr>
-
-<td>p</td>
-
-<td>Insert Page Break tag</td>
-
-</tr>
-
-<tr>
-
-<td>h</td>
-
-<td>Help</td>
-
-</tr>
-
-<tr>
-
-<td>x</td>
-
-<td>Add/remove code tag</td>
-
-</tr>
-
-<tr>
-
-<td>1</td>
-
-<td>Heading 1</td>
-
-</tr>
-
-<tr>
-
-<td>2</td>
-
-<td>Heading 2</td>
-
-</tr>
-
-<tr>
-
-<td>3</td>
-
-<td>Heading 3</td>
-
-</tr>
-
-<tr>
-
-<td>4</td>
-
-<td>Heading 4</td>
-
-</tr>
-
-<tr>
-
-<td>5</td>
-
-<td>Heading 5</td>
-
-</tr>
-
-<tr>
-
-<td>6</td>
-
-<td>Heading 6</td>
-
-</tr>
-
-<tr>
-
-<td>9</td>
-
-<td>Address</td>
-
-</tr>
-
-</tbody>
-
+	<tbody>
+		<tr>
+			<th>Letter</th>
+			<th>Action</th>
+		</tr>
+		<tr>
+			<td>n</td>
+			<td>Check Spelling (This requires a plugin)</td>
+		</tr>
+		<tr>
+			<td>l</td>
+			<td>Align Left</td>
+		</tr>
+		<tr>
+			<td>j</td>
+			<td>Justify Text</td>
+		</tr>
+		<tr>
+			<td>c</td>
+			<td>Align Center</td>
+		</tr>
+		<tr>
+			<td>d</td>
+			<td>Strikethrough</td>
+		</tr>
+		<tr>
+			<td>r</td>
+			<td>Align Right</td>
+		</tr>
+		<tr>
+			<td>u</td>
+			<td>• List</td>
+		</tr>
+		<tr>
+			<td>a</td>
+			<td>Insert link</td>
+		</tr>
+		<tr>
+			<td>o</td>
+			<td>1. List</td>
+		</tr>
+		<tr>
+			<td>s</td>
+			<td>Remove link</td>
+		</tr>
+		<tr>
+			<td>q</td>
+			<td>Quote</td>
+		</tr>
+		<tr>
+			<td>m</td>
+			<td>Insert Image</td>
+		</tr>
+		<tr>
+			<td>w</td>
+			<td>Distraction Free Writing mode</td>
+		</tr>
+		<tr>
+			<td>t</td>
+			<td>Insert More Tag</td>
+		</tr>
+		<tr>
+			<td>p</td>
+			<td>Insert Page Break tag</td>
+		</tr>
+		<tr>
+			<td>h</td>
+			<td>Help</td>
+		</tr>
+		<tr>
+			<td>x</td>
+			<td>Add/remove code tag</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>Heading 1</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Heading 2</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>Heading 3</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>Heading 4</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>Heading 5</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>Heading 6</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>Address</td>
+		</tr>
+	</tbody>
 </table>
 
 #### Formatting shortcuts
@@ -695,179 +547,98 @@ Windows and Linux use "Ctrl + letter", Mac uses "Command (⌘) + letter".
 When starting a new paragraph with one of these formatting shortcuts followed by a space, the formatting will be applied automatically. Press Backspace or Escape to undo.
 
 <table>
-
-<tbody>
-
-<tr>
-
-<th>Letter</th>
-
-<th>Action</th>
-
-</tr>
-
-<tr>
-
-<td>*</td>
-
-<td>Start an unordered list</td>
-
-</tr>
-
-<tr>
-
-<td>-</td>
-
-<td>Start an unordered list</td>
-
-</tr>
-
-<tr>
-
-<td>1.</td>
-
-<td>Start an ordered list</td>
-
-</tr>
-
-<tr>
-
-<td>1)</td>
-
-<td>Start an ordered list</td>
-
-</tr>
-
-</tbody>
-
+	<tbody>
+		<tr>
+			<th>Letter</th>
+			<th>Action</th>
+		</tr>
+		<tr>
+			<td>*</td>
+			<td>Start an unordered list</td>
+		</tr>
+		<tr>
+			<td>-</td>
+			<td>Start an unordered list</td>
+		</tr>
+		<tr>
+			<td>1.</td>
+			<td>Start an ordered list</td>
+		</tr>
+		<tr>
+			<td>1)</td>
+			<td>Start an ordered list</td>
+		</tr>
+	</tbody>
 </table>
 
 The following formatting shortcuts are replaced when pressing Enter. Press Escape or the Undo button to undo.
 
 <table>
-
-<tbody>
-
-<tr>
-
-<th>Letter</th>
-
-<th>Action</th>
-
-</tr>
-
-<tr>
-
-<td>##</td>
-
-<td>H2</td>
-
-</tr>
-
-<tr>
-
-<td>###</td>
-
-<td>H3</td>
-
-</tr>
-
-<tr>
-
-<td>####</td>
-
-<td>H4</td>
-
-</tr>
-
-<tr>
-
-<td>#####</td>
-
-<td>H5</td>
-
-</tr>
-
-<tr>
-
-<td>######</td>
-
-<td>H6</td>
-
-</tr>
-
-<tr>
-
-<td>></td>
-
-<td>transform text into blockquote</td>
-
-</tr>
-
-<tr>
-
-<td>---</td>
-
-<td>horizontal line</td>
-
-</tr>
-
-<tr>
-
-<td>``..``</td>
-
-<td>transform text into code block</td>
-
-</tr>
-
-</tbody>
-
+	<tbody>
+		<tr>
+			<th>Letter</th>
+			<th>Action</th>
+		</tr>
+		<tr>
+			<td>##</td>
+			<td>H2</td>
+		</tr>
+		<tr>
+			<td>###</td>
+			<td>H3</td>
+		</tr>
+		<tr>
+			<td>####</td>
+			<td>H4</td>
+		</tr>
+		<tr>
+			<td>#####</td>
+			<td>H5</td>
+		</tr>
+		<tr>
+			<td>######</td>
+			<td>H6</td>
+		</tr>
+		<tr>
+			<td>></td>
+			<td>transform text into blockquote</td>
+		</tr>
+		<tr>
+			<td>---</td>
+			<td>horizontal line</td>
+		</tr>
+		<tr>
+			<td>``..``</td>
+			<td>transform text into code block</td>
+		</tr>
+	</tbody>
 </table>
 
 #### Focus shortcuts
 
 <table class="wp-help-single">
-
-<tbody>
-
-<tr>
-
-<td><kbd>Alt + F8</kbd></td>
-
-<td>Inline toolbar (when an image, link or preview is selected)</td>
-
-</tr>
-
-<tr>
-
-<td><kbd>Alt + F9</kbd></td>
-
-<td>Editor menu (when enabled)</td>
-
-</tr>
-
-<tr>
-
-<td><kbd>Alt + F10</kbd></td>
-
-<td>Editor toolbar</td>
-
-</tr>
-
-<tr>
-
-<td><kbd>Alt + F11</kbd></td>
-
-<td>Elements path</td>
-
-</tr>
-
-</tbody>
-
+	<tbody>
+		<tr>
+			<td><kbd>Alt + F8</kbd></td>
+			<td>Inline toolbar (when an image, link, or preview is selected)</td>
+		</tr>
+		<tr>
+			<td><kbd>Alt + F9</kbd></td>
+			<td>Editor menu (when enabled)</td>
+		</tr>
+		<tr>
+			<td><kbd>Alt + F10</kbd></td>
+			<td>Editor toolbar</td>
+		</tr>
+		<tr>
+			<td><kbd>Alt + F11</kbd></td>
+			<td>Elements path</td>
+		</tr>
+	</tbody>
 </table>
 
 To move focus to other buttons use Tab or the arrow keys. To return focus to the editor press Escape or use one of the buttons.
 
 ### Lesson Wrap Up
 
-> ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with exercises and assessment outlined above.
+![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Follow with exercises and assessment outlined above.
