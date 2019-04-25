@@ -8,13 +8,13 @@ In this lesson you will learn how to structure and format content for the web in
 
 After completing this lesson, participants will be able to:
 
-*   Recognize the need to structure and format content for the web.
-*   Choose toolbar and screen modes.
-*   Identify toolbar features for formatting content.
-*   Apply WYSIWYG formatting to content.
-*   Add links to content.
-*   Add content from other sources.
-*   Insert symbols and special characters.
+* Recognize the need to structure and format content for the web.
+* Choose toolbar and screen modes.
+* Identify toolbar features for formatting content.
+* Apply WYSIWYG formatting to content.
+* Add links to content.
+* Add content from other sources.
+* Insert symbols and special characters.
 
 ## Target Audience
 
@@ -55,17 +55,17 @@ Which strategies will be used for this lesson plan? Choose all that apply.
 
 Participants will get the most from this lesson if they have familiarity with:
 
-*   Ability to use a general text editor
-*   Interest in creating and formatting web content
-*   Basic familiarity with the [WordPress Dashboard](https://github.com/wptrainingteam/dashboard-overview)
+* Ability to use a general text editor
+* Interest in creating and formatting web content
+* Basic familiarity with the [WordPress Dashboard](https://github.com/wptrainingteam/dashboard-overview)
 
 ## Readiness Questions
 
 Have you used any WYSIWYG editors such as:
 
-*   An email program with a text editor?
-*   Microsoft Word?
-*   Google Docs?
+* An email program with a text editor?
+* Microsoft Word?
+* Google Docs?
 
 ## Slides
 
@@ -73,17 +73,17 @@ Have you used any WYSIWYG editors such as:
 
 ## Materials Needed
 
-*   A way to display your computer to the group.
-*   A WordPress site that you can show:
-*	[Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) for sample content, if needed.
+* A way to display your computer to the group.
+* A WordPress site that you can show:
+* [Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) for sample content, if needed.
 
 ## Notes for the Instructor
 
-*   **No slides are available for this lesson as it is mostly demonstration.**
-*   Students should import the [Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) if they do not have sufficient content to work with.
-*   Be prepared to explain the basics of structured text, distinguishing between block elements and inline elements, so that students do not get frustrated attempting to apply excessive manual formatting.
-*   Be prepared to explain the difference between a paragraph break (press the return/enter key) and a line break (press shift key + return/enter key) for proper paragraph structuring.
-*  Students could try to work in the Text editor instead of the Visual editor. You may wish to go over Text editor as well.
+* **No slides are available for this lesson as it is mostly demonstration.**
+* Students should import the [Theme Unit Test Data](https://wpcom-themes.svn.automattic.com/demo/theme-unit-test-data.xml) if they do not have sufficient content to work with.
+* Be prepared to explain the basics of structured text, distinguishing between block elements and inline elements, so that students do not get frustrated attempting to apply excessive manual formatting.
+* Be prepared to explain the difference between a paragraph break (press the return/enter key) and a line break (press shift key + return/enter key) for proper paragraph structuring.
+* Students could try to work in the Text editor instead of the Visual editor. You may wish to go over Text editor as well.
 
 ## Lesson Outline
 
@@ -110,36 +110,36 @@ Using either [lorem ipsum text](https://www.lipsum.com/) or existing copy, have 
 
 **What is the name of the collection of buttons inside the content editor?**
 
-1.  WYSIWYG
-2.  The visual editor
-3.  The toolbar
-4.  The button bar
+1. WYSIWYG
+2. The visual editor
+3. The toolbar
+4. The button bar
 
 **Answer:** 3. The toolbar
 
 **Why is the proper formatting of the content within a blog post important?**
 
 1. It looks better and is easier to read
-1. It's easier for search engines to understand the page
-1. It makes the information more accessible and mobile friendly
-1. It helps organize the information
-1. All of the above
+2. It's easier for search engines to understand the page
+3. It makes the information more accessible and mobile friendly
+4. It helps organize the information
+5. All of the above
 
 **Answer:** 5. All of the above
 
 **Can a blockquote be applied to a sentence in a paragraph?**
 
-1.  Yes
-2.  No
+1. Yes
+2. No
 
 **Answer:** 2. No. It is a block element and applies to the entire paragraph.
 
 **What does the toolbar toggle allow a user to do?**
 
-1.  Add a break in the text
-2.  Allow the user to move between Visual and Text editing modes
-3.  Reveals/hides the 2nd row of buttons in the toolbar
-4.  Move a block of text to the right
+1. Add a break in the text
+2. Allow the user to move between Visual and Text editing modes
+3. Reveals/hides the 2nd row of buttons in the toolbar
+4. Move a block of text to the right
 
 **Answer:** 3. Reveals/hides the 2nd row of buttons in the toolbar
 
@@ -222,9 +222,9 @@ The next three buttons on the toolbar offer formatting for block elements. Remem
 Unordered lists should be used for items that are in no particular order (where the sequence doesn't matter).
 
 _Example:_
-*   Plugins
-*   Themes
-*   Pages
+* Plugins
+* Themes
+* Pages
 
 You can also remove the bullets from a list by selecting the entire list and click the bulleted list icon.
 
@@ -233,22 +233,22 @@ You can also remove the bullets from a list by selecting the entire list and cl
 Ordered lists should be used for items that are in a particular order (where the sequence matters). They can also be useful for longer lists as it makes it easier to reference a specific item in the list.
 
 _Example:_
-1.  Red
-2.  Green
-3.  Blue
+1. Red
+2. Green
+3. Blue
 
 > ![](https://raw.githubusercontent.com/wptrainingteam/contributor-resources/master/images/lightbulb.png) Nested lists are also possible, including mixed nested lists. Place your cursor after the last character of the list item that will start the sub-list and press return on your keyboard.  Then click the Increase Indent button (in the bottom set of buttons on your toolbar) to start your sub-list.  Notice that the bullets in front of to the sub-list items look different. You can also make sub-lists below your sub-lists, but the bullets will start to all look the same.
 
 _Example:_
-*   Plugins
+* Plugins
 	1. Akismet
 	2. Hello Dolly
 	3. Jetpack
-*   Themes
-    *   Twenty Thirteen
-    *   Twenty Fourteen
-    *   Kubrick
-*   Pages
+* Themes
+    1. Twenty Thirteen
+    2. Twenty Fourteen
+    3. Kubrick
+* Pages
 
 #### Blockquote
 
